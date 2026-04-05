@@ -1,0 +1,11 @@
+Domain,Title,arXiv_ID
+CS,Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context architectures,1901.02860
+CS,Sparse Transformers for Long Contexts,UNKNOWN
+CS,Reformer: The Efficient Transformer architecture,2001.04451
+CS,Longformer: The Long-Document Transformer mechanism,2004.05150
+CS,Linformer: Self-Attention with Linear Complexity scaling,2006.04768
+CS,Perceiver: General Perception with Iterative Attention methodology,2103.03206
+CS,Perceiver IO: A General Architecture for Structured Inputs and Outputs,2107.14795
+CS,A ConvNet for the 2020s paradigm,2201.03545
+CS,MLP-Mixer: An all-MLP Architecture for Vision recognition,2105.01601
+CS,Masked Autoencoders Are Scalable Vision Learners,2111.06377

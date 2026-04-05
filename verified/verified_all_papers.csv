@@ -1,0 +1,1001 @@
+Domain,Title,arXiv_ID,Status
+CS,Attention Is All You Need,1706.03762,VERIFIED
+CS,Adam: A Method for Stochastic Optimization,1412.6980,VERIFIED
+CS,Deep Residual Learning for Image Recognition,1512.03385,VERIFIED
+CS,Generative Adversarial Networks,1406.2661,TITLE_MISMATCH
+CS,BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,1810.04805,VERIFIED
+CS,Playing Atari with Deep Reinforcement Learning,1312.5602,VERIFIED
+CS,Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm,1712.01815,TITLE_MISMATCH
+CS,Language Models are Few-Shot Learners,2005.14165,VERIFIED
+CS,Improving neural networks by preventing co-adaptation of feature detectors,1207.0580,TITLE_MISMATCH
+CS,Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift,1502.03167,VERIFIED
+CS,Auto-Encoding Variational Bayes,1312.6114,VERIFIED
+CS,Show and Tell: A Neural Image Caption Generator,1411.4555,VERIFIED
+CS,Sequence to Sequence Learning with Neural Networks,1409.3215,VERIFIED
+CS,Neural Machine Translation by Jointly Learning to Align and Translate,1409.0473,VERIFIED
+CS,Efficient Estimation of Word Representations in Vector Space,1301.3781,VERIFIED
+CS,Distributed Representations of Words and Phrases and their Compositionality,1310.4546,VERIFIED
+CS,Very Deep Convolutional Networks for Large-Scale Image Recognition,1409.1556,VERIFIED
+CS,Going Deeper with Convolutions,1409.4842,VERIFIED
+CS,U-Net: Convolutional Networks for Biomedical Image Segmentation,1505.04597,VERIFIED
+CS,Mask R-CNN,1703.06870,VERIFIED
+CS,Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks,1506.01497,VERIFIED
+CS,"You Only Look Once: Unified, Real-Time Object Detection",1506.02640,VERIFIED
+CS,SSD: Single Shot MultiBox Detector,1512.02325,VERIFIED
+CS,XGBoost: A Scalable Tree Boosting System,1603.02754,VERIFIED
+CS,Semi-Supervised Classification with Graph Convolutional Networks,1609.02907,VERIFIED
+CS,Graph Attention Networks,1710.10903,VERIFIED
+CS,Inductive Representation Learning on Large Graphs,1706.02216,VERIFIED
+CS,Semi-Supervised Classification with Graph Convolutional Networks,1609.02907,VERIFIED
+CS,Deep Reinforcement Learning with Double Q-learning,1509.06461,VERIFIED
+CS,Continuous control with deep reinforcement learning,1509.02971,VERIFIED
+CS,Asynchronous Methods for Deep Reinforcement Learning,1602.01783,VERIFIED
+CS,Proximal Policy Optimization Algorithms,1707.06347,VERIFIED
+CS,Neural Turing Machines,1410.5401,VERIFIED
+CS,Memory Networks,1410.3916,VERIFIED
+CS,End-To-End Memory Networks,1503.08895,VERIFIED
+CS,Pointer Networks,1506.03134,VERIFIED
+CS,A Neural Conversational Model,1506.05869,VERIFIED
+CS,GloVe: Global Vectors for Word Representation,UNKNOWN,NO_ID
+CS,Deep contextualized word representations,1802.05365,VERIFIED
+CS,RoBERTa: A Robustly Optimized BERT Pretraining Approach,1907.11692,VERIFIED
+CS,ALBERT: A Lite BERT for Self-supervised Learning of Language Representations,1909.11942,VERIFIED
+CS,Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer,1910.10683,VERIFIED
+CS,"DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter",1910.01108,VERIFIED
+CS,Semantic Image Synthesis with Spatially-Adaptive Normalization,1903.07291,VERIFIED
+CS,A Style-Based Generator Architecture for Generative Adversarial Networks,1812.04948,VERIFIED
+CS,Analyzing and Improving the Image Quality of StyleGAN,1912.04958,VERIFIED
+CS,Continuous control with deep reinforcement learning,1509.02971,VERIFIED
+CS,Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor,1801.01290,VERIFIED
+CS,Playing Atari with Deep Reinforcement Learning,1312.5602,VERIFIED
+CS,Wasserstein GAN,1701.07875,VERIFIED
+CS,Improved Training of Wasserstein GANs,1704.00028,VERIFIED
+CS,Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks,1703.10593,VERIFIED
+CS,Image-to-Image Translation with Conditional Adversarial Networks,1611.07004,VERIFIED
+CS,AlexNet: ImageNet Classification with Deep Convolutional Neural Networks,UNKNOWN,NO_ID
+CS,Very Deep Convolutional Networks for Large-Scale Image Recognition,1409.1556,VERIFIED
+CS,Going Deeper with Convolutions,1409.4842,VERIFIED
+CS,Aggregated Residual Transformations for Deep Neural Networks,1611.05431,VERIFIED
+CS,Densely Connected Convolutional Networks,1608.06993,VERIFIED
+CS,MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications,1704.04861,VERIFIED
+CS,MobileNetV2: Inverted Residuals and Linear Bottlenecks,1801.04381,VERIFIED
+CS,EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks,1905.11946,VERIFIED
+CS,SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size,1602.07360,VERIFIED
+CS,Neural Architecture Search with Reinforcement Learning,1611.01578,VERIFIED
+CS,DARTS: Differentiable Architecture Search,1806.09055,VERIFIED
+CS,Efficient Neural Architecture Search via Parameter Sharing,1802.03268,VERIFIED
+CS,Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks,1703.03400,VERIFIED
+CS,Prototypical Networks for Few-shot Learning,1703.05175,VERIFIED
+CS,Matching Networks for One Shot Learning,1606.04080,VERIFIED
+CS,On First-Order Meta-Learning Algorithms,1803.02999,VERIFIED
+CS,On the $\infty$-categorical Whitehead theorem and the embedding of quasicategories in prederivators,1612.06980,TITLE_MISMATCH
+CS,Siamese Neural Networks for One-shot Image Recognition,UNKNOWN,NO_ID
+CS,Communication-Efficient Learning of Deep Networks from Decentralized Data,1602.05629,VERIFIED
+CS,Advances and Open Problems in Federated Learning,1912.04977,VERIFIED
+CS,Differentially Private Stochastic Gradient Descent,UNKNOWN,NO_ID
+CS,Deep Learning with Differential Privacy,1607.00133,VERIFIED
+CS,Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data,1610.05755,VERIFIED
+CS,Adversarial examples in the physical world,1607.02533,VERIFIED
+CS,Explaining and Harnessing Adversarial Examples,1412.6572,VERIFIED
+CS,Towards Evaluating the Robustness of Neural Networks,1608.04644,VERIFIED
+CS,DeepFool: a simple and accurate method to fool deep neural networks,1511.04599,VERIFIED
+CS,Universal adversarial perturbations,1610.08401,VERIFIED
+CS,Certifying Some Distributional Robustness with Principled Adversarial Training,1710.10571,VERIFIED
+CS,"""Why Should I Trust You?"": Explaining the Predictions of Any Classifier",1602.04938,VERIFIED
+CS,A Unified Approach to Interpreting Model Predictions,1705.07874,VERIFIED
+CS,Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization,1610.02391,VERIFIED
+CS,Axiomatic Attribution for Deep Networks,1703.01365,VERIFIED
+CS,Understanding Black-box Predictions via Influence Functions,1703.04730,VERIFIED
+CS,Neural Ordinary Differential Equations,1806.07366,VERIFIED
+CS,NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis,2003.08934,VERIFIED
+CS,Denoising Diffusion Probabilistic Models,2006.11239,VERIFIED
+CS,High-Resolution Image Synthesis with Latent Diffusion Models,2112.10752,VERIFIED
+CS,Learning Transferable Visual Models From Natural Language Supervision,2103.00020,VERIFIED
+CS,DALL-E: Zero-Shot Text-to-Image Generation,2102.12092,ID_NOT_FOUND
+CS,An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale,2010.11929,VERIFIED
+CS,Swin Transformer: Hierarchical Vision Transformer using Shifted Windows,2103.14030,ID_NOT_FOUND
+CS,WaveNet: A Generative Model for Raw Audio,1609.03499,ID_NOT_FOUND
+CS,Tacotron 2: Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions,1712.05884,ID_NOT_FOUND
+CS,Deep Speech 2: End-to-End Speech Recognition in English and Mandarin,1512.02595,ID_NOT_FOUND
+CS,HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units,2106.07447,ID_NOT_FOUND
+CS,AlphaFold: Highly accurate protein structure prediction with AlphaFold,UNKNOWN,NO_ID
+CS,AlphaStar: Mastering the Real-Time Strategy Game StarCraft II,UNKNOWN,NO_ID
+CS,MuZero: Mastering Atari Go Chess and Shogi by Planning with a Learned Model,1911.08265,ID_NOT_FOUND
+CS,InstructGPT: Training language models to follow instructions with human feedback,2203.02155,ID_NOT_FOUND
+CS,RLHF: Deep Reinforcement Learning from Human Preferences,1706.03741,ID_NOT_FOUND
+CS,LoRA: Low-Rank Adaptation of Large Language Models,2106.09685,ID_NOT_FOUND
+CS,FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness,2205.14135,ID_NOT_FOUND
+CS,Chinchilla: Training Compute-Optimal Large Language Models,2203.15556,ID_NOT_FOUND
+CS,PaLM: Scaling Language Modeling with Pathways,2204.02311,ID_NOT_FOUND
+CS,OPT: Open Pre-trained Transformer Language Models,2205.01068,ID_NOT_FOUND
+CS,LLaMA: Open and Efficient Foundation Language Models,2302.13971,VERIFIED
+CS,Chain-of-Thought Prompting Elicits Reasoning in Large Language Models,2201.11903,VERIFIED
+CS,Self-Consistency Improves Chain of Thought Reasoning in Language Models,2203.11171,ID_NOT_FOUND
+CS,ReAct: Synergizing Reasoning and Acting in Language Models,2210.03629,ID_NOT_FOUND
+CS,AutoGPT: Autonomous Agents for Language Models,UNKNOWN,NO_ID
+CS,Generative Agents: Interactive Simulacra of Human Behavior,2304.03442,ID_NOT_FOUND
+CS,Voyager: An Open-Ended Embodied Agent with Large Language Models,2305.16291,ID_NOT_FOUND
+CS,Tree of Thoughts: Deliberate Problem Solving with Large Language Models,2305.10601,ID_NOT_FOUND
+CS,Sparks of Artificial General Intelligence: Early experiments with GPT-4,2303.12712,ID_NOT_FOUND
+CS,Constitutional AI: Harmlessness from AI Feedback,2212.08073,ID_NOT_FOUND
+CS,InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning,2305.06500,ID_NOT_FOUND
+CS,Flamingo: a Visual Language Model for Few-Shot Learning,2204.14198,VERIFIED
+CS,Segment Anything,2304.02643,VERIFIED
+CS,ControlNet: Adding Conditional Control to Text-to-Image Diffusion Models,2302.05543,ID_NOT_FOUND
+Math,The entropy formula for the Ricci flow and its geometric applications,math,ID_NOT_FOUND
+Math,Ricci flow with surgery on three-manifolds,math,ID_NOT_FOUND
+Math,Finite extinction time for the solutions to the Ricci flow on certain three-manifolds,math,ID_NOT_FOUND
+Math,The sphere packing problem in dimension 8,1603.04246,ID_NOT_FOUND
+Math,The sphere packing problem in dimension 24,1603.06518,ID_NOT_FOUND
+Math,On large subsets of F_q^n with no three-term arithmetic progression,1605.09223,ID_NOT_FOUND
+Math,Improved bounds for the sunflower lemma,1908.09327,ID_NOT_FOUND
+Math,Induced subgraphs of hypercubes and a proof of the Sensitivity Conjecture,1907.00847,ID_NOT_FOUND
+Math,A proof of the invariant subspace problem for Banach spaces,UNKNOWN,NO_ID
+Math,Fractional intersections of theorems and bounds,UNKNOWN,NO_ID
+Math,On the Twin Prime Conjecture,UNKNOWN,NO_ID
+Math,Bounded gaps between primes,UNKNOWN,NO_ID
+Math,New bounds for the zeros of the Riemann zeta function,UNKNOWN,NO_ID
+Math,A new proof of the existence of invariants,UNKNOWN,NO_ID
+Math,The resolution of singularity for algebraic varieties over fields of characteristic zero,math,ID_NOT_FOUND
+Math,On the local Langlands conjecture for GL(n) over a p-adic local field,math,ID_NOT_FOUND
+Math,The modularity of elliptic curves over Q,math,ID_NOT_FOUND
+Math,Modularity of abelian surfaces,math,ID_NOT_FOUND
+Math,Fermat's Last Theorem for Amicable Numbers,1508.06456,ID_NOT_FOUND
+Math,Proof of the geometric Langlands conjecture,UNKNOWN,NO_ID
+Math,A simple proof of the fundamental theorem of algebra,math,ID_NOT_FOUND
+Math,The Green-Tao Theorem on arbitrary subsets of primes,UNKNOWN,NO_ID
+Math,The primes contain arbitrarily long polynomial progressions,math,ID_NOT_FOUND
+Math,Linear equations in primes,math,ID_NOT_FOUND
+Math,A solution to the Erdos similarity problem,UNKNOWN,NO_ID
+Math,On the Erdos discrepancy problem,1509.05389,ID_NOT_FOUND
+Math,An improvement of the bound for the Erdos distinct distances problem,1011.0824,ID_NOT_FOUND
+Math,Polynomial partitioning and the Erdos distinct distances problem,1011.0824,ID_NOT_FOUND
+Math,A short proof of the Kakeya maximal operator conjecture,UNKNOWN,NO_ID
+Math,The decimation-in-frequency fast Fourier transform,UNKNOWN,NO_ID
+Math,Resolution of the ABC conjecture,UNKNOWN,NO_ID
+Math,Inter-universal Teichmuller Theory I: Construction of Hodge Theaters,UNKNOWN,NO_ID
+Math,Solving the Kadison-Singer Problem,1306.3969,ID_NOT_FOUND
+Math,Interlacing Families II: Mixed Characteristic Polynomials and the Kadison-Singer problem,1306.3969,ID_NOT_FOUND
+Math,A counterexample to the Borsuk conjecture,math,ID_NOT_FOUND
+Math,The chromatic number of the plane is at least 5,1804.02385,ID_NOT_FOUND
+Math,Proof of the strict inequalities for the chromatic number of graphs,UNKNOWN,NO_ID
+Math,The Kepler Conjecture,math,ID_NOT_FOUND
+Math,A formal proof of the Kepler conjecture,1501.02155,ID_NOT_FOUND
+Math,The existence of a complete metric of positive scalar curvature,UNKNOWN,NO_ID
+Math,The Atiyah-Singer index theorem,UNKNOWN,NO_ID
+Math,The Seiberg-Witten equations and applications to the topology of smooth four-manifolds,math,ID_NOT_FOUND
+Math,The Jones polynomial and knots,math,ID_NOT_FOUND
+Math,Khovanov homology,math,ID_NOT_FOUND
+Math,A categorization of the Jones polynomial,math,ID_NOT_FOUND
+Math,The smooth Poincare conjecture in dimension four,UNKNOWN,NO_ID
+Math,The Birch and Swinnerton-Dyer conjecture for elliptic curves,UNKNOWN,NO_ID
+Math,On the Hodge conjecture,UNKNOWN,NO_ID
+Math,The Navier-Stokes existence and smoothness problem,UNKNOWN,NO_ID
+Math,Yang-Mills existence and mass gap,UNKNOWN,NO_ID
+Math,The P versus NP problem,UNKNOWN,NO_ID
+Math,A proof of the weak Goldbach conjecture,1305.2897,ID_NOT_FOUND
+Math,Goldbach's weak conjecture for primes,1305.2897,ID_NOT_FOUND
+Math,The existence of bounded gaps between primes,1305.2897,ID_NOT_FOUND
+Math,Proof of the main conjecture of Iwasawa theory,math,ID_NOT_FOUND
+Math,The Gross-Zagier formula,math,ID_NOT_FOUND
+Math,The L-functions of elliptic curves,math,ID_NOT_FOUND
+Math,The Sato-Tate conjecture,math,ID_NOT_FOUND
+Math,Proof of the Sato-Tate conjecture for an abelian variety,math,ID_NOT_FOUND
+Math,The fundamental lemma for the Langlands program,0801.3507,ID_NOT_FOUND
+Math,A geometric proof of the fundamental lemma,0801.3507,ID_NOT_FOUND
+Math,The Weil conjectures,math,ID_NOT_FOUND
+Math,On the cohomology of algebraic varieties,math,ID_NOT_FOUND
+Math,The arithmetic of elliptic curves,math,ID_NOT_FOUND
+Math,A new method for bounding the ranks of elliptic curves,math,ID_NOT_FOUND
+Math,The structure of finite simple groups,math,ID_NOT_FOUND
+Math,The classification of finite simple groups,math,ID_NOT_FOUND
+Math,The independence of the continuum hypothesis,math,ID_NOT_FOUND
+Physics,First Observation of Gravitational Waves from a Binary Black Hole Merger,1602.03837,ID_NOT_FOUND
+Physics,Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC,1207.7214,ID_NOT_FOUND
+Physics,Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC,1207.7235,ID_NOT_FOUND
+Physics,Discovery of a Superfluid Phase of 3He,cond-mat,ID_NOT_FOUND
+Physics,Bose-Einstein Condensation in a Gas of Sodium Atoms,cond-mat,ID_NOT_FOUND
+Physics,Anti-de Sitter Space and Holography,hep-th,ID_NOT_FOUND
+Physics,The Large N Limit of Superconformal Field Theories and Supergravity,hep-th,ID_NOT_FOUND
+Physics,Planck 2018 results. VI. Cosmological parameters,1807.06209,ID_NOT_FOUND
+Physics,Planck 2015 results. XIII. Cosmological parameters,1502.01589,ID_NOT_FOUND
+Physics,First M87 Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole,1906.11238,ID_NOT_FOUND
+Physics,Observation of High-Energy Astrophysical Neutrinos in Three Years of IceCube Data,1405.5300,ID_NOT_FOUND
+Physics,Evidence for High-Energy Extraterrestrial Neutrinos at the IceCube Detector,1311.5238,ID_NOT_FOUND
+Physics,Measurements of the Higgs boson production and decay rates,1507.04548,ID_NOT_FOUND
+Physics,Search for the standard model Higgs boson,hep-ex,ID_NOT_FOUND
+Physics,High-Tc Superconductivity based on correlated electrons,cond-mat,ID_NOT_FOUND
+Physics,Theory of superconductivity,cond-mat,ID_NOT_FOUND
+Physics,Quantum Computation with Quantum Dots,cond-mat,ID_NOT_FOUND
+Physics,Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer,quant-ph,ID_NOT_FOUND
+Physics,Quantum Supremacy Using a Programmable Superconducting Processor,1910.11333,ID_NOT_FOUND
+Physics,Demonstration of quantum supremacy using random circuit sampling,1910.11333,ID_NOT_FOUND
+Physics,Experimental Realization of Quantum Teleportation,quant-ph,ID_NOT_FOUND
+Physics,Bell's inequalities,quant-ph,ID_NOT_FOUND
+Physics,Loop Quantum Gravity,gr-qc,ID_NOT_FOUND
+Physics,M-Theory as a Matrix Model: A Conjecture,hep-th,ID_NOT_FOUND
+Physics,String Theory and M-Theory,hep-th,ID_NOT_FOUND
+Physics,Topological Insulators and Superconductors,1008.2026,ID_NOT_FOUND
+Physics,Colloquium: Topological insulators,1002.3895,ID_NOT_FOUND
+Physics,The Quantum Spin Hall Effect and Topological Phase Transition in HgTe Quantum Wells,cond-mat,ID_NOT_FOUND
+Physics,Observation of the quantum spin Hall effect,0705.1524,ID_NOT_FOUND
+Physics,Graphene: Status and Prospects,0902.3208,ID_NOT_FOUND
+Physics,Electric Field Effect in Atomically Thin Carbon Films,cond-mat,ID_NOT_FOUND
+Physics,Room-Temperature Quantum Hall Effect in Graphene,cond-mat,ID_NOT_FOUND
+Physics,Fractional Quantum Hall Effect in Graphene,0904.0934,ID_NOT_FOUND
+Physics,Observation of the fractional quantum Hall effect,cond-mat,ID_NOT_FOUND
+Physics,Discovery of the Muon Neutrino,hep-ex,ID_NOT_FOUND
+Physics,Observation of Neutrino Oscillations,hep-ex,ID_NOT_FOUND
+Physics,The Discovery of the Expanding Universe,astro-ph,ID_NOT_FOUND
+Physics,Discovery of a supernova explosion at half the age of the Universe,astro-ph,ID_NOT_FOUND
+Physics,Measurements of Omega and Lambda from 42 High-Redshift Supernovae,astro-ph,ID_NOT_FOUND
+Physics,Observational Evidence from Supernovae for an Accelerating Universe,astro-ph,ID_NOT_FOUND
+Physics,First Observation of the Greisen-Zatsepin-Kuzmin Suppression,astro-ph,ID_NOT_FOUND
+Physics,Observation of Gravitational Waves from a Binary Neutron Star Inspiral,1710.05832,ID_NOT_FOUND
+Physics,Multi-messenger Observations of a Binary Neutron Star Merger,1710.05833,ID_NOT_FOUND
+Bio,RoseTTAFold: Accurate prediction of protein structures and interactions,2107.05047,ID_NOT_FOUND
+Bio,Cell Ranger: A scalable and robust 3` single-cell RNA-seq clustering workflow,UNKNOWN,NO_ID
+Bio,scikit-learn: Machine Learning in Python for Bioinformatics,1201.0490,ID_NOT_FOUND
+Bio,DeepBind: Predicting the sequence specificities of DNA- and RNA-binding proteins,1508.01259,ID_NOT_FOUND
+Bio,DeepSEA: Predicting effects of noncoding variants with deep learning-based sequence model,1508.01259,ID_NOT_FOUND
+Bio,A deep learning approach to antibiotic discovery,UNKNOWN,NO_ID
+Bio,Protein sequence-to-structure learning with transformers,2012.15340,ID_NOT_FOUND
+Bio,ESMFold: Evolutionary Scale Modeling of protein structures,2207.14255,ID_NOT_FOUND
+Bio,CRISPR-Cas9-mediated genome editing in human cells,UNKNOWN,NO_ID
+Bio,Base editing: precision chemistry on the genome,UNKNOWN,NO_ID
+Bio,Prime editing: search-and-replace genome editing,UNKNOWN,NO_ID
+Bio,A Unified Approach to Interpreting Model Predictions,1705.07874,VERIFIED
+Bio,Graph Convolutional Networks for drug discovery,1808.03264,ID_NOT_FOUND
+Bio,DeepVariant: Highly accurate genome sequencing,UNKNOWN,NO_ID
+Bio,AlphaMissense: accurate prediction of variant effects,UNKNOWN,NO_ID
+Bio,De novo generation of protein sequences,1904.0934,ID_NOT_FOUND
+Bio,Learning Transferable Visual Models From Natural Language Supervision,2103.00020,TITLE_MISMATCH
+Bio,Evaluating Large Language Models Trained on Code,2107.03374,TITLE_MISMATCH
+Bio,Protein language models for evolutionary inferences,2207.14255,ID_NOT_FOUND
+Bio,Single-cell transcriptomics for developmental biology,UNKNOWN,NO_ID
+Bio,Spatial transcriptomics reveals the architecture of tissues,UNKNOWN,NO_ID
+Bio,Advances and Open Problems in Federated Learning,1912.04977,TITLE_MISMATCH
+Bio,"""Why Should I Trust You?"": Explaining the Predictions of Any Classifier",1602.04938,TITLE_MISMATCH
+Bio,Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks,1506.01497,TITLE_MISMATCH
+Bio,Neural Ordinary Differential Equations,1806.07366,TITLE_MISMATCH
+Bio,Quantum properties of biological molecules,UNKNOWN,NO_ID
+Bio,AlphaFold3: Accurately predicting protein,UNKNOWN,NO_ID
+Bio,Whole-cell computational modeling,UNKNOWN,NO_ID
+Bio,Semantic Image Synthesis with Spatially-Adaptive Normalization,1903.07291,TITLE_MISMATCH
+Bio,Single-molecule sequencing technologies,UNKNOWN,NO_ID
+Bio,Synthetic biology: circuits in living cells,UNKNOWN,NO_ID
+CS,Generative Pre-trained Transformer 2,UNKNOWN,NO_ID
+CS,Language Models are Few-Shot Learners,2005.14165,TITLE_MISMATCH
+CS,GPT-4 Technical Report,2303.08774,VERIFIED
+CS,BART: Denoising Sequence-to-Sequence Pre-training,1910.13461,ID_NOT_FOUND
+CS,Reformer: The Efficient Transformer,2001.04451,ID_NOT_FOUND
+CS,Longformer: The Long-Document Transformer,2004.05150,ID_NOT_FOUND
+CS,Linformer: Self-Attention with Linear Complexity,2006.04768,ID_NOT_FOUND
+CS,Perceiver: General Perception with Iterative Attention,2103.03206,ID_NOT_FOUND
+CS,Perceiver IO: A General Architecture for Structured Inputs & Outputs,2107.14795,ID_NOT_FOUND
+CS,A ConvNet for the 2020s,2201.03545,ID_NOT_FOUND
+CS,MLP-Mixer: An all-MLP Architecture for Vision,2105.01601,ID_NOT_FOUND
+CS,Masked Autoencoders Are Scalable Vision Learners,2111.06377,ID_NOT_FOUND
+CS,MoCo: Momentum Contrast for Unsupervised Visual Representation Learning,1911.05722,ID_NOT_FOUND
+CS,BYOL: Bootstrap Your Own Latent A New Approach to Self-Supervised Learning,2006.07733,ID_NOT_FOUND
+CS,Emerging Properties in Self-Supervised Vision Transformers,2104.14294,VERIFIED
+CS,PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation,1612.00593,ID_NOT_FOUND
+CS,PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space,1706.02413,VERIFIED
+CS,VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection,1711.06396,ID_NOT_FOUND
+CS,Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context,1901.02860,ID_NOT_FOUND
+CS,XLNet: Generalized Autoregressive Pretraining for Language Understanding,1906.08237,ID_NOT_FOUND
+CS,ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators,2003.10555,ID_NOT_FOUND
+CS,DeBERTa: Decoding-enhanced BERT with Disentangled Attention,2006.03654,ID_NOT_FOUND
+CS,Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism,1909.08053,ID_NOT_FOUND
+CS,ZeRO: Memory Optimizations Toward Training Trillion Parameter Models,1910.02054,VERIFIED
+CS,DeepSpeed: System Optimizations Enable Training Deep Learning Models with Over 100 Billion Parameters,UNKNOWN,NO_ID
+CS,TensorFlow: A System for Large-Scale Machine Learning,1605.08695,ID_NOT_FOUND
+CS,Horovod: fast and easy distributed deep learning in TensorFlow,1802.05799,ID_NOT_FOUND
+CS,Dryad: Distributed Data-Parallel Programs from Sequential Building Blocks,UNKNOWN,NO_ID
+CS,MapReduce: Simplified Data Processing on Large Clusters,UNKNOWN,NO_ID
+CS,Paxos Made Simple,UNKNOWN,NO_ID
+CS,In Search of an Understandable Consensus Algorithm (Raft),UNKNOWN,NO_ID
+CS,Bitcoin: A Peer-to-Peer Electronic Cash System,UNKNOWN,NO_ID
+CS,Ethereum: A Secure Decentralised Generalised Transaction Ledger,UNKNOWN,NO_ID
+CS,Zero-Knowledge Succinct Non-Interactive Argument of Knowledge (zk-SNARK),UNKNOWN,NO_ID
+CS,Bulletproofs: Short Proofs for Confidential Transactions and More,UNKNOWN,NO_ID
+CS,zk-STARKs: Scalable Transparent ARguments of Knowledge,UNKNOWN,NO_ID
+CS,Homomorphic Encryption from Learning with Errors,UNKNOWN,NO_ID
+CS,Fully Homomorphic Encryption using Ideal Lattices,UNKNOWN,NO_ID
+CS,Differential Privacy,UNKNOWN,NO_ID
+CS,Secure Multi-Party Computation,UNKNOWN,NO_ID
+CS,The PageRank Citation Ranking: Bringing Order to the Web,UNKNOWN,NO_ID
+CS,HyperLogLog: the analysis of a near-optimal cardinality estimation algorithm,UNKNOWN,NO_ID
+CS,Cuckoo Filter: Practically Better Than Bloom,UNKNOWN,NO_ID
+CS,Count-Min Sketch,UNKNOWN,NO_ID
+CS,A Fast Algorithm for Computing the Principal Components of a Large Sparse Matrix,UNKNOWN,NO_ID
+CS,t-SNE: Visualizing Data using t-SNE,UNKNOWN,NO_ID
+CS,UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction,1802.03426,VERIFIED
+CS,LightGBM: A Highly Efficient Gradient Boosting Decision Tree,UNKNOWN,NO_ID
+CS,CatBoost: unbiased boosting with categorical features,1706.09516,ID_NOT_FOUND
+CS,WordPiece Subword Routing,UNKNOWN,NO_ID
+CS,Byte Pair Encoding for Neural Machine Translation,1508.07909,ID_NOT_FOUND
+CS,SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing,1808.06226,ID_NOT_FOUND
+CS,Reasoning with Language Model is Planning with World Model,2305.14992,ID_NOT_FOUND
+CS,Q-Learning for Reinforcement Learning,UNKNOWN,NO_ID
+CS,Trust Region Policy Optimization (TRPO),1502.05477,ID_NOT_FOUND
+CS,Pluribus: Superhuman AI for multiplayer poker,UNKNOWN,NO_ID
+CS,Deep Blue: Superhuman computing in Chess,UNKNOWN,NO_ID
+CS,AlphaCode: Competition-Level Code Generation with AlphaCode,2203.07814,ID_NOT_FOUND
+CS,Evaluating Large Language Models Trained on Code,2107.03374,TITLE_MISMATCH
+CS,Copilot: Human-AI pair programming,UNKNOWN,NO_ID
+CS,Solving quantitative reasoning problems with language models,2206.14858,ID_NOT_FOUND
+CS,A Generalist Agent,2205.06175,VERIFIED
+CS,COCO: Common Objects in Context,1405.0312,ID_NOT_FOUND
+CS,The Pascal Visual Object Classes (VOC) Challenge,UNKNOWN,NO_ID
+CS,Llama 2: Open Foundation and Fine-Tuned Chat Models,2307.09288,VERIFIED
+CS,Gemma: Open Models Based on Gemini Research and Technology,UNKNOWN,NO_ID
+CS,Mixtral of Experts,2401.04088,VERIFIED
+CS,Mistral 7B,2310.06825,VERIFIED
+CS,Qwen Technical Report,2309.16609,VERIFIED
+CS,RWKV: Reinventing RNNs for the Transformer Era,2305.13048,ID_NOT_FOUND
+CS,Mamba: Linear-Time Sequence Modeling with Selective State Spaces,2312.00752,ID_NOT_FOUND
+CS,State Space Models for NLP,UNKNOWN,NO_ID
+CS,Long-Short Term Memory (LSTM),UNKNOWN,NO_ID
+CS,Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling,1412.3555,TITLE_MISMATCH
+CS,Hopfield Networks is All You Need,2008.02217,ID_NOT_FOUND
+CS,Equivariant Neural Networks,UNKNOWN,NO_ID
+CS,Spherical CNNs,1801.06297,ID_NOT_FOUND
+CS,Group Equivariant Convolutional Networks,1602.07576,ID_NOT_FOUND
+CS,NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis,2003.08934,VERIFIED
+CS,Gaussian Splatting for Real-Time Radiance Field Rendering,UNKNOWN,NO_ID
+CS,High-Resolution Image Synthesis with Latent Diffusion Models,2112.10752,VERIFIED
+CS,Sora: Video generation models as world simulators,UNKNOWN,NO_ID
+CS,Imagen: Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding,2205.11487,ID_NOT_FOUND
+CS,Midjourney: Advanced text to image,UNKNOWN,NO_ID
+CS,DALL-E 2: Hierarchical Text-Conditional Image Generation with CLIP Latents,2204.06125,ID_NOT_FOUND
+CS,DALL-E 3: Improving Image Generation with Better Captions,UNKNOWN,NO_ID
+CS,InstructPix2Pix: Learning to Follow Image Editing Instructions,2211.09800,ID_NOT_FOUND
+CS,Consistency Models,2303.01469,ID_NOT_FOUND
+CS,DreamFusion: Text-to-3D using 2D Diffusion,2209.14988,ID_NOT_FOUND
+CS,Zero-shot Translation with Multilingual Neural Machine Translation,1611.04558,ID_NOT_FOUND
+CS,Whisper: Robust Speech Recognition via Large-Scale Weak Supervision,2212.04356,ID_NOT_FOUND
+CS,SeamlessM4T: Massively Multilingual & Multimodal Machine Translation,2308.11596,ID_NOT_FOUND
+CS,AudioLM: a Language Modeling Approach to Audio Generation,2209.03143,ID_NOT_FOUND
+CS,MusicLM: Generating Music From Text,2301.11325,ID_NOT_FOUND
+CS,Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers,2301.02111,VERIFIED
+CS,Proximal Policy Optimization Algorithms,1707.06347,VERIFIED
+CS,Asynchronous Methods for Deep Reinforcement Learning,1602.01783,VERIFIED
+CS,MuJoCo: A physics engine for model-based control,UNKNOWN,NO_ID
+CS,Isaac Gym: High Performance GPU-Based Physics Simulation For Robot Learning,2108.10470,ID_NOT_FOUND
+CS,Sim2Real View Invariant Visual Servoing by Recurrent Control,1712.07642,ID_NOT_FOUND
+CS,Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World,1703.06907,ID_NOT_FOUND
+CS,Learning Dexterous In-Hand Manipulation,1808.00177,ID_NOT_FOUND
+CS,RT-1: Robotics Transformer for Real-World Control at Scale,2212.06817,ID_NOT_FOUND
+CS,RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control,2307.15818,ID_NOT_FOUND
+CS,SayCan: Do As I Can,UNKNOWN,NO_ID
+CS,AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model,2309.16058,ID_NOT_FOUND
+CS,Code Llama: Open Foundation Models for Code,2308.12950,ID_NOT_FOUND
+CS,StarCoder: may the source be with you!,2305.06161,ID_NOT_FOUND
+CS,DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence,2401.14196,ID_NOT_FOUND
+CS,WizardCoder: Empowering Code Large Language Models with Evol-Instruct,2306.08568,ID_NOT_FOUND
+Math,On the classification of topological field theories,0905.0465,ID_NOT_FOUND
+Math,Higher algebra,UNKNOWN,NO_ID
+Math,Higher Topos Theory,math,ID_NOT_FOUND
+Math,Derived Algebraic Geometry I: Stable Infinity Categories,math,ID_NOT_FOUND
+Math,On the Cobordism Hypothesis,0905.0465,ID_NOT_FOUND
+Math,Fukaya Categories and Picard-Lefschetz Theory,UNKNOWN,NO_ID
+Math,Mirror Symmetry and Algebraic Geometry,UNKNOWN,NO_ID
+Math,Homological Algebra of Mirror Symmetry,math,ID_NOT_FOUND
+Math,Tropical Geometry and Mirror Symmetry,UNKNOWN,NO_ID
+Math,Symplectic Geometry of Hubbards,UNKNOWN,NO_ID
+Math,The Mumford-Tate conjecture for K3 surfaces,UNKNOWN,NO_ID
+Math,Motivic Cohomology of Varieties,UNKNOWN,NO_ID
+Math,Voevodsky's Proof of the Milnor Conjecture,UNKNOWN,NO_ID
+Math,The Bloch-Kato conjecture,UNKNOWN,NO_ID
+Math,Categorification of quantum groups,math,ID_NOT_FOUND
+Math,Khovanov-Rozansky homology,math,ID_NOT_FOUND
+Math,The colored Jones polynomial and the AJ conjecture,UNKNOWN,NO_ID
+Math,Kauffman Bracket and the Jones Polynomial,UNKNOWN,NO_ID
+Math,Heegaard Floer homology,math,ID_NOT_FOUND
+Math,Instanton Floer homology,UNKNOWN,NO_ID
+Math,Seiberg-Witten invariants,UNKNOWN,NO_ID
+Math,The Willmore Conjecture,1202.6035,ID_NOT_FOUND
+Math,Min-max theory and the Willmore conjecture,1202.6035,ID_NOT_FOUND
+Math,The Lawson Conjecture,1203.3980,ID_NOT_FOUND
+Math,A proof of the Lawson conjecture,1203.3980,ID_NOT_FOUND
+Math,The Yau-Tian-Donaldson Conjecture,1210.7494,ID_NOT_FOUND
+Math,Kaehler-Einstein metrics on Fano manifolds,1210.7494,ID_NOT_FOUND
+Math,Optimal transport and Ricci curvature for metric-measure spaces,math,ID_NOT_FOUND
+Math,The regularity of optimal transport maps,UNKNOWN,NO_ID
+Math,Monge-Ampere equations and optimal transport,UNKNOWN,NO_ID
+Math,De Giorgi conjecture for the Allen-Cahn equation,UNKNOWN,NO_ID
+Math,A proof of the De Giorgi conjecture in dimension 8,0810.4594,ID_NOT_FOUND
+Math,The fractional Laplacian and the fractional De Giorgi conjecture,UNKNOWN,NO_ID
+Math,Weak KAM Theory,UNKNOWN,NO_ID
+Math,Random matrices and the Riemann zeta function,math,ID_NOT_FOUND
+Math,Tracy-Widom distribution for the largest eigenvalue of random matrices,UNKNOWN,NO_ID
+Math,The Kardar-Parisi-Zhang equation and universality class,1207.6905,ID_NOT_FOUND
+Math,Solving the KPZ equation,1107.2315,ID_NOT_FOUND
+Math,Hairer's theory of regularity structures,1303.5113,ID_NOT_FOUND
+Math,Paracontrolled distributions and singular PDEs,1308.2053,ID_NOT_FOUND
+Math,Stochastic quantisation of Yang-Mills,UNKNOWN,NO_ID
+Math,Schramm-Loewner Evolution (SLE),math,ID_NOT_FOUND
+Math,Conformal invariance of planar loop-erased random walks and uniform spanning trees,math,ID_NOT_FOUND
+Math,Dimension of the SLE curves,math,ID_NOT_FOUND
+Math,Brownian map as the scaling limit of random planar maps,1105.3258,ID_NOT_FOUND
+Math,Uniqueness of the Brownian map,1105.4842,ID_NOT_FOUND
+Math,Quantum Liouville theory and the DOZZ formula,1401.3624,ID_NOT_FOUND
+Math,Gaussian Free Field and its geometry,UNKNOWN,NO_ID
+Math,An introduction to the Gaussian Free Field,UNKNOWN,NO_ID
+Math,The exact dimension of the Mandelbrot set boundary is 2,UNKNOWN,NO_ID
+Math,Local connectivity of the Mandelbrot set at certain parameter values,UNKNOWN,NO_ID
+Math,The density of hyperbolicity in one-dimensional dynamics,UNKNOWN,NO_ID
+Math,Dynamics of the complex logistic map,UNKNOWN,NO_ID
+Math,Renormalization in complex dynamics,UNKNOWN,NO_ID
+Math,Pesin's formula for expanding maps,UNKNOWN,NO_ID
+Math,The thermodynamic formalism for Anosov diffeomorphisms,UNKNOWN,NO_ID
+Math,Ratner's theorems on unipotent flows,UNKNOWN,NO_ID
+Math,Measure rigidity for unipotent flows,UNKNOWN,NO_ID
+Math,The Margulis lemma and its applications,UNKNOWN,NO_ID
+Math,Kazhdan's property (T),UNKNOWN,NO_ID
+Math,Expander graphs and their applications,UNKNOWN,NO_ID
+Math,Ramanujan graphs and the Lubotzky-Phillips-Sarnak construction,UNKNOWN,NO_ID
+Math,The Zig-Zag product of graphs,UNKNOWN,NO_ID
+Math,A new proof of the PCP theorem,cs,ID_NOT_FOUND
+Math,Unique Games Conjecture,UNKNOWN,NO_ID
+Math,The Goemans-Williamson MAX-CUT algorithm,UNKNOWN,NO_ID
+Math,Approximation algorithms and semidefinite programming,UNKNOWN,NO_ID
+Math,The interior point method for linear programming,UNKNOWN,NO_ID
+Math,Smoothed analysis of algorithms,UNKNOWN,NO_ID
+Math,The simplex algorithm is polynomial on average,UNKNOWN,NO_ID
+Math,The Lovasz local lemma and its algorithmic applications,UNKNOWN,NO_ID
+Math,Moser-Tardos algorithm for the Lovasz local lemma,0903.0544,ID_NOT_FOUND
+Math,Szemerédi's Regularity Lemma,UNKNOWN,NO_ID
+Math,Hypergraph regularity and the removal lemma,math,ID_NOT_FOUND
+Math,The strong perfect graph theorem,UNKNOWN,NO_ID
+Math,Graph Minors theorems by Robertson and Seymour,UNKNOWN,NO_ID
+Math,The Dirac-type theorems for hypergraphs,UNKNOWN,NO_ID
+Math,Forcing and the independence of the continuum hypothesis,UNKNOWN,NO_ID
+Math,Inner models and large cardinals,UNKNOWN,NO_ID
+Math,Determinacy of projective sets from large cardinals,UNKNOWN,NO_ID
+Math,A proof of the independence of the axiom of choice,UNKNOWN,NO_ID
+Math,The modal logic of provability (Godel-Lob logic),UNKNOWN,NO_ID
+Math,On the classification of univalent foundations (Homotopy Type Theory),UNKNOWN,NO_ID
+Math,Univalent Foundations of Mathematics,1302.6981,ID_NOT_FOUND
+Math,The constructive proof of the Four Color Theorem,UNKNOWN,NO_ID
+Math,The formal verification of the odd order theorem,UNKNOWN,NO_ID
+Math,Perfectoid spaces,1111.4914,ID_NOT_FOUND
+Math,The weight-monodromy conjecture for complete intersections in toric varieties,1111.6385,ID_NOT_FOUND
+Math,Galois representations attached to torsion classes in cohomology,1311.4128,ID_NOT_FOUND
+Math,On the local Langlands conjecture for p-adic groups,1612.04018,ID_NOT_FOUND
+Math,Endoscopy and the Langlands classification,UNKNOWN,NO_ID
+Math,The Fundamental Lemma for unitary groups,0801.3507,ID_NOT_FOUND
+Math,Stable trace formula and the stabilization problem,UNKNOWN,NO_ID
+Math,The geometric representation theory of the Langlands program,UNKNOWN,NO_ID
+Math,Categorical local Langlands correspondence,UNKNOWN,NO_ID
+Math,Fargues-Fontaine curve and p-adic Hodge theory,UNKNOWN,NO_ID
+Math,Prismatic cohomology,1905.05042,ID_NOT_FOUND
+Math,Motivic homotopy theory,math,ID_NOT_FOUND
+Math,The slice filtration in motivic homotopy theory,UNKNOWN,NO_ID
+Math,Equivariant stable homotopy theory,UNKNOWN,NO_ID
+Math,The Kervaire invariant one problem,0908.3724,ID_NOT_FOUND
+Physics,AdS/CFT Correspondence in lower dimensions,UNKNOWN,NO_ID
+Physics,Black Hole Information Paradox and the Firewall,1207.3123,ID_NOT_FOUND
+Physics,Holographic Entanglement Entropy,hep-th,ID_NOT_FOUND
+Physics,Ryu-Takayanagi Formula and its Extension,0704.2072,ID_NOT_FOUND
+Physics,Quantum Error Correction and Holography,1411.7041,ID_NOT_FOUND
+Physics,Fast Scramblers and Black Holes,0808.2096,ID_NOT_FOUND
+Physics,SYK Model and AdS2 Holography,1604.07818,ID_NOT_FOUND
+Physics,Complexity and Action in Black Holes,1509.07876,ID_NOT_FOUND
+Physics,Complexity = Volume Conjecture,1406.2678,ID_NOT_FOUND
+Physics,The Replica Trick and Islands in Black Holes,1911.11977,ID_NOT_FOUND
+Physics,Information content of Hawking radiation,1911.12333,ID_NOT_FOUND
+Physics,Page Curve for an Evaporating Black Hole,1905.08762,ID_NOT_FOUND
+Physics,Swampland Conjectures in String Theory,1805.10276,ID_NOT_FOUND
+Physics,Weak Gravity Conjecture,hep-th,ID_NOT_FOUND
+Physics,F-Theory and the Landscape of String Vacua,hep-th,ID_NOT_FOUND
+Physics,Statistical Approach to the String Landscape,hep-th,ID_NOT_FOUND
+Physics,BICEP2 Results: Cosmological Inflation and Primordial Gravitational Waves,1403.3985,ID_NOT_FOUND
+Physics,Constraints on Inflation from Planck,1807.06211,ID_NOT_FOUND
+Physics,The History of the Universe from the CMB,UNKNOWN,NO_ID
+Physics,Dark Matter Annihilation in the Galactic Center,1402.6703,ID_NOT_FOUND
+Physics,LIGO-Virgo discoveries and the Dawn of Multi-Messenger Astronomy,UNKNOWN,NO_ID
+Physics,The Event Horizon Telescope: Mapping the M87 Black Hole Magnetic Field,2103.01633,ID_NOT_FOUND
+Physics,Fast Radio Bursts: Discovered and Localized,1307.1628,ID_NOT_FOUND
+Physics,Detection of Water Vapor in the Atmosphere of a Habitable-Zone Exoplanet,1909.04642,ID_NOT_FOUND
+Physics,Confirmation of the Existence of Proxima Centauri b,UNKNOWN,NO_ID
+Physics,The TRAPPIST-1 System: Seven Earth-Sized Planets,1703.01424,ID_NOT_FOUND
+Physics,Lovelock Gravity and Higher Derivative Theories,UNKNOWN,NO_ID
+Physics,Horava-Lifshitz Gravity,0901.3775,ID_NOT_FOUND
+Physics,Massive Gravity Theory,1007.0443,ID_NOT_FOUND
+Physics,Ghost-free Massive Gravity,1011.1232,ID_NOT_FOUND
+Physics,Galileons and the Vainshtein Mechanism,0811.2197,ID_NOT_FOUND
+Physics,DGP Braneworld Cosmology,hep-th,ID_NOT_FOUND
+Physics,String Gas Cosmology,hep-th,ID_NOT_FOUND
+Physics,Loop Quantum Cosmology,gr-qc,ID_NOT_FOUND
+Physics,Observation of B-mode Polarization from the SPT,1307.5830,ID_NOT_FOUND
+Physics,Quantum Spin Liquids in Kagome Lattices,cond-mat,ID_NOT_FOUND
+Physics,Kitaev Model and Anyons on a Torus,cond-mat,ID_NOT_FOUND
+Physics,Topological Quantum Computation with Non-Abelian Anyons,quant-ph,ID_NOT_FOUND
+Physics,Majorana Fermions in Condensed Matter,1206.1736,ID_NOT_FOUND
+Physics,Evidence for Majorana Bound States in Nanowires,1204.2792,ID_NOT_FOUND
+Physics,Observation of Weyl Fermions in a Semimetal,1502.04684,ID_NOT_FOUND
+Physics,Prediction and Observation of a Type-II Weyl Semimetal,1506.06577,ID_NOT_FOUND
+Physics,Twistronics and Magic-Angle Graphene,1803.02342,ID_NOT_FOUND
+Physics,Superconductivity in Magic-Angle Bilayer Graphene,1803.02342,ID_NOT_FOUND
+Physics,Mott Insulator State in Magic-Angle Graphene,1803.02343,ID_NOT_FOUND
+Physics,Observation of Time Crystals,1610.08057,ID_NOT_FOUND
+Physics,Discrete Time Crystals: Rigidity,UNKNOWN,NO_ID
+Physics,Quantum Many-Body Scrambling and OTOCs,1503.01409,ID_NOT_FOUND
+Physics,Experimental Measurement of Out-of-Time-Ordered Correlators,1612.05249,ID_NOT_FOUND
+Physics,MBL: Many-Body Localization Phase Transition,1404.0686,ID_NOT_FOUND
+Physics,Thermalization and its absence in isolated quantum systems,1404.0686,ID_NOT_FOUND
+Physics,Eigenstate Thermalization Hypothesis (ETH),cond-mat,ID_NOT_FOUND
+Physics,Quantum Information Scrambling in Ion Traps,1806.01256,ID_NOT_FOUND
+Physics,Boson Sampling with Photons,1011.3245,ID_NOT_FOUND
+Physics,Experimental Boson Sampling using integrated photonics,1212.0622,ID_NOT_FOUND
+Physics,Quantum Supremacy via Boson Sampling,2012.01625,ID_NOT_FOUND
+Physics,Photonic Quantum Computer for solving large linear systems,1302.1946,ID_NOT_FOUND
+Physics,Quantum Algorithm for Solving Linear Systems of Equations (HHL),0811.3171,ID_NOT_FOUND
+Physics,Variational Quantum Eigensolver (VQE),1304.3061,ID_NOT_FOUND
+Physics,Quantum Approximate Optimization Algorithm (QAOA),1411.4028,ID_NOT_FOUND
+Physics,Hardware-efficient variational quantum eigensolver,1704.05018,ID_NOT_FOUND
+Physics,Demonstration of topological data analysis on a quantum processor,1408.3129,ID_NOT_FOUND
+Physics,Surface Code Quantum Error Correction,1208.0928,ID_NOT_FOUND
+Physics,Realizing Repeated Quantum Error Correction in a Distance-Three Surface Code,2102.06132,ID_NOT_FOUND
+Physics,Suppression of Quantum Errors by Scaling a Surface Code Logical Qubit,2207.06431,ID_NOT_FOUND
+Physics,Measurement-Device-Independent Quantum Key Distribution,1112.0525,ID_NOT_FOUND
+Physics,Micius Satellite: Satellite-Based Quantum Key Distribution,1707.00542,ID_NOT_FOUND
+Physics,Entanglement distribution over 1200 kilometers from a satellite,1707.01339,ID_NOT_FOUND
+Physics,Observation of CP Violation in the B Meson System,hep-ex,ID_NOT_FOUND
+Physics,Discovery of the pentaquark states Pc(4380)+ and Pc(4450)+,1507.03414,ID_NOT_FOUND
+Physics,Observation of doubly charmed baryon Xi_cc++,1707.01621,ID_NOT_FOUND
+Physics,Measurement of the anomalous magnetic moment of the muon (g-2),2104.03281,ID_NOT_FOUND
+Physics,First Results from the Muon g-2 Experiment at Fermilab,2104.03281,ID_NOT_FOUND
+Physics,Measurement of the W boson mass at CDF,2204.04705,ID_NOT_FOUND
+Physics,Test of Lepton Universality in b decays,1406.6482,ID_NOT_FOUND
+Physics,Observation of a new state around 3872 MeV (X(3872)),hep-ex,ID_NOT_FOUND
+Physics,The ALFA results on the total cross-section of pp collisions,UNKNOWN,NO_ID
+Physics,Observation of the Bottomonium Ground State in Upsilon Decays,UNKNOWN,NO_ID
+Physics,Direct limit on the speed of light from gravitational waves,1710.05834,ID_NOT_FOUND
+Physics,Constraining the speed of gravity with GW170817,1710.05834,ID_NOT_FOUND
+Physics,Limits on axion dark matter from ADMX,1804.05750,ID_NOT_FOUND
+Physics,Results from the XENON1T Dark Matter Experiment,1805.12562,ID_NOT_FOUND
+Physics,Direct detection constraints on light dark matter,UNKNOWN,NO_ID
+Physics,Cosmic Dawn signal and the 21-cm global spectrum,1802.10094,ID_NOT_FOUND
+Physics,CHIME Fast Radio Bursts catalog 1,2106.04352,ID_NOT_FOUND
+Physics,Localization of a fast radio burst to a host galaxy,1701.01098,ID_NOT_FOUND
+Physics,Detection of a fast radio burst from a Galactic magnetar,2005.10828,ID_NOT_FOUND
+Physics,The DES Y3 cosmological constraints,2105.13549,ID_NOT_FOUND
+Physics,Tension in the Hubble Constant: Is New Physics Required?,1908.03663,ID_NOT_FOUND
+Bio,Unsupervised learning of evolutionary landscapes for drug discovery,2101.08331,ID_NOT_FOUND
+Bio,Deep learning on graphs for bioinformatics,UNKNOWN,NO_ID
+Bio,Geometric Deep Learning for structural bioinformatics,UNKNOWN,NO_ID
+Bio,Learning the protein language: Evolution sequence and structure,UNKNOWN,NO_ID
+Bio,Unified language models for biological sequence generation,UNKNOWN,NO_ID
+Bio,A foundation model for generalizable disease prediction,2301.07681,ID_NOT_FOUND
+Bio,Pre-training of graph neural networks for molecules,1905.12265,ID_NOT_FOUND
+Bio,Self-supervised graph learning for drug discovery,UNKNOWN,NO_ID
+Bio,Molecular graph generation via auto-regressive networks,1802.04364,ID_NOT_FOUND
+Bio,Junction Tree Variational Autoencoder for Molecular Graph Generation,1802.04364,ID_NOT_FOUND
+Bio,Deep drug repurposing using graph autoencoders,UNKNOWN,NO_ID
+Bio,Translating brain activity directly into speech,UNKNOWN,NO_ID
+Bio,Neural decoding using large language models,2305.00696,ID_NOT_FOUND
+Bio,Semantic reconstruction of continuous language from brain recordings,UNKNOWN,NO_ID
+Bio,High-performance brain-to-text communication via handwriting,UNKNOWN,NO_ID
+Bio,Causal mapping of the human brain connectome,UNKNOWN,NO_ID
+Bio,Generative models of single-cell transcriptomes,1812.01206,ID_NOT_FOUND
+Bio,scVI: Deep generative modeling for single-cell transcriptomics,1709.02082,ID_NOT_FOUND
+Bio,Transfer learning in single-cell transcriptomics,1910.01791,ID_NOT_FOUND
+Bio,Spatially resolved transcriptomics prediction using graph attention,UNKNOWN,NO_ID
+Bio,Multi-omics data integration using deep learning,UNKNOWN,NO_ID
+Bio,Predicting gene regulatory networks from single-cell data,UNKNOWN,NO_ID
+Bio,De novo prediction of RNA-binding proteins,UNKNOWN,NO_ID
+Bio,Structure-based virtual screening with deep learning,UNKNOWN,NO_ID
+Bio,Equivariant 3D protein structure generation,2205.00880,ID_NOT_FOUND
+Bio,Diffusion models for protein sequence to structure generation,UNKNOWN,NO_ID
+Bio,Antigen-specific antibody design via deep generative models,2207.08779,ID_NOT_FOUND
+Bio,Predicting the effects of all missense variants with deep learning,2309.03577,ID_NOT_FOUND
+Bio,Deep mutagenesis prediction via language modeling,2101.07926,ID_NOT_FOUND
+Bio,Protein function prediction using graph neural networks,2006.02299,ID_NOT_FOUND
+Bio,Deep learning for cryo-EM map resolution enhancement,2004.09556,ID_NOT_FOUND
+Bio,Atomic-level cryo-EM maps reconstruction via deep neural networks,UNKNOWN,NO_ID
+Bio,Deep learning driven de novo drug design,UNKNOWN,NO_ID
+Bio,Predicting off-target effects of CRISPR-Cas9 via deep learning,1806.00224,ID_NOT_FOUND
+Bio,Deep learning reveals the language of cancer,UNKNOWN,NO_ID
+Bio,Machine learning on tumor mutational burden,UNKNOWN,NO_ID
+Bio,Predicting immunotherapy response with deep learning,UNKNOWN,NO_ID
+Bio,U-Net: Convolutional Networks for Biomedical Image Segmentation,1505.04597,TITLE_MISMATCH
+Bio,Unsupervised anomaly detection in medical imaging,UNKNOWN,NO_ID
+Bio,Generative models for synthesizing medical imaging data,UNKNOWN,NO_ID
+Bio,Federated learning for multi-center healthcare data,2108.08398,ID_NOT_FOUND
+Bio,Self-supervised contrastive learning for medical time series,2109.11051,ID_NOT_FOUND
+Bio,Attention mechanisms in clinical natural language processing,UNKNOWN,NO_ID
+Bio,Clinical BERT representations for biomedical text mining,1904.05342,ID_NOT_FOUND
+Bio,BioBERT: a pre-trained biomedical language representation model,1901.08746,ID_NOT_FOUND
+Bio,PubMedBERT: Domain-Specific Language Model Pretraining for Biomedical Natural Language Processing,2007.15779,ID_NOT_FOUND
+Bio,Transformers for extracting chemical-protein relations,UNKNOWN,NO_ID
+Bio,Knowledge graph embeddings for drug-target interaction,2005.02331,ID_NOT_FOUND
+Bio,Predicting synergistic drug combinations via deep learning,UNKNOWN,NO_ID
+Bio,End-to-end learning to predict drug interactions,UNKNOWN,NO_ID
+Bio,Machine learning for predicting clinical trial outcomes,UNKNOWN,NO_ID
+Bio,Deep generative models for therapeutic antibody design,UNKNOWN,NO_ID
+Bio,A unified approach for single-cell and spatial transcriptomics,UNKNOWN,NO_ID
+Bio,Spatial genomics via multiplexed FISH,UNKNOWN,NO_ID
+Bio,Deep learning maps epigenetic modifications,UNKNOWN,NO_ID
+Bio,AlphaFold accelerates structural biology research,2202.13414,ID_NOT_FOUND
+Bio,Machine learning prediction of antimicrobial resistance,UNKNOWN,NO_ID
+Bio,Deep sequence clustering reveals novel protein families,UNKNOWN,NO_ID
+Bio,Using deep networks to decode protein interaction rules,UNKNOWN,NO_ID
+Bio,Deep learning characterizes viral evolution architectures,UNKNOWN,NO_ID
+Bio,Language models escape viral immune systems,2103.01138,ID_NOT_FOUND
+CS,Deep Residual Learning for Image Recognition,1512.03385,TITLE_MISMATCH
+CS,Deep Residual Learning for Image Recognition,1512.03385,TITLE_MISMATCH
+CS,Scaling Laws for Neural Language Models,2001.08361,VERIFIED
+CS,Generative Agents: Interactive Simulacra of Human Behavior,2304.03442,TITLE_MISMATCH
+Math,The Millennium Prize Problems,UNKNOWN,NO_ID
+Math,A Proof of the Poincare Conjecture,math,ID_NOT_FOUND
+Math,The Birch and Swinnerton-Dyer Conjecture for Elliptic Curves over Q,UNKNOWN,NO_ID
+Math,Faltings Theorem,UNKNOWN,NO_ID
+Math,The Mordell Conjecture,UNKNOWN,NO_ID
+Math,Wiles' Proof of Fermat's Last Theorem,UNKNOWN,NO_ID
+Math,The Modularity Theorem,UNKNOWN,NO_ID
+Math,The Weil Conjectures for Abelian Varieties,UNKNOWN,NO_ID
+Math,K-Theory and the Atiyah-Singer Index Theorem,UNKNOWN,NO_ID
+Math,Seiberg-Witten Invariants of Four-Manifolds,UNKNOWN,NO_ID
+Math,The Donaldson Invariants of Four-Manifolds,UNKNOWN,NO_ID
+Math,Floer Homology and Symplectic Topology,UNKNOWN,NO_ID
+Math,Khovanov Homology and the Jones Polynomial,math,ID_NOT_FOUND
+Math,Kategorification of knot polynomials,UNKNOWN,NO_ID
+Math,The Volume Conjecture for knots,UNKNOWN,NO_ID
+Math,The AJ Conjecture for knots,UNKNOWN,NO_ID
+Math,The Kashaev Invariant of knots,UNKNOWN,NO_ID
+Math,The Quantum Invariants of Knots and 3-Manifolds,UNKNOWN,NO_ID
+Math,Chern-Simons Theory and Topological Invariants,UNKNOWN,NO_ID
+Math,The Witten-Reshetikhin-Turaev Invariants,UNKNOWN,NO_ID
+Math,The Geometrization Conjecture of Thurston,UNKNOWN,NO_ID
+Math,Ricci Flow with Surgery on 3-Manifolds,math,ID_NOT_FOUND
+Math,The Sphere Packing Problem in 8 Dimensions,1603.04246,ID_NOT_FOUND
+Math,The Sphere Packing Problem in 24 Dimensions,1603.06518,ID_NOT_FOUND
+Math,Universal Optimality of the Leech Lattice,UNKNOWN,NO_ID
+Math,The Erdos-Szekeres Theorem in Combinatorial Geometry,UNKNOWN,NO_ID
+Math,The Szemeredi Regularity Lemma,UNKNOWN,NO_ID
+Math,Green-Tao Theorem on Primes in Arithmetic Progression,UNKNOWN,NO_ID
+Math,The Twin Prime Conjecture,UNKNOWN,NO_ID
+Math,Yitang Zhang's Bound on Prime Gaps,UNKNOWN,NO_ID
+Math,The Polymath Project on Prime Gaps,1407.4890,ID_NOT_FOUND
+Math,The ABC Conjecture and Inter-universal Teichmuller Theory,UNKNOWN,NO_ID
+Math,Mochizuki's Proof of the ABC Conjecture,UNKNOWN,NO_ID
+Math,The PCP Theorem,UNKNOWN,NO_ID
+Math,The Unique Games Conjecture,0805.2323,ID_NOT_FOUND
+Math,Ramanujan Graphs,UNKNOWN,NO_ID
+Math,The Katz-Sarnak Philosophy for L-functions,UNKNOWN,NO_ID
+Math,Random Matrix Theory and the Riemann Zeta Function,math,ID_NOT_FOUND
+Math,The Montgomery-Odlyzko Law,UNKNOWN,NO_ID
+Math,The Tracy-Widom Distribution,UNKNOWN,NO_ID
+Math,The Kardar-Parisi-Zhang Universality Class,1207.6905,ID_NOT_FOUND
+Math,The KPZ Equation,UNKNOWN,NO_ID
+Math,Stochastic Partial Differential Equations,UNKNOWN,NO_ID
+Math,Regularity Structures for SPDEs,1303.5113,ID_NOT_FOUND
+Math,Martin Hairer's work on SPDEs,UNKNOWN,NO_ID
+Math,The Schramm-Loewner Evolution (SLE),math,ID_NOT_FOUND
+Math,Conformal Invariance of the critical percolation cluster,UNKNOWN,NO_ID
+Math,The Gaussian Free Field,UNKNOWN,NO_ID
+Math,Liouville Quantum Gravity,UNKNOWN,NO_ID
+Math,The Brownian Map,1105.3258,ID_NOT_FOUND
+Math,The resolution of the Cap Set Problem,1605.09223,ID_NOT_FOUND
+Math,The Polynomial Method in Combinatorics,UNKNOWN,NO_ID
+Math,The Kakeya Conjecture,UNKNOWN,NO_ID
+Math,The Restriction Conjecture in Harmonic Analysis,UNKNOWN,NO_ID
+Math,The Decoupling Theorem,1405.3567,ID_NOT_FOUND
+Math,The Bochner-Riesz Conjecture,UNKNOWN,NO_ID
+Math,The Invariant Subspace Problem,UNKNOWN,NO_ID
+Math,The Connes Embedding Problem,UNKNOWN,NO_ID
+Math,MIP*=RE: A resolution of the Connes Embedding Problem,2001.04383,ID_NOT_FOUND
+Math,Tsirelson's Problem in Quantum Information Theory,UNKNOWN,NO_ID
+Math,The Sensitivity Conjecture,1907.00847,ID_NOT_FOUND
+Math,The Sunflower Lemma Bounds,1908.09327,ID_NOT_FOUND
+Math,The Delta-System Lemma,UNKNOWN,NO_ID
+Math,The Erdos-Rado Theorem,UNKNOWN,NO_ID
+Math,Ramsey Theory on Graphs,UNKNOWN,NO_ID
+Math,The Continuum Hypothesis,UNKNOWN,NO_ID
+Math,Large Cardinals in Set Theory,UNKNOWN,NO_ID
+Math,Projective Determinacy,UNKNOWN,NO_ID
+Math,The Axiom of Determinacy,UNKNOWN,NO_ID
+Math,Inner Model Theory,UNKNOWN,NO_ID
+Math,Core Models in Set Theory,UNKNOWN,NO_ID
+Math,The Langlands Program,UNKNOWN,NO_ID
+Math,The Geometric Langlands Program,UNKNOWN,NO_ID
+Physics,The AdS/CFT Correspondence,hep-th,ID_NOT_FOUND
+Physics,The Holographic Principle,hep-th,ID_NOT_FOUND
+Physics,Black Hole Thermodynamics,gr-qc,ID_NOT_FOUND
+Physics,Hawking Radiation,UNKNOWN,NO_ID
+Physics,Black Hole Entropy,UNKNOWN,NO_ID
+Physics,The Black Hole Information Paradox,UNKNOWN,NO_ID
+Physics,The Firewall Paradox for Black Holes,1207.3123,ID_NOT_FOUND
+Physics,Complementarity in Quantum Gravity,UNKNOWN,NO_ID
+Physics,String Theory Foundations,UNKNOWN,NO_ID
+Physics,M-Theory and Matrix Models,hep-th,ID_NOT_FOUND
+Physics,D-Branes in String Theory,UNKNOWN,NO_ID
+Physics,T-Duality in String Theory,UNKNOWN,NO_ID
+Physics,S-Duality in String Theory,UNKNOWN,NO_ID
+Physics,Seiberg-Witten Theory,UNKNOWN,NO_ID
+Physics,The Standard Model of Particle Physics,UNKNOWN,NO_ID
+Physics,The Discovery of the Higgs Boson,1207.7214,ID_NOT_FOUND
+Physics,The Higgs Mechanism,UNKNOWN,NO_ID
+Physics,Supersymmetry and the MSSM,UNKNOWN,NO_ID
+Physics,The Strong CP Problem,UNKNOWN,NO_ID
+Physics,Axions and Dark Matter,UNKNOWN,NO_ID
+Physics,WIMPs and Dark Matter Candidates,UNKNOWN,NO_ID
+Physics,Direct Detection of Dark Matter,UNKNOWN,NO_ID
+Physics,Indirect Detection of Dark Matter,UNKNOWN,NO_ID
+Physics,Neutrino Oscillations,hep-ex,ID_NOT_FOUND
+Physics,The MSW Effect for Solar Neutrinos,UNKNOWN,NO_ID
+Physics,The Daya Bay Reactor Neutrino Experiment,UNKNOWN,NO_ID
+Physics,The SNO Solar Neutrino Results,UNKNOWN,NO_ID
+Physics,Cosmic Microwave Background Radiation,UNKNOWN,NO_ID
+Physics,The WMAP Results on the CMB,UNKNOWN,NO_ID
+Physics,The Planck Results on the CMB,1807.06209,ID_NOT_FOUND
+Physics,COBE Results and the Anisotropy of the CMB,UNKNOWN,NO_ID
+Physics,B-Mode Polarization of the CMB,UNKNOWN,NO_ID
+Physics,Cosmic Inflation,UNKNOWN,NO_ID
+Physics,Slow-Roll Inflation,UNKNOWN,NO_ID
+Physics,Chaotic Inflation,UNKNOWN,NO_ID
+Physics,Eternal Inflation,UNKNOWN,NO_ID
+Physics,The Multiverse Hypothesis,UNKNOWN,NO_ID
+Physics,The Accelerating Universe and Dark Energy,astro-ph,ID_NOT_FOUND
+Physics,The Cosmological Constant Problem,astro-ph,ID_NOT_FOUND
+Physics,Quintessence and Dark Energy,UNKNOWN,NO_ID
+Physics,Modified Gravity Theories,UNKNOWN,NO_ID
+Physics,f(R) Gravity,0805.1726,ID_NOT_FOUND
+Physics,Gravitational Waves from Binary Black Holes,1602.03837,ID_NOT_FOUND
+Physics,Gravitational Waves from Binary Neutron Stars,1710.05832,ID_NOT_FOUND
+Physics,Multi-Messenger Astronomy with Gravitational Waves,1710.05833,ID_NOT_FOUND
+Physics,The Stochastic Gravitational Wave Background,UNKNOWN,NO_ID
+Physics,Pulsar Timing Arrays and Gravitational Waves,2306.16213,ID_NOT_FOUND
+Physics,The First Image of a Black Hole,1906.11238,ID_NOT_FOUND
+Physics,The Event Horizon Telescope,UNKNOWN,NO_ID
+Physics,Supermassive Black Holes at the Center of Galaxies,UNKNOWN,NO_ID
+Physics,Active Galactic Nuclei and Quasars,UNKNOWN,NO_ID
+Physics,The Formation of Galaxies,UNKNOWN,NO_ID
+Physics,Cold Dark Matter Structure Formation,UNKNOWN,NO_ID
+Physics,The Hubble Tension,1908.03663,ID_NOT_FOUND
+Physics,The S8 Tension in Cosmology,UNKNOWN,NO_ID
+Physics,Fast Radio Bursts,1307.1628,ID_NOT_FOUND
+Physics,Gamma-Ray Bursts and their Origins,UNKNOWN,NO_ID
+Physics,Exoplanet Discoveries with Kepler,UNKNOWN,NO_ID
+Physics,The TRAPPIST-1 Exoplanet System,1703.01424,ID_NOT_FOUND
+Physics,Biosignatures in Exoplanet Atmospheres,UNKNOWN,NO_ID
+Physics,Topological Insulators in 2D and 3D,1008.2026,ID_NOT_FOUND
+Physics,The Quantum Spin Hall Effect,cond-mat,ID_NOT_FOUND
+Physics,Fractional Quantum Hall Effect,UNKNOWN,NO_ID
+Physics,Integer Quantum Hall Effect,UNKNOWN,NO_ID
+Physics,Graphene and its Electronic Properties,0902.3208,ID_NOT_FOUND
+Physics,Magic-Angle Twisted Bilayer Graphene,1803.02342,ID_NOT_FOUND
+Physics,Superconductivity in Twisted Bilayer Graphene,1803.02342,ID_NOT_FOUND
+Physics,High-Temperature Superconductivity in Cuprates,UNKNOWN,NO_ID
+Physics,Iron-Based Superconductors,0804.4815,ID_NOT_FOUND
+Physics,BCS Theory of Superconductivity,UNKNOWN,NO_ID
+Physics,Majorana Fermions in Condensed Matter Physics,1206.1736,ID_NOT_FOUND
+Physics,Topological Quantum Computation,quant-ph,ID_NOT_FOUND
+Physics,Anyons in Fractional Quantum Hall States,UNKNOWN,NO_ID
+Physics,Weyl Semimetals,1502.04684,ID_NOT_FOUND
+Physics,Dirac Semimetals,UNKNOWN,NO_ID
+Physics,Quantum Spin Liquids,cond-mat,ID_NOT_FOUND
+Physics,The Kitaev Honeycomb Model,cond-mat,ID_NOT_FOUND
+Physics,Quantum Entanglement and Bell Inequalities,quant-ph,ID_NOT_FOUND
+Physics,Quantum Teleportation Experiments,quant-ph,ID_NOT_FOUND
+Physics,Quantum Key Distribution Algorithms,UNKNOWN,NO_ID
+Physics,Peter Shor's Factoring Algorithm,quant-ph,ID_NOT_FOUND
+Physics,Lov Grover's Search Algorithm,quant-ph,ID_NOT_FOUND
+Physics,Quantum Supremacy on a Programmable Processor,1910.11333,ID_NOT_FOUND
+Physics,Surface Codes for Quantum Error Correction,1208.0928,ID_NOT_FOUND
+Physics,Fault-Tolerant Quantum Computation,UNKNOWN,NO_ID
+Physics,Variational Quantum Eigensolver,1304.3061,ID_NOT_FOUND
+Physics,Quantum Approximate Optimization Algorithm,1411.4028,ID_NOT_FOUND
+Physics,Boson Sampling with Linear Optics,1011.3245,ID_NOT_FOUND
+Physics,Time Crystals in Quantum Systems,1610.08057,ID_NOT_FOUND
+Physics,Many-Body Localization,1404.0686,ID_NOT_FOUND
+Physics,The Eigenstate Thermalization Hypothesis,cond-mat,ID_NOT_FOUND
+Physics,Quantum Chaos and OTOCs,1503.01409,ID_NOT_FOUND
+Physics,The Sachdev-Ye-Kitaev Model,1604.07818,ID_NOT_FOUND
+Physics,Fluid-Gravity Correspondence,0712.2456,ID_NOT_FOUND
+Physics,Viscosity Bound in String Theory,hep-th,ID_NOT_FOUND
+Physics,Quark-Gluon Plasma and the RHIC Results,UNKNOWN,NO_ID
+Physics,CERN LHC Results on Quark-Gluon Plasma,UNKNOWN,NO_ID
+Physics,Lattice QCD Calculations of the Hadron Spectrum,UNKNOWN,NO_ID
+Physics,Chiral Perturbation Theory,UNKNOWN,NO_ID
+Physics,The Parton Model and Deep Inelastic Scattering,UNKNOWN,NO_ID
+Physics,Asymptotic Freedom in QCD,UNKNOWN,NO_ID
+Physics,Quantum Electrodynamics Renormalization,UNKNOWN,NO_ID
+Physics,The Casimir Effect,UNKNOWN,NO_ID
+Physics,Anderson Localization,UNKNOWN,NO_ID
+Physics,The Quantum Hall Effect,UNKNOWN,NO_ID
+Physics,Bose-Einstein Condensation in Dilute Gases,cond-mat,ID_NOT_FOUND
+Physics,Feshbach Resonances in Ultracold Gases,UNKNOWN,NO_ID
+Physics,Optical Lattices and Quantum Simulation,UNKNOWN,NO_ID
+Physics,Rydberg Atoms for Quantum Information,UNKNOWN,NO_ID
+Physics,Cavity Quantum Electrodynamics,UNKNOWN,NO_ID
+Physics,Circuit Quantum Electrodynamics,UNKNOWN,NO_ID
+Physics,The Transmon Qubit,UNKNOWN,NO_ID
+Physics,Flux Qubits,UNKNOWN,NO_ID
+Physics,Phase Qubits,UNKNOWN,NO_ID
+Physics,Topological Qubits,UNKNOWN,NO_ID
+Bio,CRISPR-Cas9 gene editing technology,UNKNOWN,NO_ID
+Bio,Base editing: precision genetic alterations,UNKNOWN,NO_ID
+Bio,Prime editing: search and replace DNA,UNKNOWN,NO_ID
+Bio,Evaluating Large Language Models Trained on Code,2107.03374,TITLE_MISMATCH
+Bio,RoseTTAFold for protein interaction,2107.05047,ID_NOT_FOUND
+Bio,Single-cell RNA sequencing methodology,UNKNOWN,NO_ID
+Bio,Spatial transcriptomics techniques,UNKNOWN,NO_ID
+Bio,Deep learning for predicting protein-protein interactions,2111.02815,ID_NOT_FOUND
+Bio,Machine learning in precision medicine,UNKNOWN,NO_ID
+Bio,DeepBind: Predicting sequence specificities,1508.01259,ID_NOT_FOUND
+Bio,DeepSEA: Noncoding variants with deep learning,1508.01259,ID_NOT_FOUND
+Bio,Antibiotic discovery using deep learning,UNKNOWN,NO_ID
+Bio,ESMFold: Evolutionary Scale Modeling,2207.14255,ID_NOT_FOUND
+Bio,DeepVariant for highly accurate genome sequencing,UNKNOWN,NO_ID
+Bio,AlphaMissense for variant effects,UNKNOWN,NO_ID
+Bio,Learning Transferable Visual Models From Natural Language Supervision,2103.00020,TITLE_MISMATCH
+Bio,"""Why Should I Trust You?"": Explaining the Predictions of Any Classifier",1602.04938,TITLE_MISMATCH
+Bio,Neural Ordinary Differential Equations,1806.07366,TITLE_MISMATCH
+Bio,AlphaFold3: Interactions of protein RNA DNA,UNKNOWN,NO_ID
+Bio,Unsupervised learning of evolutionary landscapes,2101.08331,ID_NOT_FOUND
+Bio,Unified language models for biological sequences,UNKNOWN,NO_ID
+Bio,Semantic reconstruction of continuous language,UNKNOWN,NO_ID
+Bio,scVI: Deep generative modeling for transcriptomics,1709.02082,ID_NOT_FOUND
+Bio,Predicting the effects of missense variants,2309.03577,ID_NOT_FOUND
+Bio,Predicting off-target effects of CRISPR via deep learning,1806.00224,ID_NOT_FOUND
+Bio,Federated learning for healthcare data,2108.08398,ID_NOT_FOUND
+Bio,BioBERT: a pre-trained biomedical language representation,1901.08746,ID_NOT_FOUND
+Bio,PubMedBERT: Domain-Specific Language Model Pretraining,2007.15779,ID_NOT_FOUND
+Bio,Unified approach for single-cell spatial transcriptomics,UNKNOWN,NO_ID
+Bio,Decoding Neural Networks for Brain-Computer Interfaces,UNKNOWN,NO_ID
+Bio,High-throughput functional genomics via machine learning,UNKNOWN,NO_ID
+Bio,Deep learning on human genetic variation,UNKNOWN,NO_ID
+Bio,Predicting long non-coding RNA functions,UNKNOWN,NO_ID
+Bio,Structural biology in the era of AlphaFold,UNKNOWN,NO_ID
+Bio,Generative models for DNA sequences,UNKNOWN,NO_ID
+Bio,Deciphering the regulatory code of the human genome,UNKNOWN,NO_ID
+Bio,Machine learning of cellular responses to perturbations,UNKNOWN,NO_ID
+Bio,Integrative modeling of macromolecular assemblies,UNKNOWN,NO_ID
+Bio,Deep learning for highly multiplexed tissue imaging,UNKNOWN,NO_ID
+Bio,Computational systems biology of cancer,UNKNOWN,NO_ID
+Bio,Deep learning approaches to genome editing optimization,UNKNOWN,NO_ID
+Bio,Predicting protein structures from multiple sequence alignments,UNKNOWN,NO_ID
+Bio,Machine learning for single-cell epigenomics,UNKNOWN,NO_ID
+Bio,Modeling RNA structure with deep learning,UNKNOWN,NO_ID
+Bio,Deep generative design of antibodies,UNKNOWN,NO_ID
+Bio,AI in computational pathology,UNKNOWN,NO_ID
+Bio,Machine learning for infectious disease outbreaks,UNKNOWN,NO_ID
+Bio,Deep learning of protein conformational ensembles,UNKNOWN,NO_ID
+Bio,Language models for regulatory genomics,UNKNOWN,NO_ID
+Bio,Automated analysis of biological pathways using AI,UNKNOWN,NO_ID
+Bio,AI-driven optimization of synthetic biological circuits,UNKNOWN,NO_ID
+Bio,Machine learning for multi-omics biomarker discovery,UNKNOWN,NO_ID
+Bio,Predicting drug toxicity via deep learning,UNKNOWN,NO_ID
+Bio,Graph neural networks for modeling biological networks,UNKNOWN,NO_ID
+Bio,Deep learning for quantitative phenotype prediction,UNKNOWN,NO_ID
+Bio,AI for the analysis of spatial transcriptomics,UNKNOWN,NO_ID
+Bio,Deep learning models of cellular differentiation,UNKNOWN,NO_ID
+Bio,Machine learning in microbiome data analysis,UNKNOWN,NO_ID
+Bio,Deep learning for predicting protein-ligand interactions,UNKNOWN,NO_ID
+Bio,Generative AI for small molecule drug discovery,UNKNOWN,NO_ID
+Bio,AI-assisted proteomics data interpretation,UNKNOWN,NO_ID
+Bio,Machine learning for detecting actionable mutations,UNKNOWN,NO_ID
+Bio,Deep learning of chromatin accessibility,UNKNOWN,NO_ID
+Bio,Predicting transcription factor binding sites via CNNs,UNKNOWN,NO_ID
+Bio,Deep learning for interpreting untargeted metabolomics,UNKNOWN,NO_ID
+Bio,AI models for personalized medicine,UNKNOWN,NO_ID
+Bio,Translating sequences into protein structures,UNKNOWN,NO_ID
+Bio,Generative modeling of biological sequence space,UNKNOWN,NO_ID
+Bio,Self-assembling protein nanomaterials via computational design,UNKNOWN,NO_ID
+Bio,Deep learning architectures for bioinformatics,UNKNOWN,NO_ID
+Bio,Reinforcement learning for protein folding,UNKNOWN,NO_ID
+Bio,Machine learning predicts drug resistance,UNKNOWN,NO_ID
+Bio,Deep sequence models for protein family expansion,UNKNOWN,NO_ID
+Bio,Transformers in computational biology,UNKNOWN,NO_ID
+Bio,Language-model based prediction of mutation effects,UNKNOWN,NO_ID
+Bio,End-to-end biological structure prediction with AI,UNKNOWN,NO_ID
+Bio,Deep learning for systems pharmacology,UNKNOWN,NO_ID
+Bio,Generative models of complex biomolecular machines,UNKNOWN,NO_ID
+Bio,Deep learning directed evolution of enzymes,UNKNOWN,NO_ID
+Bio,Artificial intelligence enables structural mapping of the human proteome,UNKNOWN,NO_ID
+Bio,Deep models unlock evolutionary conservation,UNKNOWN,NO_ID
+Bio,Predicting 3D genome organization with AI,UNKNOWN,NO_ID
+Bio,Interpretable deep learning in biosciences,UNKNOWN,NO_ID
+Bio,Predicting post-translational modifications,UNKNOWN,NO_ID
+Bio,Machine learning analysis of microbiome interactions,UNKNOWN,NO_ID
+Bio,Sequence-based prediction of protein aggregation,UNKNOWN,NO_ID
+Bio,AI for automated experimental biology,UNKNOWN,NO_ID
+Bio,AI synthesis of biomedical research hypotheses,UNKNOWN,NO_ID
+Bio,Deep learning of RNA-protein interactions,UNKNOWN,NO_ID
+Bio,Network analysis of disease modules with graph models,UNKNOWN,NO_ID
+Bio,AI-driven systems medicine,UNKNOWN,NO_ID
+Bio,Deep models of epigenetic regulation,UNKNOWN,NO_ID
+Bio,Automated extraction of chemical-protein relations,UNKNOWN,NO_ID
+Bio,Transformers for extracting genomic relations,UNKNOWN,NO_ID
+Bio,Knowledge graphs for multi-target drug discovery,UNKNOWN,NO_ID
+Bio,Predicting off-target interactions of new therapeutics,UNKNOWN,NO_ID
+Bio,Deep learning decodes the biology of aging,UNKNOWN,NO_ID
+Bio,AI models of neurodegeneration,UNKNOWN,NO_ID
+Bio,Generative models for novel protein design,UNKNOWN,NO_ID
+Bio,Self-supervised learning on genomic sequencing data,UNKNOWN,NO_ID
+Bio,AI characterizes unannotated protein structures,UNKNOWN,NO_ID
+Bio,Deep learning reveals complex trait heritability,UNKNOWN,NO_ID
+Bio,Machine learning of cellular signal transduction,UNKNOWN,NO_ID
+Bio,Integrative AI modeling of human physiology,UNKNOWN,NO_ID
+Bio,Spatial genomics analysis via deep learning architectures,UNKNOWN,NO_ID
+Bio,AI identifies rare disease causal variants,UNKNOWN,NO_ID
+Physics,Kibble-Zurek Mechanism Theory,UNKNOWN,NO_ID
+Physics,Shor's Algorithm Experimental Verifications,UNKNOWN,NO_ID
+Physics,Topological Orders and Edge Excitations formulation,UNKNOWN,NO_ID
+Bio,Deep learning approaches to predicting enhancer-promoter interactions,UNKNOWN,NO_ID
+Bio,Generative models for DNA sequence design with neural networks,UNKNOWN,NO_ID
+Bio,Predictable genome engineering and structural manipulation using CRISPR,UNKNOWN,NO_ID
+CS,Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context architectures,1901.02860,ID_NOT_FOUND
+CS,Sparse Transformers for Long Contexts,UNKNOWN,NO_ID
+CS,Reformer: The Efficient Transformer architecture,2001.04451,ID_NOT_FOUND
+CS,Longformer: The Long-Document Transformer mechanism,2004.05150,ID_NOT_FOUND
+CS,Linformer: Self-Attention with Linear Complexity scaling,2006.04768,ID_NOT_FOUND
+CS,Perceiver: General Perception with Iterative Attention methodology,2103.03206,ID_NOT_FOUND
+CS,Perceiver IO: A General Architecture for Structured Inputs and Outputs,2107.14795,ID_NOT_FOUND
+CS,A ConvNet for the 2020s paradigm,2201.03545,ID_NOT_FOUND
+CS,MLP-Mixer: An all-MLP Architecture for Vision recognition,2105.01601,ID_NOT_FOUND
+CS,Masked Autoencoders Are Scalable Vision Learners,2111.06377,VERIFIED
+CS,MoCo: Momentum Contrast for Unsupervised Visual Representation Learning system,1911.05722,ID_NOT_FOUND
+CS,A Simple Framework for Contrastive Learning of Visual Representations,2002.05709,VERIFIED
+CS,BYOL: Bootstrap Your Own Latent A New Approach to Self-Supervised Learning method,2006.07733,ID_NOT_FOUND
+Math,Grothendieck's resolution of singularities,UNKNOWN,NO_ID
+Math,Fermat's little theorem generalisations,UNKNOWN,NO_ID
+Math,Ramanujan's master theorem,UNKNOWN,NO_ID
+Math,Euler's formula for complex analysis,UNKNOWN,NO_ID
+Math,Cantor's diagonal argument,UNKNOWN,NO_ID
+Math,Godel's incompleteness theorems derivations,UNKNOWN,NO_ID
+Math,Cohen's forcing in set theory,UNKNOWN,NO_ID
+Math,Zermelo-Fraenkel set theory axioms,UNKNOWN,NO_ID
+Bio,Transcriptional regulation mechanisms in eukaryotic cells,UNKNOWN,NO_ID
+Bio,Epigenetic inheritance and chromatin mechanisms,UNKNOWN,NO_ID
+Bio,Non-coding RNAs and their roles in gene regulation,UNKNOWN,NO_ID
+Bio,Telomeres and telomerase in aging and cancer,UNKNOWN,NO_ID
+Bio,Apoptosis mechanisms and pathways,UNKNOWN,NO_ID
+Bio,Autophagy regulation and its significance,UNKNOWN,NO_ID
+Bio,Cell cycle regulation and checkpoints,UNKNOWN,NO_ID
+Bio,Signal transduction pathways in cellular communication,UNKNOWN,NO_ID
+Bio,Mechanisms of membrane transport,UNKNOWN,NO_ID
+Bio,ATP generation and mitochondrial function,UNKNOWN,NO_ID
+Bio,Photosynthesis mechanisms and light reactions,UNKNOWN,NO_ID
+Bio,Nitrogen fixation pathways in bacteria,UNKNOWN,NO_ID
+Bio,Mechanisms of DNA replication and repair,UNKNOWN,NO_ID
+Bio,Homologous recombination in meiosis,UNKNOWN,NO_ID
+Bio,V(D)J recombination in the immune system,UNKNOWN,NO_ID
+Bio,Major histocompatibility complex (MHC) mechanisms,UNKNOWN,NO_ID
+Bio,T-cell receptor signaling pathways,UNKNOWN,NO_ID
+Bio,B-cell activation and antibody production,UNKNOWN,NO_ID
+Bio,Innate immune responses and toll-like receptors,UNKNOWN,NO_ID
+Bio,Complement system activation pathways,UNKNOWN,NO_ID
+Bio,Mechanisms of viral entry and replication,UNKNOWN,NO_ID
+Bio,Pathogenesis of bacterial infections,UNKNOWN,NO_ID
+Bio,Mechanisms of antibiotic resistance,UNKNOWN,NO_ID
+Bio,Quorum sensing in bacterial populations,UNKNOWN,NO_ID
+Bio,Biofilm formation and regulation,UNKNOWN,NO_ID
+Bio,Mechanisms of fungal pathogenesis,UNKNOWN,NO_ID
+Bio,Host-pathogen interactions and defense mechanisms,UNKNOWN,NO_ID
+Bio,Mechanisms of neurogenesis and development,UNKNOWN,NO_ID
+Bio,Synaptic transmission and plasticity,UNKNOWN,NO_ID
+Bio,Long-term potentiation and memory formation,UNKNOWN,NO_ID
+Bio,Mechanisms of sensory transduction,UNKNOWN,NO_ID
+Bio,Motor control pathways in the central nervous system,UNKNOWN,NO_ID
+Bio,Autonomic nervous system regulation,UNKNOWN,NO_ID
+Bio,Neuroendocrine regulation and hormone action,UNKNOWN,NO_ID
+Bio,Mechanisms of circadian rhythms and sleep,UNKNOWN,NO_ID
+Bio,Pathophysiology of neurodegenerative diseases,UNKNOWN,NO_ID
+Bio,Mechanisms of psychiatric disorders,UNKNOWN,NO_ID
+Bio,Cardiovascular system regulation and function,UNKNOWN,NO_ID
+Bio,Respiratory mechanics and gas exchange,UNKNOWN,NO_ID
+Bio,Renal physiology and fluid balance,UNKNOWN,NO_ID
+Bio,Gastrointestinal motility and digestion,UNKNOWN,NO_ID
+Bio,Endocrine system and metabolic regulation,UNKNOWN,NO_ID
+Bio,Reproductive system physiology and endocrinology,UNKNOWN,NO_ID
+Bio,Mechanisms of muscle contraction,UNKNOWN,NO_ID
+Bio,Bone remodeling and calcium homeostasis,UNKNOWN,NO_ID
+Bio,Immune system aging and immunosenescence,UNKNOWN,NO_ID
+Bio,Cellular mechanisms of aging,UNKNOWN,NO_ID
+Bio,Mechanisms of tumor angiogenesis,UNKNOWN,NO_ID
+Bio,Metastasis pathways in cancer,UNKNOWN,NO_ID

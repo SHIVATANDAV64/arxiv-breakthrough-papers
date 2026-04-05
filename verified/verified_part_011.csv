@@ -1,0 +1,11 @@
+Domain,Title,arXiv_ID
+CS,AlphaStar: Mastering the Real-Time Strategy Game StarCraft II,UNKNOWN
+CS,MuZero: Mastering Atari Go Chess and Shogi by Planning with a Learned Model,1911.08265
+CS,InstructGPT: Training language models to follow instructions with human feedback,2203.02155
+CS,RLHF: Deep Reinforcement Learning from Human Preferences,1706.03741
+CS,LoRA: Low-Rank Adaptation of Large Language Models,2106.09685
+CS,FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness,2205.14135
+CS,Chinchilla: Training Compute-Optimal Large Language Models,2203.15556
+CS,PaLM: Scaling Language Modeling with Pathways,2204.02311
+CS,OPT: Open Pre-trained Transformer Language Models,2205.01068
+CS,LLaMA: Open and Efficient Foundation Language Models,2302.13971

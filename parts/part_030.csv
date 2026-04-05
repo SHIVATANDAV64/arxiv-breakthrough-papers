@@ -1,0 +1,11 @@
+Domain,Title,Link
+CS,TensorFlow: A System for Large-Scale Machine Learning,https://arxiv.org/abs/1605.08695
+CS,Horovod: fast and easy distributed deep learning in TensorFlow,https://arxiv.org/abs/1802.05799
+CS,Dryad: Distributed Data-Parallel Programs from Sequential Building Blocks,https://arxiv.org/search/?query=Dryad+Distributed&searchtype=title
+CS,MapReduce: Simplified Data Processing on Large Clusters,https://arxiv.org/search/?query=MapReduce&searchtype=title
+CS,Paxos Made Simple,https://arxiv.org/search/?query=Paxos+Made+Simple&searchtype=title
+CS,In Search of an Understandable Consensus Algorithm (Raft),https://arxiv.org/search/?query=In+Search+of+an+Understandable+Consensus+Algorithm&searchtype=title
+CS,Bitcoin: A Peer-to-Peer Electronic Cash System,https://arxiv.org/search/?query=Bitcoin&searchtype=title
+CS,Ethereum: A Secure Decentralised Generalised Transaction Ledger,https://arxiv.org/search/?query=Ethereum&searchtype=title
+CS,Zero-Knowledge Succinct Non-Interactive Argument of Knowledge (zk-SNARK),https://arxiv.org/search/?query=Zero-Knowledge+Succinct+Non-Interactive+Argument+of+Knowledge&searchtype=title
+CS,Bulletproofs: Short Proofs for Confidential Transactions and More,https://arxiv.org/search/?query=Bulletproofs&searchtype=title

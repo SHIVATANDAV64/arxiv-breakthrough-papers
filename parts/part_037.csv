@@ -1,0 +1,11 @@
+Domain,Title,Link
+CS,PPO: Proximal Policy Optimization Algorithms,https://arxiv.org/abs/1707.06347
+CS,A3C: Asynchronous Methods for Deep Reinforcement Learning,https://arxiv.org/abs/1602.01783
+CS,MuJoCo: A physics engine for model-based control,https://arxiv.org/search/?query=MuJoCo&searchtype=title
+CS,Isaac Gym: High Performance GPU-Based Physics Simulation For Robot Learning,https://arxiv.org/abs/2108.10470
+CS,Sim2Real View Invariant Visual Servoing by Recurrent Control,https://arxiv.org/abs/1712.07642
+CS,Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World,https://arxiv.org/abs/1703.06907
+CS,Learning Dexterous In-Hand Manipulation,https://arxiv.org/abs/1808.00177
+CS,RT-1: Robotics Transformer for Real-World Control at Scale,https://arxiv.org/abs/2212.06817
+CS,RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control,https://arxiv.org/abs/2307.15818
+CS,SayCan: Do As I Can,Not As I Say: Grounding Language in Robotic Affordances

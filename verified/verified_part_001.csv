@@ -1,0 +1,11 @@
+Domain,Title,arXiv_ID
+CS,Attention Is All You Need,1706.03762
+CS,Adam: A Method for Stochastic Optimization,1412.6980
+CS,Deep Residual Learning for Image Recognition,1512.03385
+CS,Generative Adversarial Networks,1406.2661
+CS,BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,1810.04805
+CS,Playing Atari with Deep Reinforcement Learning,1312.5602
+CS,Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm,1712.01815
+CS,Language Models are Few-Shot Learners,2005.14165
+CS,Improving neural networks by preventing co-adaptation of feature detectors,1207.0580
+CS,Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift,1502.03167

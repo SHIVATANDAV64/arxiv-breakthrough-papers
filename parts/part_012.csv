@@ -1,0 +1,11 @@
+Domain,Title,Link
+CS,Chain-of-Thought Prompting Elicits Reasoning in Large Language Models,https://arxiv.org/abs/2201.11903
+CS,Self-Consistency Improves Chain of Thought Reasoning in Language Models,https://arxiv.org/abs/2203.11171
+CS,ReAct: Synergizing Reasoning and Acting in Language Models,https://arxiv.org/abs/2210.03629
+CS,AutoGPT: Autonomous Agents for Language Models,https://arxiv.org/search/?query=Autonomous+Agents+for+Language+Models&searchtype=title
+CS,Generative Agents: Interactive Simulacra of Human Behavior,https://arxiv.org/abs/2304.03442
+CS,Voyager: An Open-Ended Embodied Agent with Large Language Models,https://arxiv.org/abs/2305.16291
+CS,Tree of Thoughts: Deliberate Problem Solving with Large Language Models,https://arxiv.org/abs/2305.10601
+CS,Sparks of Artificial General Intelligence: Early experiments with GPT-4,https://arxiv.org/abs/2303.12712
+CS,Constitutional AI: Harmlessness from AI Feedback,https://arxiv.org/abs/2212.08073
+CS,InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning,https://arxiv.org/abs/2305.06500

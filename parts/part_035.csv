@@ -1,0 +1,11 @@
+Domain,Title,Link
+CS,Equivariant Neural Networks,https://arxiv.org/search/?query=Equivariant+Neural+Networks&searchtype=title
+CS,Spherical CNNs,https://arxiv.org/abs/1801.06297
+CS,Group Equivariant Convolutional Networks,https://arxiv.org/abs/1602.07576
+CS,Neural Radiance Fields (NeRF),https://arxiv.org/abs/2003.08934
+CS,Gaussian Splatting for Real-Time Radiance Field Rendering,https://arxiv.org/search/?query=Gaussian+Splatting&searchtype=title
+CS,Stable Diffusion: High-Resolution Image Synthesis with Latent Diffusion Models,https://arxiv.org/abs/2112.10752
+CS,Sora: Video generation models as world simulators,https://arxiv.org/search/?query=Sora+Video+generation+models&searchtype=title
+CS,Imagen: Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding,https://arxiv.org/abs/2205.11487
+CS,Midjourney: Advanced text to image,https://arxiv.org/search/?query=Midjourney&searchtype=title
+CS,DALL-E 2: Hierarchical Text-Conditional Image Generation with CLIP Latents,https://arxiv.org/abs/2204.06125

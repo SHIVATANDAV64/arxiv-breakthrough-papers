@@ -1,0 +1,11 @@
+Domain,Title,Link
+Bio,Protein sequence-to-structure learning with transformers,https://arxiv.org/abs/2012.15340
+Bio,ESMFold: Evolutionary Scale Modeling of protein structures,https://arxiv.org/abs/2207.14255
+Bio,CRISPR-Cas9-mediated genome editing in human cells,https://arxiv.org/search/?query=CRISPR-Cas9+genome+editing&searchtype=title
+Bio,Base editing: precision chemistry on the genome,https://arxiv.org/search/?query=Base+editing+precision+chemistry&searchtype=title
+Bio,Prime editing: search-and-replace genome editing,https://arxiv.org/search/?query=Prime+editing+search-and-replace&searchtype=title
+Bio,A unified approach to interpreting model predictions in genomics,https://arxiv.org/abs/1705.07874
+Bio,Graph Convolutional Networks for drug discovery,https://arxiv.org/abs/1808.03264
+Bio,DeepVariant: Highly accurate genome sequencing,https://arxiv.org/search/?query=DeepVariant+Highly+accurate+genome+sequencing&searchtype=title
+Bio,AlphaMissense: accurate prediction of variant effects,https://arxiv.org/search/?query=AlphaMissense&searchtype=title
+Bio,De novo generation of protein sequences,https://arxiv.org/abs/1904.0934

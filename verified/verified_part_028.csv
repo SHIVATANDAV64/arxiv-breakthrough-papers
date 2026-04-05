@@ -1,0 +1,11 @@
+Domain,Title,arXiv_ID
+CS,Longformer: The Long-Document Transformer,2004.05150
+CS,Linformer: Self-Attention with Linear Complexity,2006.04768
+CS,Perceiver: General Perception with Iterative Attention,2103.03206
+CS,Perceiver IO: A General Architecture for Structured Inputs & Outputs,2107.14795
+CS,A ConvNet for the 2020s,2201.03545
+CS,MLP-Mixer: An all-MLP Architecture for Vision,2105.01601
+CS,Masked Autoencoders Are Scalable Vision Learners,2111.06377
+CS,MoCo: Momentum Contrast for Unsupervised Visual Representation Learning,1911.05722
+CS,BYOL: Bootstrap Your Own Latent A New Approach to Self-Supervised Learning,2006.07733
+CS,Emerging Properties in Self-Supervised Vision Transformers,2104.14294

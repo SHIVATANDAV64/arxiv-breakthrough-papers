@@ -1,0 +1,11 @@
+Domain,Title,Link
+CS,WGAN-GP: Improved Training of Wasserstein GANs,https://arxiv.org/abs/1704.00028
+CS,CycleGAN: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks,https://arxiv.org/abs/1703.10593
+CS,Pix2Pix: Image-to-Image Translation with Conditional Adversarial Networks,https://arxiv.org/abs/1611.07004
+CS,AlexNet: ImageNet Classification with Deep Convolutional Neural Networks,https://arxiv.org/search/?query=ImageNet+Classification+with+Deep+Convolutional&searchtype=title
+CS,VGGNet: Very Deep Convolutional Networks for Large-Scale Image Recognition,https://arxiv.org/abs/1409.1556
+CS,Inception: Going Deeper with Convolutions,https://arxiv.org/abs/1409.4842
+CS,ResNeXt: Aggregated Residual Transformations for Deep Neural Networks,https://arxiv.org/abs/1611.05431
+CS,DenseNet: Densely Connected Convolutional Networks,https://arxiv.org/abs/1608.06993
+CS,MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications,https://arxiv.org/abs/1704.04861
+CS,MobileNetV2: Inverted Residuals and Linear Bottlenecks,https://arxiv.org/abs/1801.04381

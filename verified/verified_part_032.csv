@@ -1,0 +1,11 @@
+Domain,Title,arXiv_ID
+CS,t-SNE: Visualizing Data using t-SNE,UNKNOWN
+CS,UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction,1802.03426
+CS,LightGBM: A Highly Efficient Gradient Boosting Decision Tree,UNKNOWN
+CS,CatBoost: unbiased boosting with categorical features,1706.09516
+CS,WordPiece Subword Routing,UNKNOWN
+CS,Byte Pair Encoding for Neural Machine Translation,1508.07909
+CS,SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing,1808.06226
+CS,Reasoning with Language Model is Planning with World Model,2305.14992
+CS,Q-Learning for Reinforcement Learning,UNKNOWN
+CS,Trust Region Policy Optimization (TRPO),1502.05477

@@ -1,0 +1,6893 @@
+nohup: ignoring input
+Total papers: 1000
+Created parts/part_001.csv
+Created parts/part_002.csv
+Created parts/part_003.csv
+Created parts/part_004.csv
+Created parts/part_005.csv
+Created parts/part_006.csv
+Created parts/part_007.csv
+Created parts/part_008.csv
+Created parts/part_009.csv
+Created parts/part_010.csv
+Created parts/part_011.csv
+Created parts/part_012.csv
+Created parts/part_013.csv
+Created parts/part_014.csv
+Created parts/part_015.csv
+Created parts/part_016.csv
+Created parts/part_017.csv
+Created parts/part_018.csv
+Created parts/part_019.csv
+Created parts/part_020.csv
+Created parts/part_021.csv
+Created parts/part_022.csv
+Created parts/part_023.csv
+Created parts/part_024.csv
+Created parts/part_025.csv
+Created parts/part_026.csv
+Created parts/part_027.csv
+Created parts/part_028.csv
+Created parts/part_029.csv
+Created parts/part_030.csv
+Created parts/part_031.csv
+Created parts/part_032.csv
+Created parts/part_033.csv
+Created parts/part_034.csv
+Created parts/part_035.csv
+Created parts/part_036.csv
+Created parts/part_037.csv
+Created parts/part_038.csv
+Created parts/part_039.csv
+Created parts/part_040.csv
+Created parts/part_041.csv
+Created parts/part_042.csv
+Created parts/part_043.csv
+Created parts/part_044.csv
+Created parts/part_045.csv
+Created parts/part_046.csv
+Created parts/part_047.csv
+Created parts/part_048.csv
+Created parts/part_049.csv
+Created parts/part_050.csv
+Created parts/part_051.csv
+Created parts/part_052.csv
+Created parts/part_053.csv
+Created parts/part_054.csv
+Created parts/part_055.csv
+Created parts/part_056.csv
+Created parts/part_057.csv
+Created parts/part_058.csv
+Created parts/part_059.csv
+Created parts/part_060.csv
+Created parts/part_061.csv
+Created parts/part_062.csv
+Created parts/part_063.csv
+Created parts/part_064.csv
+Created parts/part_065.csv
+Created parts/part_066.csv
+Created parts/part_067.csv
+Created parts/part_068.csv
+Created parts/part_069.csv
+Created parts/part_070.csv
+Created parts/part_071.csv
+Created parts/part_072.csv
+Created parts/part_073.csv
+Created parts/part_074.csv
+Created parts/part_075.csv
+Created parts/part_076.csv
+Created parts/part_077.csv
+Created parts/part_078.csv
+Created parts/part_079.csv
+Created parts/part_080.csv
+Created parts/part_081.csv
+Created parts/part_082.csv
+Created parts/part_083.csv
+Created parts/part_084.csv
+Created parts/part_085.csv
+Created parts/part_086.csv
+Created parts/part_087.csv
+Created parts/part_088.csv
+Created parts/part_089.csv
+Created parts/part_090.csv
+Created parts/part_091.csv
+Created parts/part_092.csv
+Created parts/part_093.csv
+Created parts/part_094.csv
+Created parts/part_095.csv
+Created parts/part_096.csv
+Created parts/part_097.csv
+Created parts/part_098.csv
+Created parts/part_099.csv
+Created parts/part_100.csv
+
+============================================================
+Starting verification (ID-first approach)...
+============================================================
+
+======================================================================
+PROCESSING PART 1/100
+======================================================================
+
+--- Paper 1/10 in Part 1 ---
+
+Verifying: Attention Is All You Need
+  Original ID: 1706.03762
+  ✓ VERIFIED: Title matches ID
+  Official: Attention Is All You Need | ID: 1706.03762
+
+--- Paper 2/10 in Part 1 ---
+
+Verifying: Adam: A Method for Stochastic Optimization
+  Original ID: 1412.6980
+  ✓ VERIFIED: Title matches ID
+  Official: Adam: A Method for Stochastic Optimization | ID: 1412.6980
+
+--- Paper 3/10 in Part 1 ---
+
+Verifying: Deep Residual Learning for Image Recognition
+  Original ID: 1512.03385
+  ✓ VERIFIED: Title matches ID
+  Official: Deep Residual Learning for Image Recognition | ID: 1512.03385
+
+--- Paper 4/10 in Part 1 ---
+
+Verifying: Generative Adversarial Nets
+  Original ID: 1406.2661
+  ⚠ MISMATCH:
+    Expected title: Generative Adversarial Nets
+    ID 1406.2661 has: Generative Adversarial Networks
+
+--- Paper 5/10 in Part 1 ---
+
+Verifying: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+  Original ID: 1810.04805
+  ✓ VERIFIED: Title matches ID
+  Official: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | ID: 1810.04805
+
+--- Paper 6/10 in Part 1 ---
+
+Verifying: Playing Atari with Deep Reinforcement Learning
+  Original ID: 1312.5602
+  ✓ VERIFIED: Title matches ID
+  Official: Playing Atari with Deep Reinforcement Learning | ID: 1312.5602
+
+--- Paper 7/10 in Part 1 ---
+
+Verifying: Mastering the game of Go without human knowledge
+  Original ID: 1712.01815
+  ⚠ MISMATCH:
+    Expected title: Mastering the game of Go without human knowledge
+    ID 1712.01815 has: Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm
+
+--- Paper 8/10 in Part 1 ---
+
+Verifying: Language Models are Few-Shot Learners
+  Original ID: 2005.14165
+  ✓ VERIFIED: Title matches ID
+  Official: Language Models are Few-Shot Learners | ID: 2005.14165
+
+--- Paper 9/10 in Part 1 ---
+
+Verifying: Dropout: A Simple Way to Prevent Neural Networks from Overfitting
+  Original ID: 1207.0580
+  ⚠ MISMATCH:
+    Expected title: Dropout: A Simple Way to Prevent Neural Networks from Overfitting
+    ID 1207.0580 has: Improving neural networks by preventing co-adaptation of feature detectors
+
+--- Paper 10/10 in Part 1 ---
+
+Verifying: Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
+  Original ID: 1502.03167
+  ✓ VERIFIED: Title matches ID
+  Official: Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift | ID: 1502.03167
+
+✓ Saved: verified/verified_part_001.csv
+
+======================================================================
+PROCESSING PART 2/100
+======================================================================
+
+--- Paper 1/10 in Part 2 ---
+
+Verifying: Auto-Encoding Variational Bayes
+  Original ID: 1312.6114
+  ✓ VERIFIED: Title matches ID
+  Official: Auto-Encoding Variational Bayes | ID: 1312.6114
+
+--- Paper 2/10 in Part 2 ---
+
+Verifying: Show and Tell: A Neural Image Caption Generator
+  Original ID: 1411.4555
+  ✓ VERIFIED: Title matches ID
+  Official: Show and Tell: A Neural Image Caption Generator | ID: 1411.4555
+
+--- Paper 3/10 in Part 2 ---
+
+Verifying: Sequence to Sequence Learning with Neural Networks
+  Original ID: 1409.3215
+  ✓ VERIFIED: Title matches ID
+  Official: Sequence to Sequence Learning with Neural Networks | ID: 1409.3215
+
+--- Paper 4/10 in Part 2 ---
+
+Verifying: Neural Machine Translation by Jointly Learning to Align and Translate
+  Original ID: 1409.0473
+  ✓ VERIFIED: Title matches ID
+  Official: Neural Machine Translation by Jointly Learning to Align and Translate | ID: 1409.0473
+
+--- Paper 5/10 in Part 2 ---
+
+Verifying: Word2Vec: Efficient Estimation of Word Representations in Vector Space
+  Original ID: 1301.3781
+  ✓ VERIFIED: Title matches ID
+  Official: Efficient Estimation of Word Representations in Vector Space | ID: 1301.3781
+
+--- Paper 6/10 in Part 2 ---
+
+Verifying: Distributed Representations of Words and Phrases and their Compositionality
+  Original ID: 1310.4546
+  ✓ VERIFIED: Title matches ID
+  Official: Distributed Representations of Words and Phrases and their Compositionality | ID: 1310.4546
+
+--- Paper 7/10 in Part 2 ---
+
+Verifying: Very Deep Convolutional Networks for Large-Scale Image Recognition
+  Original ID: 1409.1556
+  ✓ VERIFIED: Title matches ID
+  Official: Very Deep Convolutional Networks for Large-Scale Image Recognition | ID: 1409.1556
+
+--- Paper 8/10 in Part 2 ---
+
+Verifying: Going Deeper with Convolutions
+  Original ID: 1409.4842
+  ✓ VERIFIED: Title matches ID
+  Official: Going Deeper with Convolutions | ID: 1409.4842
+
+--- Paper 9/10 in Part 2 ---
+
+Verifying: U-Net: Convolutional Networks for Biomedical Image Segmentation
+  Original ID: 1505.04597
+  ✓ VERIFIED: Title matches ID
+  Official: U-Net: Convolutional Networks for Biomedical Image Segmentation | ID: 1505.04597
+
+--- Paper 10/10 in Part 2 ---
+
+Verifying: Mask R-CNN
+  Original ID: 1703.06870
+  ✓ VERIFIED: Title matches ID
+  Official: Mask R-CNN | ID: 1703.06870
+
+✓ Saved: verified/verified_part_002.csv
+
+======================================================================
+PROCESSING PART 3/100
+======================================================================
+
+--- Paper 1/10 in Part 3 ---
+
+Verifying: Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
+  Original ID: 1506.01497
+  ✓ VERIFIED: Title matches ID
+  Official: Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks | ID: 1506.01497
+
+--- Paper 2/10 in Part 3 ---
+
+Verifying: You Only Look Once: Unified Real-Time Object Detection
+  Original ID: 1506.02640
+  ✓ VERIFIED: Title matches ID
+  Official: You Only Look Once: Unified, Real-Time Object Detection | ID: 1506.02640
+
+--- Paper 3/10 in Part 3 ---
+
+Verifying: SSD: Single Shot MultiBox Detector
+  Original ID: 1512.02325
+  ✓ VERIFIED: Title matches ID
+  Official: SSD: Single Shot MultiBox Detector | ID: 1512.02325
+
+--- Paper 4/10 in Part 3 ---
+
+Verifying: XGBoost: A Scalable Tree Boosting System
+  Original ID: 1603.02754
+  ✓ VERIFIED: Title matches ID
+  Official: XGBoost: A Scalable Tree Boosting System | ID: 1603.02754
+
+--- Paper 5/10 in Part 3 ---
+
+Verifying: Graph Convolutional Networks for Semi-Supervised Classification
+  Original ID: 1609.02907
+  ✓ VERIFIED: Title matches ID
+  Official: Semi-Supervised Classification with Graph Convolutional Networks | ID: 1609.02907
+
+--- Paper 6/10 in Part 3 ---
+
+Verifying: Graph Attention Networks
+  Original ID: 1710.10903
+  ✓ VERIFIED: Title matches ID
+  Official: Graph Attention Networks | ID: 1710.10903
+
+--- Paper 7/10 in Part 3 ---
+
+Verifying: Inductive Representation Learning on Large Graphs
+  Original ID: 1706.02216
+  ✓ VERIFIED: Title matches ID
+  Official: Inductive Representation Learning on Large Graphs | ID: 1706.02216
+
+--- Paper 8/10 in Part 3 ---
+
+Verifying: Semi-Supervised Classification with Graph Convolutional Networks
+  Original ID: 1609.02907
+  ✓ VERIFIED: Title matches ID
+  Official: Semi-Supervised Classification with Graph Convolutional Networks | ID: 1609.02907
+
+--- Paper 9/10 in Part 3 ---
+
+Verifying: Deep Reinforcement Learning with Double Q-learning
+  Original ID: 1509.06461
+  ✓ VERIFIED: Title matches ID
+  Official: Deep Reinforcement Learning with Double Q-learning | ID: 1509.06461
+
+--- Paper 10/10 in Part 3 ---
+
+Verifying: Continuous control with deep reinforcement learning
+  Original ID: 1509.02971
+  ✓ VERIFIED: Title matches ID
+  Official: Continuous control with deep reinforcement learning | ID: 1509.02971
+
+✓ Saved: verified/verified_part_003.csv
+
+======================================================================
+PROCESSING PART 4/100
+======================================================================
+
+--- Paper 1/10 in Part 4 ---
+
+Verifying: Asynchronous Methods for Deep Reinforcement Learning
+  Original ID: 1602.01783
+  ✓ VERIFIED: Title matches ID
+  Official: Asynchronous Methods for Deep Reinforcement Learning | ID: 1602.01783
+
+--- Paper 2/10 in Part 4 ---
+
+Verifying: Proximal Policy Optimization Algorithms
+  Original ID: 1707.06347
+  ✓ VERIFIED: Title matches ID
+  Official: Proximal Policy Optimization Algorithms | ID: 1707.06347
+
+--- Paper 3/10 in Part 4 ---
+
+Verifying: Neural Turing Machines
+  Original ID: 1410.5401
+  ✓ VERIFIED: Title matches ID
+  Official: Neural Turing Machines | ID: 1410.5401
+
+--- Paper 4/10 in Part 4 ---
+
+Verifying: Memory Networks
+  Original ID: 1410.3916
+  ✓ VERIFIED: Title matches ID
+  Official: Memory Networks | ID: 1410.3916
+
+--- Paper 5/10 in Part 4 ---
+
+Verifying: End-To-End Memory Networks
+  Original ID: 1503.08895
+  ✓ VERIFIED: Title matches ID
+  Official: End-To-End Memory Networks | ID: 1503.08895
+
+--- Paper 6/10 in Part 4 ---
+
+Verifying: Pointer Networks
+  Original ID: 1506.03134
+  ✓ VERIFIED: Title matches ID
+  Official: Pointer Networks | ID: 1506.03134
+
+--- Paper 7/10 in Part 4 ---
+
+Verifying: A Neural Conversational Model
+  Original ID: 1506.05869
+  ✓ VERIFIED: Title matches ID
+  Official: A Neural Conversational Model | ID: 1506.05869
+
+--- Paper 8/10 in Part 4 ---
+
+Verifying: GloVe: Global Vectors for Word Representation
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 4 ---
+
+Verifying: ELMo: Deep contextualized word representations
+  Original ID: 1802.05365
+  ✓ VERIFIED: Title matches ID
+  Official: Deep contextualized word representations | ID: 1802.05365
+
+--- Paper 10/10 in Part 4 ---
+
+Verifying: RoBERTa: A Robustly Optimized BERT Pretraining Approach
+  Original ID: 1907.11692
+  ✓ VERIFIED: Title matches ID
+  Official: RoBERTa: A Robustly Optimized BERT Pretraining Approach | ID: 1907.11692
+
+✓ Saved: verified/verified_part_004.csv
+
+======================================================================
+PROCESSING PART 5/100
+======================================================================
+
+--- Paper 1/10 in Part 5 ---
+
+Verifying: ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
+  Original ID: 1909.11942
+  ✓ VERIFIED: Title matches ID
+  Official: ALBERT: A Lite BERT for Self-supervised Learning of Language Representations | ID: 1909.11942
+
+--- Paper 2/10 in Part 5 ---
+
+Verifying: T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer
+  Original ID: 1910.10683
+  ✓ VERIFIED: Title matches ID
+  Official: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer | ID: 1910.10683
+
+--- Paper 3/10 in Part 5 ---
+
+Verifying: DistilBERT a distilled version of BERT: smaller faster cheaper and lighter
+  Original ID: 1910.01108
+  ✓ VERIFIED: Title matches ID
+  Official: DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter | ID: 1910.01108
+
+--- Paper 4/10 in Part 5 ---
+
+Verifying: GauGAN: Semantic Image Synthesis with Spatially-Adaptive Normalization
+  Original ID: 1903.07291
+  ✓ VERIFIED: Title matches ID
+  Official: Semantic Image Synthesis with Spatially-Adaptive Normalization | ID: 1903.07291
+
+--- Paper 5/10 in Part 5 ---
+
+Verifying: StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks
+  Original ID: 1812.04948
+  ✓ VERIFIED: Title matches ID
+  Official: A Style-Based Generator Architecture for Generative Adversarial Networks | ID: 1812.04948
+
+--- Paper 6/10 in Part 5 ---
+
+Verifying: StyleGAN2: Analyzing and Improving the Image Quality of StyleGAN
+  Original ID: 1912.04958
+  ✓ VERIFIED: Title matches ID
+  Official: Analyzing and Improving the Image Quality of StyleGAN | ID: 1912.04958
+
+--- Paper 7/10 in Part 5 ---
+
+Verifying: DDPG: Continuous control with deep reinforcement learning
+  Original ID: 1509.02971
+  ✓ VERIFIED: Title matches ID
+  Official: Continuous control with deep reinforcement learning | ID: 1509.02971
+
+--- Paper 8/10 in Part 5 ---
+
+Verifying: Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor
+  Original ID: 1801.01290
+  ✓ VERIFIED: Title matches ID
+  Official: Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor | ID: 1801.01290
+
+--- Paper 9/10 in Part 5 ---
+
+Verifying: Deep Q-Network: Playing Atari with Deep Reinforcement Learning
+  Original ID: 1312.5602
+  ✓ VERIFIED: Title matches ID
+  Official: Playing Atari with Deep Reinforcement Learning | ID: 1312.5602
+
+--- Paper 10/10 in Part 5 ---
+
+Verifying: WGAN: Wasserstein GAN
+  Original ID: 1701.07875
+  ✓ VERIFIED: Title matches ID
+  Official: Wasserstein GAN | ID: 1701.07875
+
+✓ Saved: verified/verified_part_005.csv
+
+======================================================================
+PROCESSING PART 6/100
+======================================================================
+
+--- Paper 1/10 in Part 6 ---
+
+Verifying: WGAN-GP: Improved Training of Wasserstein GANs
+  Original ID: 1704.00028
+  ✓ VERIFIED: Title matches ID
+  Official: Improved Training of Wasserstein GANs | ID: 1704.00028
+
+--- Paper 2/10 in Part 6 ---
+
+Verifying: CycleGAN: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
+  Original ID: 1703.10593
+  ✓ VERIFIED: Title matches ID
+  Official: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks | ID: 1703.10593
+
+--- Paper 3/10 in Part 6 ---
+
+Verifying: Pix2Pix: Image-to-Image Translation with Conditional Adversarial Networks
+  Original ID: 1611.07004
+  ✓ VERIFIED: Title matches ID
+  Official: Image-to-Image Translation with Conditional Adversarial Networks | ID: 1611.07004
+
+--- Paper 4/10 in Part 6 ---
+
+Verifying: AlexNet: ImageNet Classification with Deep Convolutional Neural Networks
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 6 ---
+
+Verifying: VGGNet: Very Deep Convolutional Networks for Large-Scale Image Recognition
+  Original ID: 1409.1556
+  ✓ VERIFIED: Title matches ID
+  Official: Very Deep Convolutional Networks for Large-Scale Image Recognition | ID: 1409.1556
+
+--- Paper 6/10 in Part 6 ---
+
+Verifying: Inception: Going Deeper with Convolutions
+  Original ID: 1409.4842
+  ✓ VERIFIED: Title matches ID
+  Official: Going Deeper with Convolutions | ID: 1409.4842
+
+--- Paper 7/10 in Part 6 ---
+
+Verifying: ResNeXt: Aggregated Residual Transformations for Deep Neural Networks
+  Original ID: 1611.05431
+  ✓ VERIFIED: Title matches ID
+  Official: Aggregated Residual Transformations for Deep Neural Networks | ID: 1611.05431
+
+--- Paper 8/10 in Part 6 ---
+
+Verifying: DenseNet: Densely Connected Convolutional Networks
+  Original ID: 1608.06993
+  ✓ VERIFIED: Title matches ID
+  Official: Densely Connected Convolutional Networks | ID: 1608.06993
+
+--- Paper 9/10 in Part 6 ---
+
+Verifying: MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
+  Original ID: 1704.04861
+  ✓ VERIFIED: Title matches ID
+  Official: MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications | ID: 1704.04861
+
+--- Paper 10/10 in Part 6 ---
+
+Verifying: MobileNetV2: Inverted Residuals and Linear Bottlenecks
+  Original ID: 1801.04381
+  ✓ VERIFIED: Title matches ID
+  Official: MobileNetV2: Inverted Residuals and Linear Bottlenecks | ID: 1801.04381
+
+✓ Saved: verified/verified_part_006.csv
+
+======================================================================
+PROCESSING PART 7/100
+======================================================================
+
+--- Paper 1/10 in Part 7 ---
+
+Verifying: EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
+  Original ID: 1905.11946
+  ✓ VERIFIED: Title matches ID
+  Official: EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks | ID: 1905.11946
+
+--- Paper 2/10 in Part 7 ---
+
+Verifying: SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size
+  Original ID: 1602.07360
+  ✓ VERIFIED: Title matches ID
+  Official: SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size | ID: 1602.07360
+
+--- Paper 3/10 in Part 7 ---
+
+Verifying: Neural Architecture Search with Reinforcement Learning
+  Original ID: 1611.01578
+  ✓ VERIFIED: Title matches ID
+  Official: Neural Architecture Search with Reinforcement Learning | ID: 1611.01578
+
+--- Paper 4/10 in Part 7 ---
+
+Verifying: DARTS: Differentiable Architecture Search
+  Original ID: 1806.09055
+  ✓ VERIFIED: Title matches ID
+  Official: DARTS: Differentiable Architecture Search | ID: 1806.09055
+
+--- Paper 5/10 in Part 7 ---
+
+Verifying: ENAS: Efficient Neural Architecture Search via Parameter Sharing
+  Original ID: 1802.03268
+  ✓ VERIFIED: Title matches ID
+  Official: Efficient Neural Architecture Search via Parameter Sharing | ID: 1802.03268
+
+--- Paper 6/10 in Part 7 ---
+
+Verifying: MAML: Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
+  Original ID: 1703.03400
+  ✓ VERIFIED: Title matches ID
+  Official: Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks | ID: 1703.03400
+
+--- Paper 7/10 in Part 7 ---
+
+Verifying: Prototypical Networks for Few-shot Learning
+  Original ID: 1703.05175
+  ✓ VERIFIED: Title matches ID
+  Official: Prototypical Networks for Few-shot Learning | ID: 1703.05175
+
+--- Paper 8/10 in Part 7 ---
+
+Verifying: Matching Networks for One Shot Learning
+  Original ID: 1606.04080
+  ✓ VERIFIED: Title matches ID
+  Official: Matching Networks for One Shot Learning | ID: 1606.04080
+
+--- Paper 9/10 in Part 7 ---
+
+Verifying: Reptile: On First-Order Meta-Learning Algorithms
+  Original ID: 1803.02999
+  ✓ VERIFIED: Title matches ID
+  Official: On First-Order Meta-Learning Algorithms | ID: 1803.02999
+
+--- Paper 10/10 in Part 7 ---
+
+Verifying: Optimization as a Model for Few-Shot Learning
+  Original ID: 1612.06980
+  ⚠ MISMATCH:
+    Expected title: Optimization as a Model for Few-Shot Learning
+    ID 1612.06980 has: On the $\infty$-categorical Whitehead theorem and the embedding of quasicategories in prederivators
+
+✓ Saved: verified/verified_part_007.csv
+
+======================================================================
+PROCESSING PART 8/100
+======================================================================
+
+--- Paper 1/10 in Part 8 ---
+
+Verifying: Siamese Neural Networks for One-shot Image Recognition
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 8 ---
+
+Verifying: Federated Learning: Communication-Efficient Learning of Deep Networks from Decentralized Data
+  Original ID: 1602.05629
+  ✓ VERIFIED: Title matches ID
+  Official: Communication-Efficient Learning of Deep Networks from Decentralized Data | ID: 1602.05629
+
+--- Paper 3/10 in Part 8 ---
+
+Verifying: Advances and Open Problems in Federated Learning
+  Original ID: 1912.04977
+  ✓ VERIFIED: Title matches ID
+  Official: Advances and Open Problems in Federated Learning | ID: 1912.04977
+
+--- Paper 4/10 in Part 8 ---
+
+Verifying: Differentially Private Stochastic Gradient Descent
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 8 ---
+
+Verifying: Deep Learning with Differential Privacy
+  Original ID: 1607.00133
+  ✓ VERIFIED: Title matches ID
+  Official: Deep Learning with Differential Privacy | ID: 1607.00133
+
+--- Paper 6/10 in Part 8 ---
+
+Verifying: PATE: Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data
+  Original ID: 1610.05755
+  ✓ VERIFIED: Title matches ID
+  Official: Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data | ID: 1610.05755
+
+--- Paper 7/10 in Part 8 ---
+
+Verifying: Adversarial Examples in the Physical World
+  Original ID: 1607.02533
+  ✓ VERIFIED: Title matches ID
+  Official: Adversarial examples in the physical world | ID: 1607.02533
+
+--- Paper 8/10 in Part 8 ---
+
+Verifying: Explaining and Harnessing Adversarial Examples
+  Original ID: 1412.6572
+  ✓ VERIFIED: Title matches ID
+  Official: Explaining and Harnessing Adversarial Examples | ID: 1412.6572
+
+--- Paper 9/10 in Part 8 ---
+
+Verifying: Towards Evaluating the Robustness of Neural Networks
+  Original ID: 1608.04644
+  ✓ VERIFIED: Title matches ID
+  Official: Towards Evaluating the Robustness of Neural Networks | ID: 1608.04644
+
+--- Paper 10/10 in Part 8 ---
+
+Verifying: DeepFool: a simple and accurate method to fool deep neural networks
+  Original ID: 1511.04599
+  ✓ VERIFIED: Title matches ID
+  Official: DeepFool: a simple and accurate method to fool deep neural networks | ID: 1511.04599
+
+✓ Saved: verified/verified_part_008.csv
+
+======================================================================
+PROCESSING PART 9/100
+======================================================================
+
+--- Paper 1/10 in Part 9 ---
+
+Verifying: Universal adversarial perturbations
+  Original ID: 1610.08401
+  ✓ VERIFIED: Title matches ID
+  Official: Universal adversarial perturbations | ID: 1610.08401
+
+--- Paper 2/10 in Part 9 ---
+
+Verifying: Certifying Some Distributional Robustness with Principled Adversarial Training
+  Original ID: 1710.10571
+  ✓ VERIFIED: Title matches ID
+  Official: Certifying Some Distributional Robustness with Principled Adversarial Training | ID: 1710.10571
+
+--- Paper 3/10 in Part 9 ---
+
+Verifying: LIME: "Why Should I Trust You?": Explaining the Predictions of Any Classifier
+  Original ID: 1602.04938
+  ✓ VERIFIED: Title matches ID
+  Official: "Why Should I Trust You?": Explaining the Predictions of Any Classifier | ID: 1602.04938
+
+--- Paper 4/10 in Part 9 ---
+
+Verifying: SHAP: A Unified Approach to Interpreting Model Predictions
+  Original ID: 1705.07874
+  ✓ VERIFIED: Title matches ID
+  Official: A Unified Approach to Interpreting Model Predictions | ID: 1705.07874
+
+--- Paper 5/10 in Part 9 ---
+
+Verifying: Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization
+  Original ID: 1610.02391
+  ✓ VERIFIED: Title matches ID
+  Official: Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization | ID: 1610.02391
+
+--- Paper 6/10 in Part 9 ---
+
+Verifying: Axiomatic Attribution for Deep Networks (Integrated Gradients)
+  Original ID: 1703.01365
+  ✓ VERIFIED: Title matches ID
+  Official: Axiomatic Attribution for Deep Networks | ID: 1703.01365
+
+--- Paper 7/10 in Part 9 ---
+
+Verifying: Understanding Black-box Predictions via Influence Functions
+  Original ID: 1703.04730
+  ✓ VERIFIED: Title matches ID
+  Official: Understanding Black-box Predictions via Influence Functions | ID: 1703.04730
+
+--- Paper 8/10 in Part 9 ---
+
+Verifying: Neural Ordinary Differential Equations
+  Original ID: 1806.07366
+  ✓ VERIFIED: Title matches ID
+  Official: Neural Ordinary Differential Equations | ID: 1806.07366
+
+--- Paper 9/10 in Part 9 ---
+
+Verifying: NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis
+  Original ID: 2003.08934
+  ✓ VERIFIED: Title matches ID
+  Official: NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis | ID: 2003.08934
+
+--- Paper 10/10 in Part 9 ---
+
+Verifying: Denoising Diffusion Probabilistic Models
+  Original ID: 2006.11239
+  ✓ VERIFIED: Title matches ID
+  Official: Denoising Diffusion Probabilistic Models | ID: 2006.11239
+
+✓ Saved: verified/verified_part_009.csv
+
+======================================================================
+PROCESSING PART 10/100
+======================================================================
+
+--- Paper 1/10 in Part 10 ---
+
+Verifying: High-Resolution Image Synthesis with Latent Diffusion Models
+  Original ID: 2112.10752
+  ✓ VERIFIED: Title matches ID
+  Official: High-Resolution Image Synthesis with Latent Diffusion Models | ID: 2112.10752
+
+--- Paper 2/10 in Part 10 ---
+
+Verifying: CLIP: Learning Transferable Visual Models From Natural Language Supervision
+  Original ID: 2103.00020
+  ✓ VERIFIED: Title matches ID
+  Official: Learning Transferable Visual Models From Natural Language Supervision | ID: 2103.00020
+
+--- Paper 3/10 in Part 10 ---
+
+Verifying: DALL-E: Zero-Shot Text-to-Image Generation
+  Original ID: 2102.12092
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 10 ---
+
+Verifying: ViT: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
+  Original ID: 2010.11929
+  ✓ VERIFIED: Title matches ID
+  Official: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale | ID: 2010.11929
+
+--- Paper 5/10 in Part 10 ---
+
+Verifying: Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
+  Original ID: 2103.14030
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 10 ---
+
+Verifying: WaveNet: A Generative Model for Raw Audio
+  Original ID: 1609.03499
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 10 ---
+
+Verifying: Tacotron 2: Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions
+  Original ID: 1712.05884
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 10 ---
+
+Verifying: Deep Speech 2: End-to-End Speech Recognition in English and Mandarin
+  Original ID: 1512.02595
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 10 ---
+
+Verifying: HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units
+  Original ID: 2106.07447
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 10 ---
+
+Verifying: AlphaFold: Highly accurate protein structure prediction with AlphaFold
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_010.csv
+
+*** PROGRESS: 10/100 parts (100/1000 papers) ***
+
+======================================================================
+PROCESSING PART 11/100
+======================================================================
+
+--- Paper 1/10 in Part 11 ---
+
+Verifying: AlphaStar: Mastering the Real-Time Strategy Game StarCraft II
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 11 ---
+
+Verifying: MuZero: Mastering Atari Go Chess and Shogi by Planning with a Learned Model
+  Original ID: 1911.08265
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 11 ---
+
+Verifying: InstructGPT: Training language models to follow instructions with human feedback
+  Original ID: 2203.02155
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 11 ---
+
+Verifying: RLHF: Deep Reinforcement Learning from Human Preferences
+  Original ID: 1706.03741
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 11 ---
+
+Verifying: LoRA: Low-Rank Adaptation of Large Language Models
+  Original ID: 2106.09685
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 11 ---
+
+Verifying: FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness
+  Original ID: 2205.14135
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 11 ---
+
+Verifying: Chinchilla: Training Compute-Optimal Large Language Models
+  Original ID: 2203.15556
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 11 ---
+
+Verifying: PaLM: Scaling Language Modeling with Pathways
+  Original ID: 2204.02311
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 11 ---
+
+Verifying: OPT: Open Pre-trained Transformer Language Models
+  Original ID: 2205.01068
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 11 ---
+
+Verifying: LLaMA: Open and Efficient Foundation Language Models
+  Original ID: 2302.13971
+  ✓ VERIFIED: Title matches ID
+  Official: LLaMA: Open and Efficient Foundation Language Models | ID: 2302.13971
+
+✓ Saved: verified/verified_part_011.csv
+
+======================================================================
+PROCESSING PART 12/100
+======================================================================
+
+--- Paper 1/10 in Part 12 ---
+
+Verifying: Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
+  Original ID: 2201.11903
+  ✓ VERIFIED: Title matches ID
+  Official: Chain-of-Thought Prompting Elicits Reasoning in Large Language Models | ID: 2201.11903
+
+--- Paper 2/10 in Part 12 ---
+
+Verifying: Self-Consistency Improves Chain of Thought Reasoning in Language Models
+  Original ID: 2203.11171
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 12 ---
+
+Verifying: ReAct: Synergizing Reasoning and Acting in Language Models
+  Original ID: 2210.03629
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 12 ---
+
+Verifying: AutoGPT: Autonomous Agents for Language Models
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 12 ---
+
+Verifying: Generative Agents: Interactive Simulacra of Human Behavior
+  Original ID: 2304.03442
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 12 ---
+
+Verifying: Voyager: An Open-Ended Embodied Agent with Large Language Models
+  Original ID: 2305.16291
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 12 ---
+
+Verifying: Tree of Thoughts: Deliberate Problem Solving with Large Language Models
+  Original ID: 2305.10601
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 12 ---
+
+Verifying: Sparks of Artificial General Intelligence: Early experiments with GPT-4
+  Original ID: 2303.12712
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 12 ---
+
+Verifying: Constitutional AI: Harmlessness from AI Feedback
+  Original ID: 2212.08073
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 12 ---
+
+Verifying: InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning
+  Original ID: 2305.06500
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_012.csv
+
+======================================================================
+PROCESSING PART 13/100
+======================================================================
+
+--- Paper 1/10 in Part 13 ---
+
+Verifying: Flamingo: a Visual Language Model for Few-Shot Learning
+  Original ID: 2204.14198
+  ✓ VERIFIED: Title matches ID
+  Official: Flamingo: a Visual Language Model for Few-Shot Learning | ID: 2204.14198
+
+--- Paper 2/10 in Part 13 ---
+
+Verifying: segment anything
+  Original ID: 2304.02643
+  ✓ VERIFIED: Title matches ID
+  Official: Segment Anything | ID: 2304.02643
+
+--- Paper 3/10 in Part 13 ---
+
+Verifying: ControlNet: Adding Conditional Control to Text-to-Image Diffusion Models
+  Original ID: 2302.05543
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 13 ---
+
+Verifying: The entropy formula for the Ricci flow and its geometric applications
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 13 ---
+
+Verifying: Ricci flow with surgery on three-manifolds
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 13 ---
+
+Verifying: Finite extinction time for the solutions to the Ricci flow on certain three-manifolds
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 13 ---
+
+Verifying: The sphere packing problem in dimension 8
+  Original ID: 1603.04246
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 13 ---
+
+Verifying: The sphere packing problem in dimension 24
+  Original ID: 1603.06518
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 13 ---
+
+Verifying: On large subsets of F_q^n with no three-term arithmetic progression
+  Original ID: 1605.09223
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 13 ---
+
+Verifying: Improved bounds for the sunflower lemma
+  Original ID: 1908.09327
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_013.csv
+
+======================================================================
+PROCESSING PART 14/100
+======================================================================
+
+--- Paper 1/10 in Part 14 ---
+
+Verifying: Induced subgraphs of hypercubes and a proof of the Sensitivity Conjecture
+  Original ID: 1907.00847
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 14 ---
+
+Verifying: A proof of the invariant subspace problem for Banach spaces
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 14 ---
+
+Verifying: Fractional intersections of theorems and bounds
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 14 ---
+
+Verifying: On the Twin Prime Conjecture
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 14 ---
+
+Verifying: Bounded gaps between primes
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 14 ---
+
+Verifying: New bounds for the zeros of the Riemann zeta function
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 14 ---
+
+Verifying: A new proof of the existence of invariants
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 14 ---
+
+Verifying: The resolution of singularity for algebraic varieties over fields of characteristic zero
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 14 ---
+
+Verifying: On the local Langlands conjecture for GL(n) over a p-adic local field
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 14 ---
+
+Verifying: The modularity of elliptic curves over Q
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_014.csv
+
+======================================================================
+PROCESSING PART 15/100
+======================================================================
+
+--- Paper 1/10 in Part 15 ---
+
+Verifying: Modularity of abelian surfaces
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 15 ---
+
+Verifying: Fermat's Last Theorem for Amicable Numbers
+  Original ID: 1508.06456
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 15 ---
+
+Verifying: Proof of the geometric Langlands conjecture
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 15 ---
+
+Verifying: A simple proof of the fundamental theorem of algebra
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 15 ---
+
+Verifying: The Green-Tao Theorem on arbitrary subsets of primes
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 15 ---
+
+Verifying: The primes contain arbitrarily long polynomial progressions
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 15 ---
+
+Verifying: Linear equations in primes
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 15 ---
+
+Verifying: A solution to the Erdos similarity problem
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 15 ---
+
+Verifying: On the Erdos discrepancy problem
+  Original ID: 1509.05389
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 15 ---
+
+Verifying: An improvement of the bound for the Erdos distinct distances problem
+  Original ID: 1011.0824
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_015.csv
+
+======================================================================
+PROCESSING PART 16/100
+======================================================================
+
+--- Paper 1/10 in Part 16 ---
+
+Verifying: Polynomial partitioning and the Erdos distinct distances problem
+  Original ID: 1011.0824
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 16 ---
+
+Verifying: A short proof of the Kakeya maximal operator conjecture
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 16 ---
+
+Verifying: The decimation-in-frequency fast Fourier transform
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 16 ---
+
+Verifying: Resolution of the ABC conjecture
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 16 ---
+
+Verifying: Inter-universal Teichmuller Theory I: Construction of Hodge Theaters
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 16 ---
+
+Verifying: Solving the Kadison-Singer Problem
+  Original ID: 1306.3969
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 16 ---
+
+Verifying: Interlacing Families II: Mixed Characteristic Polynomials and the Kadison-Singer problem
+  Original ID: 1306.3969
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 16 ---
+
+Verifying: A counterexample to the Borsuk conjecture
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 16 ---
+
+Verifying: The chromatic number of the plane is at least 5
+  Original ID: 1804.02385
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 16 ---
+
+Verifying: Proof of the strict inequalities for the chromatic number of graphs
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_016.csv
+
+======================================================================
+PROCESSING PART 17/100
+======================================================================
+
+--- Paper 1/10 in Part 17 ---
+
+Verifying: The Kepler Conjecture
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 17 ---
+
+Verifying: A formal proof of the Kepler conjecture
+  Original ID: 1501.02155
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 17 ---
+
+Verifying: The existence of a complete metric of positive scalar curvature
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 17 ---
+
+Verifying: The Atiyah-Singer index theorem
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 17 ---
+
+Verifying: The Seiberg-Witten equations and applications to the topology of smooth four-manifolds
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 17 ---
+
+Verifying: The Jones polynomial and knots
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 17 ---
+
+Verifying: Khovanov homology
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 17 ---
+
+Verifying: A categorization of the Jones polynomial
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 17 ---
+
+Verifying: The smooth Poincare conjecture in dimension four
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 17 ---
+
+Verifying: The Birch and Swinnerton-Dyer conjecture for elliptic curves
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_017.csv
+
+======================================================================
+PROCESSING PART 18/100
+======================================================================
+
+--- Paper 1/10 in Part 18 ---
+
+Verifying: On the Hodge conjecture
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 18 ---
+
+Verifying: The Navier-Stokes existence and smoothness problem
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 18 ---
+
+Verifying: Yang-Mills existence and mass gap
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 18 ---
+
+Verifying: The P versus NP problem
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 18 ---
+
+Verifying: A proof of the weak Goldbach conjecture
+  Original ID: 1305.2897
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 18 ---
+
+Verifying: Goldbach's weak conjecture for primes
+  Original ID: 1305.2897
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 18 ---
+
+Verifying: The existence of bounded gaps between primes
+  Original ID: 1305.2897
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 18 ---
+
+Verifying: Proof of the main conjecture of Iwasawa theory
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 18 ---
+
+Verifying: The Gross-Zagier formula
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 18 ---
+
+Verifying: The L-functions of elliptic curves
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_018.csv
+
+======================================================================
+PROCESSING PART 19/100
+======================================================================
+
+--- Paper 1/10 in Part 19 ---
+
+Verifying: The Sato-Tate conjecture
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 19 ---
+
+Verifying: Proof of the Sato-Tate conjecture for an abelian variety
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 19 ---
+
+Verifying: The fundamental lemma for the Langlands program
+  Original ID: 0801.3507
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 19 ---
+
+Verifying: A geometric proof of the fundamental lemma
+  Original ID: 0801.3507
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 19 ---
+
+Verifying: The Weil conjectures
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 19 ---
+
+Verifying: On the cohomology of algebraic varieties
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 19 ---
+
+Verifying: The arithmetic of elliptic curves
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 19 ---
+
+Verifying: A new method for bounding the ranks of elliptic curves
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 19 ---
+
+Verifying: The structure of finite simple groups
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 19 ---
+
+Verifying: The classification of finite simple groups
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_019.csv
+
+======================================================================
+PROCESSING PART 20/100
+======================================================================
+
+--- Paper 1/10 in Part 20 ---
+
+Verifying: The independence of the continuum hypothesis
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 20 ---
+
+Verifying: First Observation of Gravitational Waves from a Binary Black Hole Merger
+  Original ID: 1602.03837
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 20 ---
+
+Verifying: Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC
+  Original ID: 1207.7214
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 20 ---
+
+Verifying: Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC
+  Original ID: 1207.7235
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 20 ---
+
+Verifying: Discovery of a Superfluid Phase of 3He
+  Original ID: cond-mat
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 20 ---
+
+Verifying: Bose-Einstein Condensation in a Gas of Sodium Atoms
+  Original ID: cond-mat
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 20 ---
+
+Verifying: Anti-de Sitter Space and Holography
+  Original ID: hep-th
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 20 ---
+
+Verifying: The Large N Limit of Superconformal Field Theories and Supergravity
+  Original ID: hep-th
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 20 ---
+
+Verifying: Planck 2018 results. VI. Cosmological parameters
+  Original ID: 1807.06209
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 20 ---
+
+Verifying: Planck 2015 results. XIII. Cosmological parameters
+  Original ID: 1502.01589
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_020.csv
+
+*** PROGRESS: 20/100 parts (200/1000 papers) ***
+
+======================================================================
+PROCESSING PART 21/100
+======================================================================
+
+--- Paper 1/10 in Part 21 ---
+
+Verifying: First M87 Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole
+  Original ID: 1906.11238
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 21 ---
+
+Verifying: Observation of High-Energy Astrophysical Neutrinos in Three Years of IceCube Data
+  Original ID: 1405.5300
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 21 ---
+
+Verifying: Evidence for High-Energy Extraterrestrial Neutrinos at the IceCube Detector
+  Original ID: 1311.5238
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 21 ---
+
+Verifying: Measurements of the Higgs boson production and decay rates
+  Original ID: 1507.04548
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 21 ---
+
+Verifying: Search for the standard model Higgs boson
+  Original ID: hep-ex
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 21 ---
+
+Verifying: High-Tc Superconductivity based on correlated electrons
+  Original ID: cond-mat
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 21 ---
+
+Verifying: Theory of superconductivity
+  Original ID: cond-mat
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 21 ---
+
+Verifying: Quantum Computation with Quantum Dots
+  Original ID: cond-mat
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 21 ---
+
+Verifying: Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer
+  Original ID: quant-ph
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 21 ---
+
+Verifying: Quantum Supremacy Using a Programmable Superconducting Processor
+  Original ID: 1910.11333
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_021.csv
+
+======================================================================
+PROCESSING PART 22/100
+======================================================================
+
+--- Paper 1/10 in Part 22 ---
+
+Verifying: Demonstration of quantum supremacy using random circuit sampling
+  Original ID: 1910.11333
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 22 ---
+
+Verifying: Experimental Realization of Quantum Teleportation
+  Original ID: quant-ph
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 22 ---
+
+Verifying: Bell's inequalities
+  Original ID: quant-ph
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 22 ---
+
+Verifying: Loop Quantum Gravity
+  Original ID: gr-qc
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 22 ---
+
+Verifying: M-Theory as a Matrix Model: A Conjecture
+  Original ID: hep-th
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 22 ---
+
+Verifying: String Theory and M-Theory
+  Original ID: hep-th
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 22 ---
+
+Verifying: Topological Insulators and Superconductors
+  Original ID: 1008.2026
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 22 ---
+
+Verifying: Colloquium: Topological insulators
+  Original ID: 1002.3895
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 22 ---
+
+Verifying: The Quantum Spin Hall Effect and Topological Phase Transition in HgTe Quantum Wells
+  Original ID: cond-mat
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 22 ---
+
+Verifying: Observation of the quantum spin Hall effect
+  Original ID: 0705.1524
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_022.csv
+
+======================================================================
+PROCESSING PART 23/100
+======================================================================
+
+--- Paper 1/10 in Part 23 ---
+
+Verifying: Graphene: Status and Prospects
+  Original ID: 0902.3208
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 23 ---
+
+Verifying: Electric Field Effect in Atomically Thin Carbon Films
+  Original ID: cond-mat
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 23 ---
+
+Verifying: Room-Temperature Quantum Hall Effect in Graphene
+  Original ID: cond-mat
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 23 ---
+
+Verifying: Fractional Quantum Hall Effect in Graphene
+  Original ID: 0904.0934
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 23 ---
+
+Verifying: Observation of the fractional quantum Hall effect
+  Original ID: cond-mat
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 23 ---
+
+Verifying: Discovery of the Muon Neutrino
+  Original ID: hep-ex
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 23 ---
+
+Verifying: Observation of Neutrino Oscillations
+  Original ID: hep-ex
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 23 ---
+
+Verifying: The Discovery of the Expanding Universe
+  Original ID: astro-ph
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 23 ---
+
+Verifying: Discovery of a supernova explosion at half the age of the Universe
+  Original ID: astro-ph
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 23 ---
+
+Verifying: Measurements of Omega and Lambda from 42 High-Redshift Supernovae
+  Original ID: astro-ph
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_023.csv
+
+======================================================================
+PROCESSING PART 24/100
+======================================================================
+
+--- Paper 1/10 in Part 24 ---
+
+Verifying: Observational Evidence from Supernovae for an Accelerating Universe
+  Original ID: astro-ph
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 24 ---
+
+Verifying: First Observation of the Greisen-Zatsepin-Kuzmin Suppression
+  Original ID: astro-ph
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 24 ---
+
+Verifying: Observation of Gravitational Waves from a Binary Neutron Star Inspiral
+  Original ID: 1710.05832
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 24 ---
+
+Verifying: Multi-messenger Observations of a Binary Neutron Star Merger
+  Original ID: 1710.05833
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 24 ---
+
+Verifying: RoseTTAFold: Accurate prediction of protein structures and interactions
+  Original ID: 2107.05047
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 24 ---
+
+Verifying: Cell Ranger: A scalable and robust 3` single-cell RNA-seq clustering workflow
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 24 ---
+
+Verifying: scikit-learn: Machine Learning in Python for Bioinformatics
+  Original ID: 1201.0490
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 24 ---
+
+Verifying: DeepBind: Predicting the sequence specificities of DNA- and RNA-binding proteins
+  Original ID: 1508.01259
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 24 ---
+
+Verifying: DeepSEA: Predicting effects of noncoding variants with deep learning-based sequence model
+  Original ID: 1508.01259
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 24 ---
+
+Verifying: A deep learning approach to antibiotic discovery
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_024.csv
+
+======================================================================
+PROCESSING PART 25/100
+======================================================================
+
+--- Paper 1/10 in Part 25 ---
+
+Verifying: Protein sequence-to-structure learning with transformers
+  Original ID: 2012.15340
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 25 ---
+
+Verifying: ESMFold: Evolutionary Scale Modeling of protein structures
+  Original ID: 2207.14255
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 25 ---
+
+Verifying: CRISPR-Cas9-mediated genome editing in human cells
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 25 ---
+
+Verifying: Base editing: precision chemistry on the genome
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 25 ---
+
+Verifying: Prime editing: search-and-replace genome editing
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 25 ---
+
+Verifying: A unified approach to interpreting model predictions in genomics
+  Original ID: 1705.07874
+  ✓ VERIFIED: Title matches ID
+  Official: A Unified Approach to Interpreting Model Predictions | ID: 1705.07874
+
+--- Paper 7/10 in Part 25 ---
+
+Verifying: Graph Convolutional Networks for drug discovery
+  Original ID: 1808.03264
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 25 ---
+
+Verifying: DeepVariant: Highly accurate genome sequencing
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 25 ---
+
+Verifying: AlphaMissense: accurate prediction of variant effects
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 25 ---
+
+Verifying: De novo generation of protein sequences
+  Original ID: 1904.0934
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_025.csv
+
+======================================================================
+PROCESSING PART 26/100
+======================================================================
+
+--- Paper 1/10 in Part 26 ---
+
+Verifying: Language models for biological sequence generation
+  Original ID: 2103.00020
+  ⚠ MISMATCH:
+    Expected title: Language models for biological sequence generation
+    ID 2103.00020 has: Learning Transferable Visual Models From Natural Language Supervision
+
+--- Paper 2/10 in Part 26 ---
+
+Verifying: Predicting 3D structures from 1D sequences
+  Original ID: 2107.03374
+  ⚠ MISMATCH:
+    Expected title: Predicting 3D structures from 1D sequences
+    ID 2107.03374 has: Evaluating Large Language Models Trained on Code
+
+--- Paper 3/10 in Part 26 ---
+
+Verifying: Protein language models for evolutionary inferences
+  Original ID: 2207.14255
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 26 ---
+
+Verifying: Single-cell transcriptomics for developmental biology
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 26 ---
+
+Verifying: Spatial transcriptomics reveals the architecture of tissues
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 26 ---
+
+Verifying: Deep learning for brain machine interfaces
+  Original ID: 1912.04977
+  ⚠ MISMATCH:
+    Expected title: Deep learning for brain machine interfaces
+    ID 1912.04977 has: Advances and Open Problems in Federated Learning
+
+--- Paper 7/10 in Part 26 ---
+
+Verifying: Decoding motor cortex signals with recurrent neural networks
+  Original ID: 1602.04938
+  ⚠ MISMATCH:
+    Expected title: Decoding motor cortex signals with recurrent neural networks
+    ID 1602.04938 has: "Why Should I Trust You?": Explaining the Predictions of Any Classifier
+
+--- Paper 8/10 in Part 26 ---
+
+Verifying: Neural decoding of visual imagery
+  Original ID: 1506.01497
+  ⚠ MISMATCH:
+    Expected title: Neural decoding of visual imagery
+    ID 1506.01497 has: Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
+
+--- Paper 9/10 in Part 26 ---
+
+Verifying: Molecular geometry prediction using graph neural networks
+  Original ID: 1806.07366
+  ⚠ MISMATCH:
+    Expected title: Molecular geometry prediction using graph neural networks
+    ID 1806.07366 has: Neural Ordinary Differential Equations
+
+--- Paper 10/10 in Part 26 ---
+
+Verifying: Quantum properties of biological molecules
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_026.csv
+
+======================================================================
+PROCESSING PART 27/100
+======================================================================
+
+--- Paper 1/10 in Part 27 ---
+
+Verifying: AlphaFold3: Accurately predicting protein
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 27 ---
+
+Verifying: Whole-cell computational modeling
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 27 ---
+
+Verifying: Generative models for targeted molecular design
+  Original ID: 1903.07291
+  ⚠ MISMATCH:
+    Expected title: Generative models for targeted molecular design
+    ID 1903.07291 has: Semantic Image Synthesis with Spatially-Adaptive Normalization
+
+--- Paper 4/10 in Part 27 ---
+
+Verifying: Single-molecule sequencing technologies
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 27 ---
+
+Verifying: Synthetic biology: circuits in living cells
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 27 ---
+
+Verifying: Generative Pre-trained Transformer 2
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 27 ---
+
+Verifying: Generative Pre-trained Transformer 3
+  Original ID: 2005.14165
+  ⚠ MISMATCH:
+    Expected title: Generative Pre-trained Transformer 3
+    ID 2005.14165 has: Language Models are Few-Shot Learners
+
+--- Paper 8/10 in Part 27 ---
+
+Verifying: GPT-4 Technical Report
+  Original ID: 2303.08774
+  ✓ VERIFIED: Title matches ID
+  Official: GPT-4 Technical Report | ID: 2303.08774
+
+--- Paper 9/10 in Part 27 ---
+
+Verifying: BART: Denoising Sequence-to-Sequence Pre-training
+  Original ID: 1910.13461
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 27 ---
+
+Verifying: Reformer: The Efficient Transformer
+  Original ID: 2001.04451
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_027.csv
+
+======================================================================
+PROCESSING PART 28/100
+======================================================================
+
+--- Paper 1/10 in Part 28 ---
+
+Verifying: Longformer: The Long-Document Transformer
+  Original ID: 2004.05150
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 28 ---
+
+Verifying: Linformer: Self-Attention with Linear Complexity
+  Original ID: 2006.04768
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 28 ---
+
+Verifying: Perceiver: General Perception with Iterative Attention
+  Original ID: 2103.03206
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 28 ---
+
+Verifying: Perceiver IO: A General Architecture for Structured Inputs & Outputs
+  Original ID: 2107.14795
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 28 ---
+
+Verifying: A ConvNet for the 2020s
+  Original ID: 2201.03545
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 28 ---
+
+Verifying: MLP-Mixer: An all-MLP Architecture for Vision
+  Original ID: 2105.01601
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 28 ---
+
+Verifying: Masked Autoencoders Are Scalable Vision Learners
+  Original ID: 2111.06377
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 28 ---
+
+Verifying: MoCo: Momentum Contrast for Unsupervised Visual Representation Learning
+  Original ID: 1911.05722
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 28 ---
+
+Verifying: BYOL: Bootstrap Your Own Latent A New Approach to Self-Supervised Learning
+  Original ID: 2006.07733
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 28 ---
+
+Verifying: DINO: Emerging Properties in Self-Supervised Vision Transformers
+  Original ID: 2104.14294
+  ✓ VERIFIED: Title matches ID
+  Official: Emerging Properties in Self-Supervised Vision Transformers | ID: 2104.14294
+
+✓ Saved: verified/verified_part_028.csv
+
+======================================================================
+PROCESSING PART 29/100
+======================================================================
+
+--- Paper 1/10 in Part 29 ---
+
+Verifying: PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation
+  Original ID: 1612.00593
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 29 ---
+
+Verifying: PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space
+  Original ID: 1706.02413
+  ✓ VERIFIED: Title matches ID
+  Official: PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space | ID: 1706.02413
+
+--- Paper 3/10 in Part 29 ---
+
+Verifying: VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection
+  Original ID: 1711.06396
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 29 ---
+
+Verifying: Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context
+  Original ID: 1901.02860
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 29 ---
+
+Verifying: XLNet: Generalized Autoregressive Pretraining for Language Understanding
+  Original ID: 1906.08237
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 29 ---
+
+Verifying: ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators
+  Original ID: 2003.10555
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 29 ---
+
+Verifying: DeBERTa: Decoding-enhanced BERT with Disentangled Attention
+  Original ID: 2006.03654
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 29 ---
+
+Verifying: Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism
+  Original ID: 1909.08053
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 29 ---
+
+Verifying: ZeRO: Memory Optimizations Toward Training Trillion Parameter Models
+  Original ID: 1910.02054
+  ✓ VERIFIED: Title matches ID
+  Official: ZeRO: Memory Optimizations Toward Training Trillion Parameter Models | ID: 1910.02054
+
+--- Paper 10/10 in Part 29 ---
+
+Verifying: DeepSpeed: System Optimizations Enable Training Deep Learning Models with Over 100 Billion Parameters
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_029.csv
+
+======================================================================
+PROCESSING PART 30/100
+======================================================================
+
+--- Paper 1/10 in Part 30 ---
+
+Verifying: TensorFlow: A System for Large-Scale Machine Learning
+  Original ID: 1605.08695
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 30 ---
+
+Verifying: Horovod: fast and easy distributed deep learning in TensorFlow
+  Original ID: 1802.05799
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 30 ---
+
+Verifying: Dryad: Distributed Data-Parallel Programs from Sequential Building Blocks
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 30 ---
+
+Verifying: MapReduce: Simplified Data Processing on Large Clusters
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 30 ---
+
+Verifying: Paxos Made Simple
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 30 ---
+
+Verifying: In Search of an Understandable Consensus Algorithm (Raft)
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 30 ---
+
+Verifying: Bitcoin: A Peer-to-Peer Electronic Cash System
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 30 ---
+
+Verifying: Ethereum: A Secure Decentralised Generalised Transaction Ledger
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 30 ---
+
+Verifying: Zero-Knowledge Succinct Non-Interactive Argument of Knowledge (zk-SNARK)
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 30 ---
+
+Verifying: Bulletproofs: Short Proofs for Confidential Transactions and More
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_030.csv
+
+*** PROGRESS: 30/100 parts (300/1000 papers) ***
+
+======================================================================
+PROCESSING PART 31/100
+======================================================================
+
+--- Paper 1/10 in Part 31 ---
+
+Verifying: zk-STARKs: Scalable Transparent ARguments of Knowledge
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 31 ---
+
+Verifying: Homomorphic Encryption from Learning with Errors
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 31 ---
+
+Verifying: Fully Homomorphic Encryption using Ideal Lattices
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 31 ---
+
+Verifying: Differential Privacy
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 31 ---
+
+Verifying: Secure Multi-Party Computation
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 31 ---
+
+Verifying: The PageRank Citation Ranking: Bringing Order to the Web
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 31 ---
+
+Verifying: HyperLogLog: the analysis of a near-optimal cardinality estimation algorithm
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 31 ---
+
+Verifying: Cuckoo Filter: Practically Better Than Bloom
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 31 ---
+
+Verifying: Count-Min Sketch
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 31 ---
+
+Verifying: A Fast Algorithm for Computing the Principal Components of a Large Sparse Matrix
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_031.csv
+
+======================================================================
+PROCESSING PART 32/100
+======================================================================
+
+--- Paper 1/10 in Part 32 ---
+
+Verifying: t-SNE: Visualizing Data using t-SNE
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 32 ---
+
+Verifying: UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction
+  Original ID: 1802.03426
+  ✓ VERIFIED: Title matches ID
+  Official: UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction | ID: 1802.03426
+
+--- Paper 3/10 in Part 32 ---
+
+Verifying: LightGBM: A Highly Efficient Gradient Boosting Decision Tree
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 32 ---
+
+Verifying: CatBoost: unbiased boosting with categorical features
+  Original ID: 1706.09516
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 32 ---
+
+Verifying: WordPiece Subword Routing
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 32 ---
+
+Verifying: Byte Pair Encoding for Neural Machine Translation
+  Original ID: 1508.07909
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 32 ---
+
+Verifying: SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing
+  Original ID: 1808.06226
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 32 ---
+
+Verifying: Reasoning with Language Model is Planning with World Model
+  Original ID: 2305.14992
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 32 ---
+
+Verifying: Q-Learning for Reinforcement Learning
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 32 ---
+
+Verifying: Trust Region Policy Optimization (TRPO)
+  Original ID: 1502.05477
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_032.csv
+
+======================================================================
+PROCESSING PART 33/100
+======================================================================
+
+--- Paper 1/10 in Part 33 ---
+
+Verifying: Pluribus: Superhuman AI for multiplayer poker
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 33 ---
+
+Verifying: Deep Blue: Superhuman computing in Chess
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 33 ---
+
+Verifying: AlphaCode: Competition-Level Code Generation with AlphaCode
+  Original ID: 2203.07814
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 33 ---
+
+Verifying: OpenAI Codex
+  Original ID: 2107.03374
+  ⚠ MISMATCH:
+    Expected title: OpenAI Codex
+    ID 2107.03374 has: Evaluating Large Language Models Trained on Code
+
+--- Paper 5/10 in Part 33 ---
+
+Verifying: Copilot: Human-AI pair programming
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 33 ---
+
+Verifying: Solving quantitative reasoning problems with language models
+  Original ID: 2206.14858
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 33 ---
+
+Verifying: Gato: A Generalist Agent
+  Original ID: 2205.06175
+  ✓ VERIFIED: Title matches ID
+  Official: A Generalist Agent | ID: 2205.06175
+
+--- Paper 8/10 in Part 33 ---
+
+Verifying: COCO: Common Objects in Context
+  Original ID: 1405.0312
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 33 ---
+
+Verifying: The Pascal Visual Object Classes (VOC) Challenge
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 33 ---
+
+Verifying: Llama 2: Open Foundation and Fine-Tuned Chat Models
+  Original ID: 2307.09288
+  ✓ VERIFIED: Title matches ID
+  Official: Llama 2: Open Foundation and Fine-Tuned Chat Models | ID: 2307.09288
+
+✓ Saved: verified/verified_part_033.csv
+
+======================================================================
+PROCESSING PART 34/100
+======================================================================
+
+--- Paper 1/10 in Part 34 ---
+
+Verifying: Gemma: Open Models Based on Gemini Research and Technology
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 34 ---
+
+Verifying: Mixtral of Experts
+  Original ID: 2401.04088
+  ✓ VERIFIED: Title matches ID
+  Official: Mixtral of Experts | ID: 2401.04088
+
+--- Paper 3/10 in Part 34 ---
+
+Verifying: Mistral 7B
+  Original ID: 2310.06825
+  ✓ VERIFIED: Title matches ID
+  Official: Mistral 7B | ID: 2310.06825
+
+--- Paper 4/10 in Part 34 ---
+
+Verifying: Qwen Technical Report
+  Original ID: 2309.16609
+  ✓ VERIFIED: Title matches ID
+  Official: Qwen Technical Report | ID: 2309.16609
+
+--- Paper 5/10 in Part 34 ---
+
+Verifying: RWKV: Reinventing RNNs for the Transformer Era
+  Original ID: 2305.13048
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 34 ---
+
+Verifying: Mamba: Linear-Time Sequence Modeling with Selective State Spaces
+  Original ID: 2312.00752
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 34 ---
+
+Verifying: State Space Models for NLP
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 34 ---
+
+Verifying: Long-Short Term Memory (LSTM)
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 34 ---
+
+Verifying: Gated Recurrent Unit (GRU)
+  Original ID: 1412.3555
+  ⚠ MISMATCH:
+    Expected title: Gated Recurrent Unit (GRU)
+    ID 1412.3555 has: Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling
+
+--- Paper 10/10 in Part 34 ---
+
+Verifying: Hopfield Networks is All You Need
+  Original ID: 2008.02217
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_034.csv
+
+======================================================================
+PROCESSING PART 35/100
+======================================================================
+
+--- Paper 1/10 in Part 35 ---
+
+Verifying: Equivariant Neural Networks
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 35 ---
+
+Verifying: Spherical CNNs
+  Original ID: 1801.06297
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 35 ---
+
+Verifying: Group Equivariant Convolutional Networks
+  Original ID: 1602.07576
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 35 ---
+
+Verifying: Neural Radiance Fields (NeRF)
+  Original ID: 2003.08934
+  ✓ VERIFIED: Title matches ID
+  Official: NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis | ID: 2003.08934
+
+--- Paper 5/10 in Part 35 ---
+
+Verifying: Gaussian Splatting for Real-Time Radiance Field Rendering
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 35 ---
+
+Verifying: Stable Diffusion: High-Resolution Image Synthesis with Latent Diffusion Models
+  Original ID: 2112.10752
+  ✓ VERIFIED: Title matches ID
+  Official: High-Resolution Image Synthesis with Latent Diffusion Models | ID: 2112.10752
+
+--- Paper 7/10 in Part 35 ---
+
+Verifying: Sora: Video generation models as world simulators
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 35 ---
+
+Verifying: Imagen: Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding
+  Original ID: 2205.11487
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 35 ---
+
+Verifying: Midjourney: Advanced text to image
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 35 ---
+
+Verifying: DALL-E 2: Hierarchical Text-Conditional Image Generation with CLIP Latents
+  Original ID: 2204.06125
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_035.csv
+
+======================================================================
+PROCESSING PART 36/100
+======================================================================
+
+--- Paper 1/10 in Part 36 ---
+
+Verifying: DALL-E 3: Improving Image Generation with Better Captions
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 36 ---
+
+Verifying: InstructPix2Pix: Learning to Follow Image Editing Instructions
+  Original ID: 2211.09800
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 36 ---
+
+Verifying: Consistency Models
+  Original ID: 2303.01469
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 36 ---
+
+Verifying: DreamFusion: Text-to-3D using 2D Diffusion
+  Original ID: 2209.14988
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 36 ---
+
+Verifying: Zero-shot Translation with Multilingual Neural Machine Translation
+  Original ID: 1611.04558
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 36 ---
+
+Verifying: Whisper: Robust Speech Recognition via Large-Scale Weak Supervision
+  Original ID: 2212.04356
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 36 ---
+
+Verifying: SeamlessM4T: Massively Multilingual & Multimodal Machine Translation
+  Original ID: 2308.11596
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 36 ---
+
+Verifying: AudioLM: a Language Modeling Approach to Audio Generation
+  Original ID: 2209.03143
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 36 ---
+
+Verifying: MusicLM: Generating Music From Text
+  Original ID: 2301.11325
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 36 ---
+
+Verifying: VALL-E: Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers
+  Original ID: 2301.02111
+  ✓ VERIFIED: Title matches ID
+  Official: Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers | ID: 2301.02111
+
+✓ Saved: verified/verified_part_036.csv
+
+======================================================================
+PROCESSING PART 37/100
+======================================================================
+
+--- Paper 1/10 in Part 37 ---
+
+Verifying: PPO: Proximal Policy Optimization Algorithms
+  Original ID: 1707.06347
+  ✓ VERIFIED: Title matches ID
+  Official: Proximal Policy Optimization Algorithms | ID: 1707.06347
+
+--- Paper 2/10 in Part 37 ---
+
+Verifying: A3C: Asynchronous Methods for Deep Reinforcement Learning
+  Original ID: 1602.01783
+  ✓ VERIFIED: Title matches ID
+  Official: Asynchronous Methods for Deep Reinforcement Learning | ID: 1602.01783
+
+--- Paper 3/10 in Part 37 ---
+
+Verifying: MuJoCo: A physics engine for model-based control
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 37 ---
+
+Verifying: Isaac Gym: High Performance GPU-Based Physics Simulation For Robot Learning
+  Original ID: 2108.10470
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 37 ---
+
+Verifying: Sim2Real View Invariant Visual Servoing by Recurrent Control
+  Original ID: 1712.07642
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 37 ---
+
+Verifying: Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World
+  Original ID: 1703.06907
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 37 ---
+
+Verifying: Learning Dexterous In-Hand Manipulation
+  Original ID: 1808.00177
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 37 ---
+
+Verifying: RT-1: Robotics Transformer for Real-World Control at Scale
+  Original ID: 2212.06817
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 37 ---
+
+Verifying: RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control
+  Original ID: 2307.15818
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 37 ---
+
+Verifying: SayCan: Do As I Can
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_037.csv
+
+======================================================================
+PROCESSING PART 38/100
+======================================================================
+
+--- Paper 1/10 in Part 38 ---
+
+Verifying: AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model
+  Original ID: 2309.16058
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 38 ---
+
+Verifying: Code Llama: Open Foundation Models for Code
+  Original ID: 2308.12950
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 38 ---
+
+Verifying: StarCoder: may the source be with you!
+  Original ID: 2305.06161
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 38 ---
+
+Verifying: DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence
+  Original ID: 2401.14196
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 38 ---
+
+Verifying: WizardCoder: Empowering Code Large Language Models with Evol-Instruct
+  Original ID: 2306.08568
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 38 ---
+
+Verifying: On the classification of topological field theories
+  Original ID: 0905.0465
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 38 ---
+
+Verifying: Higher algebra
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 38 ---
+
+Verifying: Higher Topos Theory
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 38 ---
+
+Verifying: Derived Algebraic Geometry I: Stable Infinity Categories
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 38 ---
+
+Verifying: On the Cobordism Hypothesis
+  Original ID: 0905.0465
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_038.csv
+
+======================================================================
+PROCESSING PART 39/100
+======================================================================
+
+--- Paper 1/10 in Part 39 ---
+
+Verifying: Fukaya Categories and Picard-Lefschetz Theory
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 39 ---
+
+Verifying: Mirror Symmetry and Algebraic Geometry
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 39 ---
+
+Verifying: Homological Algebra of Mirror Symmetry
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 39 ---
+
+Verifying: Tropical Geometry and Mirror Symmetry
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 39 ---
+
+Verifying: Symplectic Geometry of Hubbards
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 39 ---
+
+Verifying: The Mumford-Tate conjecture for K3 surfaces
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 39 ---
+
+Verifying: Motivic Cohomology of Varieties
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 39 ---
+
+Verifying: Voevodsky's Proof of the Milnor Conjecture
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 39 ---
+
+Verifying: The Bloch-Kato conjecture
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 39 ---
+
+Verifying: Categorification of quantum groups
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_039.csv
+
+======================================================================
+PROCESSING PART 40/100
+======================================================================
+
+--- Paper 1/10 in Part 40 ---
+
+Verifying: Khovanov-Rozansky homology
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 40 ---
+
+Verifying: The colored Jones polynomial and the AJ conjecture
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 40 ---
+
+Verifying: Kauffman Bracket and the Jones Polynomial
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 40 ---
+
+Verifying: Heegaard Floer homology
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 40 ---
+
+Verifying: Instanton Floer homology
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 40 ---
+
+Verifying: Seiberg-Witten invariants
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 40 ---
+
+Verifying: The Willmore Conjecture
+  Original ID: 1202.6035
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 40 ---
+
+Verifying: Min-max theory and the Willmore conjecture
+  Original ID: 1202.6035
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 40 ---
+
+Verifying: The Lawson Conjecture
+  Original ID: 1203.3980
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 40 ---
+
+Verifying: A proof of the Lawson conjecture
+  Original ID: 1203.3980
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_040.csv
+
+*** PROGRESS: 40/100 parts (400/1000 papers) ***
+
+======================================================================
+PROCESSING PART 41/100
+======================================================================
+
+--- Paper 1/10 in Part 41 ---
+
+Verifying: The Yau-Tian-Donaldson Conjecture
+  Original ID: 1210.7494
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 41 ---
+
+Verifying: Kaehler-Einstein metrics on Fano manifolds
+  Original ID: 1210.7494
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 41 ---
+
+Verifying: Optimal transport and Ricci curvature for metric-measure spaces
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 41 ---
+
+Verifying: The regularity of optimal transport maps
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 41 ---
+
+Verifying: Monge-Ampere equations and optimal transport
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 41 ---
+
+Verifying: De Giorgi conjecture for the Allen-Cahn equation
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 41 ---
+
+Verifying: A proof of the De Giorgi conjecture in dimension 8
+  Original ID: 0810.4594
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 41 ---
+
+Verifying: The fractional Laplacian and the fractional De Giorgi conjecture
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 41 ---
+
+Verifying: Weak KAM Theory
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 41 ---
+
+Verifying: Random matrices and the Riemann zeta function
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_041.csv
+
+======================================================================
+PROCESSING PART 42/100
+======================================================================
+
+--- Paper 1/10 in Part 42 ---
+
+Verifying: Tracy-Widom distribution for the largest eigenvalue of random matrices
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 42 ---
+
+Verifying: The Kardar-Parisi-Zhang equation and universality class
+  Original ID: 1207.6905
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 42 ---
+
+Verifying: Solving the KPZ equation
+  Original ID: 1107.2315
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 42 ---
+
+Verifying: Hairer's theory of regularity structures
+  Original ID: 1303.5113
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 42 ---
+
+Verifying: Paracontrolled distributions and singular PDEs
+  Original ID: 1308.2053
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 42 ---
+
+Verifying: Stochastic quantisation of Yang-Mills
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 42 ---
+
+Verifying: Schramm-Loewner Evolution (SLE)
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 42 ---
+
+Verifying: Conformal invariance of planar loop-erased random walks and uniform spanning trees
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 42 ---
+
+Verifying: Dimension of the SLE curves
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 42 ---
+
+Verifying: Brownian map as the scaling limit of random planar maps
+  Original ID: 1105.3258
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_042.csv
+
+======================================================================
+PROCESSING PART 43/100
+======================================================================
+
+--- Paper 1/10 in Part 43 ---
+
+Verifying: Uniqueness of the Brownian map
+  Original ID: 1105.4842
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 43 ---
+
+Verifying: Quantum Liouville theory and the DOZZ formula
+  Original ID: 1401.3624
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 43 ---
+
+Verifying: Gaussian Free Field and its geometry
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 43 ---
+
+Verifying: An introduction to the Gaussian Free Field
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 43 ---
+
+Verifying: The exact dimension of the Mandelbrot set boundary is 2
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 43 ---
+
+Verifying: Local connectivity of the Mandelbrot set at certain parameter values
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 43 ---
+
+Verifying: The density of hyperbolicity in one-dimensional dynamics
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 43 ---
+
+Verifying: Dynamics of the complex logistic map
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 43 ---
+
+Verifying: Renormalization in complex dynamics
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 43 ---
+
+Verifying: Pesin's formula for expanding maps
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_043.csv
+
+======================================================================
+PROCESSING PART 44/100
+======================================================================
+
+--- Paper 1/10 in Part 44 ---
+
+Verifying: The thermodynamic formalism for Anosov diffeomorphisms
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 44 ---
+
+Verifying: Ratner's theorems on unipotent flows
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 44 ---
+
+Verifying: Measure rigidity for unipotent flows
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 44 ---
+
+Verifying: The Margulis lemma and its applications
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 44 ---
+
+Verifying: Kazhdan's property (T)
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 44 ---
+
+Verifying: Expander graphs and their applications
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 44 ---
+
+Verifying: Ramanujan graphs and the Lubotzky-Phillips-Sarnak construction
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 44 ---
+
+Verifying: The Zig-Zag product of graphs
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 44 ---
+
+Verifying: A new proof of the PCP theorem
+  Original ID: cs
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 44 ---
+
+Verifying: Unique Games Conjecture
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_044.csv
+
+======================================================================
+PROCESSING PART 45/100
+======================================================================
+
+--- Paper 1/10 in Part 45 ---
+
+Verifying: The Goemans-Williamson MAX-CUT algorithm
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 45 ---
+
+Verifying: Approximation algorithms and semidefinite programming
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 45 ---
+
+Verifying: The interior point method for linear programming
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 45 ---
+
+Verifying: Smoothed analysis of algorithms
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 45 ---
+
+Verifying: The simplex algorithm is polynomial on average
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 45 ---
+
+Verifying: The Lovasz local lemma and its algorithmic applications
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 45 ---
+
+Verifying: Moser-Tardos algorithm for the Lovasz local lemma
+  Original ID: 0903.0544
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 45 ---
+
+Verifying: Szemerédi's Regularity Lemma
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 45 ---
+
+Verifying: Hypergraph regularity and the removal lemma
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 45 ---
+
+Verifying: The strong perfect graph theorem
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_045.csv
+
+======================================================================
+PROCESSING PART 46/100
+======================================================================
+
+--- Paper 1/10 in Part 46 ---
+
+Verifying: Graph Minors theorems by Robertson and Seymour
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 46 ---
+
+Verifying: The Dirac-type theorems for hypergraphs
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 46 ---
+
+Verifying: Forcing and the independence of the continuum hypothesis
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 46 ---
+
+Verifying: Inner models and large cardinals
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 46 ---
+
+Verifying: Determinacy of projective sets from large cardinals
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 46 ---
+
+Verifying: A proof of the independence of the axiom of choice
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 46 ---
+
+Verifying: The modal logic of provability (Godel-Lob logic)
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 46 ---
+
+Verifying: On the classification of univalent foundations (Homotopy Type Theory)
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 46 ---
+
+Verifying: Univalent Foundations of Mathematics
+  Original ID: 1302.6981
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 46 ---
+
+Verifying: The constructive proof of the Four Color Theorem
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_046.csv
+
+======================================================================
+PROCESSING PART 47/100
+======================================================================
+
+--- Paper 1/10 in Part 47 ---
+
+Verifying: The formal verification of the odd order theorem
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 47 ---
+
+Verifying: Perfectoid spaces
+  Original ID: 1111.4914
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 47 ---
+
+Verifying: The weight-monodromy conjecture for complete intersections in toric varieties
+  Original ID: 1111.6385
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 47 ---
+
+Verifying: Galois representations attached to torsion classes in cohomology
+  Original ID: 1311.4128
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 47 ---
+
+Verifying: On the local Langlands conjecture for p-adic groups
+  Original ID: 1612.04018
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 47 ---
+
+Verifying: Endoscopy and the Langlands classification
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 47 ---
+
+Verifying: The Fundamental Lemma for unitary groups
+  Original ID: 0801.3507
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 47 ---
+
+Verifying: Stable trace formula and the stabilization problem
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 47 ---
+
+Verifying: The geometric representation theory of the Langlands program
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 47 ---
+
+Verifying: Categorical local Langlands correspondence
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_047.csv
+
+======================================================================
+PROCESSING PART 48/100
+======================================================================
+
+--- Paper 1/10 in Part 48 ---
+
+Verifying: Fargues-Fontaine curve and p-adic Hodge theory
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 48 ---
+
+Verifying: Prismatic cohomology
+  Original ID: 1905.05042
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 48 ---
+
+Verifying: Motivic homotopy theory
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 48 ---
+
+Verifying: The slice filtration in motivic homotopy theory
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 48 ---
+
+Verifying: Equivariant stable homotopy theory
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 48 ---
+
+Verifying: The Kervaire invariant one problem
+  Original ID: 0908.3724
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 48 ---
+
+Verifying: AdS/CFT Correspondence in lower dimensions
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 48 ---
+
+Verifying: Black Hole Information Paradox and the Firewall
+  Original ID: 1207.3123
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 48 ---
+
+Verifying: Holographic Entanglement Entropy
+  Original ID: hep-th
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 48 ---
+
+Verifying: Ryu-Takayanagi Formula and its Extension
+  Original ID: 0704.2072
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_048.csv
+
+======================================================================
+PROCESSING PART 49/100
+======================================================================
+
+--- Paper 1/10 in Part 49 ---
+
+Verifying: Quantum Error Correction and Holography
+  Original ID: 1411.7041
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 49 ---
+
+Verifying: Fast Scramblers and Black Holes
+  Original ID: 0808.2096
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 49 ---
+
+Verifying: SYK Model and AdS2 Holography
+  Original ID: 1604.07818
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 49 ---
+
+Verifying: Complexity and Action in Black Holes
+  Original ID: 1509.07876
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 49 ---
+
+Verifying: Complexity = Volume Conjecture
+  Original ID: 1406.2678
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 49 ---
+
+Verifying: The Replica Trick and Islands in Black Holes
+  Original ID: 1911.11977
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 49 ---
+
+Verifying: Information content of Hawking radiation
+  Original ID: 1911.12333
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 49 ---
+
+Verifying: Page Curve for an Evaporating Black Hole
+  Original ID: 1905.08762
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 49 ---
+
+Verifying: Swampland Conjectures in String Theory
+  Original ID: 1805.10276
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 49 ---
+
+Verifying: Weak Gravity Conjecture
+  Original ID: hep-th
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_049.csv
+
+======================================================================
+PROCESSING PART 50/100
+======================================================================
+
+--- Paper 1/10 in Part 50 ---
+
+Verifying: F-Theory and the Landscape of String Vacua
+  Original ID: hep-th
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 50 ---
+
+Verifying: Statistical Approach to the String Landscape
+  Original ID: hep-th
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 50 ---
+
+Verifying: BICEP2 Results: Cosmological Inflation and Primordial Gravitational Waves
+  Original ID: 1403.3985
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 50 ---
+
+Verifying: Constraints on Inflation from Planck
+  Original ID: 1807.06211
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 50 ---
+
+Verifying: The History of the Universe from the CMB
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 50 ---
+
+Verifying: Dark Matter Annihilation in the Galactic Center
+  Original ID: 1402.6703
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 50 ---
+
+Verifying: LIGO-Virgo discoveries and the Dawn of Multi-Messenger Astronomy
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 50 ---
+
+Verifying: The Event Horizon Telescope: Mapping the M87 Black Hole Magnetic Field
+  Original ID: 2103.01633
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 50 ---
+
+Verifying: Fast Radio Bursts: Discovered and Localized
+  Original ID: 1307.1628
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 50 ---
+
+Verifying: Detection of Water Vapor in the Atmosphere of a Habitable-Zone Exoplanet
+  Original ID: 1909.04642
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_050.csv
+
+*** PROGRESS: 50/100 parts (500/1000 papers) ***
+
+======================================================================
+PROCESSING PART 51/100
+======================================================================
+
+--- Paper 1/10 in Part 51 ---
+
+Verifying: Confirmation of the Existence of Proxima Centauri b
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 51 ---
+
+Verifying: The TRAPPIST-1 System: Seven Earth-Sized Planets
+  Original ID: 1703.01424
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 51 ---
+
+Verifying: Lovelock Gravity and Higher Derivative Theories
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 51 ---
+
+Verifying: Horava-Lifshitz Gravity
+  Original ID: 0901.3775
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 51 ---
+
+Verifying: Massive Gravity Theory
+  Original ID: 1007.0443
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 51 ---
+
+Verifying: Ghost-free Massive Gravity
+  Original ID: 1011.1232
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 51 ---
+
+Verifying: Galileons and the Vainshtein Mechanism
+  Original ID: 0811.2197
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 51 ---
+
+Verifying: DGP Braneworld Cosmology
+  Original ID: hep-th
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 51 ---
+
+Verifying: String Gas Cosmology
+  Original ID: hep-th
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 51 ---
+
+Verifying: Loop Quantum Cosmology
+  Original ID: gr-qc
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_051.csv
+
+======================================================================
+PROCESSING PART 52/100
+======================================================================
+
+--- Paper 1/10 in Part 52 ---
+
+Verifying: Observation of B-mode Polarization from the SPT
+  Original ID: 1307.5830
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 52 ---
+
+Verifying: Quantum Spin Liquids in Kagome Lattices
+  Original ID: cond-mat
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 52 ---
+
+Verifying: Kitaev Model and Anyons on a Torus
+  Original ID: cond-mat
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 52 ---
+
+Verifying: Topological Quantum Computation with Non-Abelian Anyons
+  Original ID: quant-ph
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 52 ---
+
+Verifying: Majorana Fermions in Condensed Matter
+  Original ID: 1206.1736
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 52 ---
+
+Verifying: Evidence for Majorana Bound States in Nanowires
+  Original ID: 1204.2792
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 52 ---
+
+Verifying: Observation of Weyl Fermions in a Semimetal
+  Original ID: 1502.04684
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 52 ---
+
+Verifying: Prediction and Observation of a Type-II Weyl Semimetal
+  Original ID: 1506.06577
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 52 ---
+
+Verifying: Twistronics and Magic-Angle Graphene
+  Original ID: 1803.02342
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 52 ---
+
+Verifying: Superconductivity in Magic-Angle Bilayer Graphene
+  Original ID: 1803.02342
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_052.csv
+
+======================================================================
+PROCESSING PART 53/100
+======================================================================
+
+--- Paper 1/10 in Part 53 ---
+
+Verifying: Mott Insulator State in Magic-Angle Graphene
+  Original ID: 1803.02343
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 53 ---
+
+Verifying: Observation of Time Crystals
+  Original ID: 1610.08057
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 53 ---
+
+Verifying: Discrete Time Crystals: Rigidity
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 53 ---
+
+Verifying: Quantum Many-Body Scrambling and OTOCs
+  Original ID: 1503.01409
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 53 ---
+
+Verifying: Experimental Measurement of Out-of-Time-Ordered Correlators
+  Original ID: 1612.05249
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 53 ---
+
+Verifying: MBL: Many-Body Localization Phase Transition
+  Original ID: 1404.0686
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 53 ---
+
+Verifying: Thermalization and its absence in isolated quantum systems
+  Original ID: 1404.0686
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 53 ---
+
+Verifying: Eigenstate Thermalization Hypothesis (ETH)
+  Original ID: cond-mat
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 53 ---
+
+Verifying: Quantum Information Scrambling in Ion Traps
+  Original ID: 1806.01256
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 53 ---
+
+Verifying: Boson Sampling with Photons
+  Original ID: 1011.3245
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_053.csv
+
+======================================================================
+PROCESSING PART 54/100
+======================================================================
+
+--- Paper 1/10 in Part 54 ---
+
+Verifying: Experimental Boson Sampling using integrated photonics
+  Original ID: 1212.0622
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 54 ---
+
+Verifying: Quantum Supremacy via Boson Sampling
+  Original ID: 2012.01625
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 54 ---
+
+Verifying: Photonic Quantum Computer for solving large linear systems
+  Original ID: 1302.1946
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 54 ---
+
+Verifying: Quantum Algorithm for Solving Linear Systems of Equations (HHL)
+  Original ID: 0811.3171
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 54 ---
+
+Verifying: Variational Quantum Eigensolver (VQE)
+  Original ID: 1304.3061
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 54 ---
+
+Verifying: Quantum Approximate Optimization Algorithm (QAOA)
+  Original ID: 1411.4028
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 54 ---
+
+Verifying: Hardware-efficient variational quantum eigensolver
+  Original ID: 1704.05018
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 54 ---
+
+Verifying: Demonstration of topological data analysis on a quantum processor
+  Original ID: 1408.3129
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 54 ---
+
+Verifying: Surface Code Quantum Error Correction
+  Original ID: 1208.0928
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 54 ---
+
+Verifying: Realizing Repeated Quantum Error Correction in a Distance-Three Surface Code
+  Original ID: 2102.06132
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_054.csv
+
+======================================================================
+PROCESSING PART 55/100
+======================================================================
+
+--- Paper 1/10 in Part 55 ---
+
+Verifying: Suppression of Quantum Errors by Scaling a Surface Code Logical Qubit
+  Original ID: 2207.06431
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 55 ---
+
+Verifying: Measurement-Device-Independent Quantum Key Distribution
+  Original ID: 1112.0525
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 55 ---
+
+Verifying: Micius Satellite: Satellite-Based Quantum Key Distribution
+  Original ID: 1707.00542
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 55 ---
+
+Verifying: Entanglement distribution over 1200 kilometers from a satellite
+  Original ID: 1707.01339
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 55 ---
+
+Verifying: Observation of CP Violation in the B Meson System
+  Original ID: hep-ex
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 55 ---
+
+Verifying: Discovery of the pentaquark states Pc(4380)+ and Pc(4450)+
+  Original ID: 1507.03414
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 55 ---
+
+Verifying: Observation of doubly charmed baryon Xi_cc++
+  Original ID: 1707.01621
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 55 ---
+
+Verifying: Measurement of the anomalous magnetic moment of the muon (g-2)
+  Original ID: 2104.03281
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 55 ---
+
+Verifying: First Results from the Muon g-2 Experiment at Fermilab
+  Original ID: 2104.03281
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 55 ---
+
+Verifying: Measurement of the W boson mass at CDF
+  Original ID: 2204.04705
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_055.csv
+
+======================================================================
+PROCESSING PART 56/100
+======================================================================
+
+--- Paper 1/10 in Part 56 ---
+
+Verifying: Test of Lepton Universality in b decays
+  Original ID: 1406.6482
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 56 ---
+
+Verifying: Observation of a new state around 3872 MeV (X(3872))
+  Original ID: hep-ex
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 56 ---
+
+Verifying: The ALFA results on the total cross-section of pp collisions
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 56 ---
+
+Verifying: Observation of the Bottomonium Ground State in Upsilon Decays
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 56 ---
+
+Verifying: Direct limit on the speed of light from gravitational waves
+  Original ID: 1710.05834
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 56 ---
+
+Verifying: Constraining the speed of gravity with GW170817
+  Original ID: 1710.05834
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 56 ---
+
+Verifying: Limits on axion dark matter from ADMX
+  Original ID: 1804.05750
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 56 ---
+
+Verifying: Results from the XENON1T Dark Matter Experiment
+  Original ID: 1805.12562
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 56 ---
+
+Verifying: Direct detection constraints on light dark matter
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 56 ---
+
+Verifying: Cosmic Dawn signal and the 21-cm global spectrum
+  Original ID: 1802.10094
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_056.csv
+
+======================================================================
+PROCESSING PART 57/100
+======================================================================
+
+--- Paper 1/10 in Part 57 ---
+
+Verifying: CHIME Fast Radio Bursts catalog 1
+  Original ID: 2106.04352
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 57 ---
+
+Verifying: Localization of a fast radio burst to a host galaxy
+  Original ID: 1701.01098
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 57 ---
+
+Verifying: Detection of a fast radio burst from a Galactic magnetar
+  Original ID: 2005.10828
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 57 ---
+
+Verifying: The DES Y3 cosmological constraints
+  Original ID: 2105.13549
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 57 ---
+
+Verifying: Tension in the Hubble Constant: Is New Physics Required?
+  Original ID: 1908.03663
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 57 ---
+
+Verifying: Unsupervised learning of evolutionary landscapes for drug discovery
+  Original ID: 2101.08331
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 57 ---
+
+Verifying: Deep learning on graphs for bioinformatics
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 57 ---
+
+Verifying: Geometric Deep Learning for structural bioinformatics
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 57 ---
+
+Verifying: Learning the protein language: Evolution sequence and structure
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 57 ---
+
+Verifying: Unified language models for biological sequence generation
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_057.csv
+
+======================================================================
+PROCESSING PART 58/100
+======================================================================
+
+--- Paper 1/10 in Part 58 ---
+
+Verifying: A foundation model for generalizable disease prediction
+  Original ID: 2301.07681
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 58 ---
+
+Verifying: Pre-training of graph neural networks for molecules
+  Original ID: 1905.12265
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 58 ---
+
+Verifying: Self-supervised graph learning for drug discovery
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 58 ---
+
+Verifying: Molecular graph generation via auto-regressive networks
+  Original ID: 1802.04364
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 58 ---
+
+Verifying: Junction Tree Variational Autoencoder for Molecular Graph Generation
+  Original ID: 1802.04364
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 58 ---
+
+Verifying: Deep drug repurposing using graph autoencoders
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 58 ---
+
+Verifying: Translating brain activity directly into speech
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 58 ---
+
+Verifying: Neural decoding using large language models
+  Original ID: 2305.00696
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 58 ---
+
+Verifying: Semantic reconstruction of continuous language from brain recordings
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 58 ---
+
+Verifying: High-performance brain-to-text communication via handwriting
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_058.csv
+
+======================================================================
+PROCESSING PART 59/100
+======================================================================
+
+--- Paper 1/10 in Part 59 ---
+
+Verifying: Causal mapping of the human brain connectome
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 59 ---
+
+Verifying: Generative models of single-cell transcriptomes
+  Original ID: 1812.01206
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 59 ---
+
+Verifying: scVI: Deep generative modeling for single-cell transcriptomics
+  Original ID: 1709.02082
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 59 ---
+
+Verifying: Transfer learning in single-cell transcriptomics
+  Original ID: 1910.01791
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 59 ---
+
+Verifying: Spatially resolved transcriptomics prediction using graph attention
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 59 ---
+
+Verifying: Multi-omics data integration using deep learning
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 59 ---
+
+Verifying: Predicting gene regulatory networks from single-cell data
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 59 ---
+
+Verifying: De novo prediction of RNA-binding proteins
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 59 ---
+
+Verifying: Structure-based virtual screening with deep learning
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 59 ---
+
+Verifying: Equivariant 3D protein structure generation
+  Original ID: 2205.00880
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_059.csv
+
+======================================================================
+PROCESSING PART 60/100
+======================================================================
+
+--- Paper 1/10 in Part 60 ---
+
+Verifying: Diffusion models for protein sequence to structure generation
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 60 ---
+
+Verifying: Antigen-specific antibody design via deep generative models
+  Original ID: 2207.08779
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 60 ---
+
+Verifying: Predicting the effects of all missense variants with deep learning
+  Original ID: 2309.03577
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 60 ---
+
+Verifying: Deep mutagenesis prediction via language modeling
+  Original ID: 2101.07926
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 60 ---
+
+Verifying: Protein function prediction using graph neural networks
+  Original ID: 2006.02299
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 60 ---
+
+Verifying: Deep learning for cryo-EM map resolution enhancement
+  Original ID: 2004.09556
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 60 ---
+
+Verifying: Atomic-level cryo-EM maps reconstruction via deep neural networks
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 60 ---
+
+Verifying: Deep learning driven de novo drug design
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 60 ---
+
+Verifying: Predicting off-target effects of CRISPR-Cas9 via deep learning
+  Original ID: 1806.00224
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 60 ---
+
+Verifying: Deep learning reveals the language of cancer
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_060.csv
+
+*** PROGRESS: 60/100 parts (600/1000 papers) ***
+
+======================================================================
+PROCESSING PART 61/100
+======================================================================
+
+--- Paper 1/10 in Part 61 ---
+
+Verifying: Machine learning on tumor mutational burden
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 61 ---
+
+Verifying: Predicting immunotherapy response with deep learning
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 61 ---
+
+Verifying: Deep learning models for medical image segmentation
+  Original ID: 1505.04597
+  ⚠ MISMATCH:
+    Expected title: Deep learning models for medical image segmentation
+    ID 1505.04597 has: U-Net: Convolutional Networks for Biomedical Image Segmentation
+
+--- Paper 4/10 in Part 61 ---
+
+Verifying: Unsupervised anomaly detection in medical imaging
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 61 ---
+
+Verifying: Generative models for synthesizing medical imaging data
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 61 ---
+
+Verifying: Federated learning for multi-center healthcare data
+  Original ID: 2108.08398
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 61 ---
+
+Verifying: Self-supervised contrastive learning for medical time series
+  Original ID: 2109.11051
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 61 ---
+
+Verifying: Attention mechanisms in clinical natural language processing
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 61 ---
+
+Verifying: Clinical BERT representations for biomedical text mining
+  Original ID: 1904.05342
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 61 ---
+
+Verifying: BioBERT: a pre-trained biomedical language representation model
+  Original ID: 1901.08746
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_061.csv
+
+======================================================================
+PROCESSING PART 62/100
+======================================================================
+
+--- Paper 1/10 in Part 62 ---
+
+Verifying: PubMedBERT: Domain-Specific Language Model Pretraining for Biomedical Natural Language Processing
+  Original ID: 2007.15779
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 62 ---
+
+Verifying: Transformers for extracting chemical-protein relations
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 62 ---
+
+Verifying: Knowledge graph embeddings for drug-target interaction
+  Original ID: 2005.02331
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 62 ---
+
+Verifying: Predicting synergistic drug combinations via deep learning
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 62 ---
+
+Verifying: End-to-end learning to predict drug interactions
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 62 ---
+
+Verifying: Machine learning for predicting clinical trial outcomes
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 62 ---
+
+Verifying: Deep generative models for therapeutic antibody design
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 62 ---
+
+Verifying: A unified approach for single-cell and spatial transcriptomics
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 62 ---
+
+Verifying: Spatial genomics via multiplexed FISH
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 62 ---
+
+Verifying: Deep learning maps epigenetic modifications
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_062.csv
+
+======================================================================
+PROCESSING PART 63/100
+======================================================================
+
+--- Paper 1/10 in Part 63 ---
+
+Verifying: AlphaFold accelerates structural biology research
+  Original ID: 2202.13414
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 63 ---
+
+Verifying: Machine learning prediction of antimicrobial resistance
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 63 ---
+
+Verifying: Deep sequence clustering reveals novel protein families
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 63 ---
+
+Verifying: Using deep networks to decode protein interaction rules
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 63 ---
+
+Verifying: Deep learning characterizes viral evolution architectures
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 63 ---
+
+Verifying: Language models escape viral immune systems
+  Original ID: 2103.01138
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 63 ---
+
+Verifying: ResNet-152: Deep Residual Learning
+  Original ID: 1512.03385
+  ⚠ MISMATCH:
+    Expected title: ResNet-152: Deep Residual Learning
+    ID 1512.03385 has: Deep Residual Learning for Image Recognition
+
+--- Paper 8/10 in Part 63 ---
+
+Verifying: ResNet-50: Deep Residual Learning
+  Original ID: 1512.03385
+  ⚠ MISMATCH:
+    Expected title: ResNet-50: Deep Residual Learning
+    ID 1512.03385 has: Deep Residual Learning for Image Recognition
+
+--- Paper 9/10 in Part 63 ---
+
+Verifying: Scaling Laws for Neural Language Models
+  Original ID: 2001.08361
+  ✓ VERIFIED: Title matches ID
+  Official: Scaling Laws for Neural Language Models | ID: 2001.08361
+
+--- Paper 10/10 in Part 63 ---
+
+Verifying: Generative Agents Architecture
+  Original ID: 2304.03442
+  ⚠ MISMATCH:
+    Expected title: Generative Agents Architecture
+    ID 2304.03442 has: Generative Agents: Interactive Simulacra of Human Behavior
+
+✓ Saved: verified/verified_part_063.csv
+
+======================================================================
+PROCESSING PART 64/100
+======================================================================
+
+--- Paper 1/10 in Part 64 ---
+
+Verifying: The Millennium Prize Problems
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 64 ---
+
+Verifying: A Proof of the Poincare Conjecture
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 64 ---
+
+Verifying: The Birch and Swinnerton-Dyer Conjecture for Elliptic Curves over Q
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 64 ---
+
+Verifying: Faltings Theorem
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 64 ---
+
+Verifying: The Mordell Conjecture
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 64 ---
+
+Verifying: Wiles' Proof of Fermat's Last Theorem
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 64 ---
+
+Verifying: The Modularity Theorem
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 64 ---
+
+Verifying: The Weil Conjectures for Abelian Varieties
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 64 ---
+
+Verifying: K-Theory and the Atiyah-Singer Index Theorem
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 64 ---
+
+Verifying: Seiberg-Witten Invariants of Four-Manifolds
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_064.csv
+
+======================================================================
+PROCESSING PART 65/100
+======================================================================
+
+--- Paper 1/10 in Part 65 ---
+
+Verifying: The Donaldson Invariants of Four-Manifolds
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 65 ---
+
+Verifying: Floer Homology and Symplectic Topology
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 65 ---
+
+Verifying: Khovanov Homology and the Jones Polynomial
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 65 ---
+
+Verifying: Kategorification of knot polynomials
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 65 ---
+
+Verifying: The Volume Conjecture for knots
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 65 ---
+
+Verifying: The AJ Conjecture for knots
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 65 ---
+
+Verifying: The Kashaev Invariant of knots
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 65 ---
+
+Verifying: The Quantum Invariants of Knots and 3-Manifolds
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 65 ---
+
+Verifying: Chern-Simons Theory and Topological Invariants
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 65 ---
+
+Verifying: The Witten-Reshetikhin-Turaev Invariants
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_065.csv
+
+======================================================================
+PROCESSING PART 66/100
+======================================================================
+
+--- Paper 1/10 in Part 66 ---
+
+Verifying: The Geometrization Conjecture of Thurston
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 66 ---
+
+Verifying: Ricci Flow with Surgery on 3-Manifolds
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 66 ---
+
+Verifying: The Sphere Packing Problem in 8 Dimensions
+  Original ID: 1603.04246
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 66 ---
+
+Verifying: The Sphere Packing Problem in 24 Dimensions
+  Original ID: 1603.06518
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 66 ---
+
+Verifying: Universal Optimality of the Leech Lattice
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 66 ---
+
+Verifying: The Erdos-Szekeres Theorem in Combinatorial Geometry
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 66 ---
+
+Verifying: The Szemeredi Regularity Lemma
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 66 ---
+
+Verifying: Green-Tao Theorem on Primes in Arithmetic Progression
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 66 ---
+
+Verifying: The Twin Prime Conjecture
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 66 ---
+
+Verifying: Yitang Zhang's Bound on Prime Gaps
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_066.csv
+
+======================================================================
+PROCESSING PART 67/100
+======================================================================
+
+--- Paper 1/10 in Part 67 ---
+
+Verifying: The Polymath Project on Prime Gaps
+  Original ID: 1407.4890
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 67 ---
+
+Verifying: The ABC Conjecture and Inter-universal Teichmuller Theory
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 67 ---
+
+Verifying: Mochizuki's Proof of the ABC Conjecture
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 67 ---
+
+Verifying: The PCP Theorem
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 67 ---
+
+Verifying: The Unique Games Conjecture
+  Original ID: 0805.2323
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 67 ---
+
+Verifying: Ramanujan Graphs
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 67 ---
+
+Verifying: The Katz-Sarnak Philosophy for L-functions
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 67 ---
+
+Verifying: Random Matrix Theory and the Riemann Zeta Function
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 67 ---
+
+Verifying: The Montgomery-Odlyzko Law
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 67 ---
+
+Verifying: The Tracy-Widom Distribution
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_067.csv
+
+======================================================================
+PROCESSING PART 68/100
+======================================================================
+
+--- Paper 1/10 in Part 68 ---
+
+Verifying: The Kardar-Parisi-Zhang Universality Class
+  Original ID: 1207.6905
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 68 ---
+
+Verifying: The KPZ Equation
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 68 ---
+
+Verifying: Stochastic Partial Differential Equations
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 68 ---
+
+Verifying: Regularity Structures for SPDEs
+  Original ID: 1303.5113
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 68 ---
+
+Verifying: Martin Hairer's work on SPDEs
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 68 ---
+
+Verifying: The Schramm-Loewner Evolution (SLE)
+  Original ID: math
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 68 ---
+
+Verifying: Conformal Invariance of the critical percolation cluster
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 68 ---
+
+Verifying: The Gaussian Free Field
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 68 ---
+
+Verifying: Liouville Quantum Gravity
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 68 ---
+
+Verifying: The Brownian Map
+  Original ID: 1105.3258
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_068.csv
+
+======================================================================
+PROCESSING PART 69/100
+======================================================================
+
+--- Paper 1/10 in Part 69 ---
+
+Verifying: The resolution of the Cap Set Problem
+  Original ID: 1605.09223
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 69 ---
+
+Verifying: The Polynomial Method in Combinatorics
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 69 ---
+
+Verifying: The Kakeya Conjecture
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 69 ---
+
+Verifying: The Restriction Conjecture in Harmonic Analysis
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 69 ---
+
+Verifying: The Decoupling Theorem
+  Original ID: 1405.3567
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 69 ---
+
+Verifying: The Bochner-Riesz Conjecture
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 69 ---
+
+Verifying: The Invariant Subspace Problem
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 69 ---
+
+Verifying: The Connes Embedding Problem
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 69 ---
+
+Verifying: MIP*=RE: A resolution of the Connes Embedding Problem
+  Original ID: 2001.04383
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 69 ---
+
+Verifying: Tsirelson's Problem in Quantum Information Theory
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_069.csv
+
+======================================================================
+PROCESSING PART 70/100
+======================================================================
+
+--- Paper 1/10 in Part 70 ---
+
+Verifying: The Sensitivity Conjecture
+  Original ID: 1907.00847
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 70 ---
+
+Verifying: The Sunflower Lemma Bounds
+  Original ID: 1908.09327
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 70 ---
+
+Verifying: The Delta-System Lemma
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 70 ---
+
+Verifying: The Erdos-Rado Theorem
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 70 ---
+
+Verifying: Ramsey Theory on Graphs
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 70 ---
+
+Verifying: The Continuum Hypothesis
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 70 ---
+
+Verifying: Large Cardinals in Set Theory
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 70 ---
+
+Verifying: Projective Determinacy
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 70 ---
+
+Verifying: The Axiom of Determinacy
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 70 ---
+
+Verifying: Inner Model Theory
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_070.csv
+
+*** PROGRESS: 70/100 parts (700/1000 papers) ***
+
+======================================================================
+PROCESSING PART 71/100
+======================================================================
+
+--- Paper 1/10 in Part 71 ---
+
+Verifying: Core Models in Set Theory
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 71 ---
+
+Verifying: The Langlands Program
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 71 ---
+
+Verifying: The Geometric Langlands Program
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 71 ---
+
+Verifying: The AdS/CFT Correspondence
+  Original ID: hep-th
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 71 ---
+
+Verifying: The Holographic Principle
+  Original ID: hep-th
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 71 ---
+
+Verifying: Black Hole Thermodynamics
+  Original ID: gr-qc
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 71 ---
+
+Verifying: Hawking Radiation
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 71 ---
+
+Verifying: Black Hole Entropy
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 71 ---
+
+Verifying: The Black Hole Information Paradox
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 71 ---
+
+Verifying: The Firewall Paradox for Black Holes
+  Original ID: 1207.3123
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_071.csv
+
+======================================================================
+PROCESSING PART 72/100
+======================================================================
+
+--- Paper 1/10 in Part 72 ---
+
+Verifying: Complementarity in Quantum Gravity
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 72 ---
+
+Verifying: String Theory Foundations
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 72 ---
+
+Verifying: M-Theory and Matrix Models
+  Original ID: hep-th
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 72 ---
+
+Verifying: D-Branes in String Theory
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 72 ---
+
+Verifying: T-Duality in String Theory
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 72 ---
+
+Verifying: S-Duality in String Theory
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 72 ---
+
+Verifying: Seiberg-Witten Theory
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 72 ---
+
+Verifying: The Standard Model of Particle Physics
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 72 ---
+
+Verifying: The Discovery of the Higgs Boson
+  Original ID: 1207.7214
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 72 ---
+
+Verifying: The Higgs Mechanism
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_072.csv
+
+======================================================================
+PROCESSING PART 73/100
+======================================================================
+
+--- Paper 1/10 in Part 73 ---
+
+Verifying: Supersymmetry and the MSSM
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 73 ---
+
+Verifying: The Strong CP Problem
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 73 ---
+
+Verifying: Axions and Dark Matter
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 73 ---
+
+Verifying: WIMPs and Dark Matter Candidates
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 73 ---
+
+Verifying: Direct Detection of Dark Matter
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 73 ---
+
+Verifying: Indirect Detection of Dark Matter
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 73 ---
+
+Verifying: Neutrino Oscillations
+  Original ID: hep-ex
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 73 ---
+
+Verifying: The MSW Effect for Solar Neutrinos
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 73 ---
+
+Verifying: The Daya Bay Reactor Neutrino Experiment
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 73 ---
+
+Verifying: The SNO Solar Neutrino Results
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_073.csv
+
+======================================================================
+PROCESSING PART 74/100
+======================================================================
+
+--- Paper 1/10 in Part 74 ---
+
+Verifying: Cosmic Microwave Background Radiation
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 74 ---
+
+Verifying: The WMAP Results on the CMB
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 74 ---
+
+Verifying: The Planck Results on the CMB
+  Original ID: 1807.06209
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 74 ---
+
+Verifying: COBE Results and the Anisotropy of the CMB
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 74 ---
+
+Verifying: B-Mode Polarization of the CMB
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 74 ---
+
+Verifying: Cosmic Inflation
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 74 ---
+
+Verifying: Slow-Roll Inflation
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 74 ---
+
+Verifying: Chaotic Inflation
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 74 ---
+
+Verifying: Eternal Inflation
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 74 ---
+
+Verifying: The Multiverse Hypothesis
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_074.csv
+
+======================================================================
+PROCESSING PART 75/100
+======================================================================
+
+--- Paper 1/10 in Part 75 ---
+
+Verifying: The Accelerating Universe and Dark Energy
+  Original ID: astro-ph
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 75 ---
+
+Verifying: The Cosmological Constant Problem
+  Original ID: astro-ph
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 75 ---
+
+Verifying: Quintessence and Dark Energy
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 75 ---
+
+Verifying: Modified Gravity Theories
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 75 ---
+
+Verifying: f(R) Gravity
+  Original ID: 0805.1726
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 75 ---
+
+Verifying: Gravitational Waves from Binary Black Holes
+  Original ID: 1602.03837
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 75 ---
+
+Verifying: Gravitational Waves from Binary Neutron Stars
+  Original ID: 1710.05832
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 75 ---
+
+Verifying: Multi-Messenger Astronomy with Gravitational Waves
+  Original ID: 1710.05833
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 75 ---
+
+Verifying: The Stochastic Gravitational Wave Background
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 75 ---
+
+Verifying: Pulsar Timing Arrays and Gravitational Waves
+  Original ID: 2306.16213
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_075.csv
+
+======================================================================
+PROCESSING PART 76/100
+======================================================================
+
+--- Paper 1/10 in Part 76 ---
+
+Verifying: The First Image of a Black Hole
+  Original ID: 1906.11238
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 76 ---
+
+Verifying: The Event Horizon Telescope
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 76 ---
+
+Verifying: Supermassive Black Holes at the Center of Galaxies
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 76 ---
+
+Verifying: Active Galactic Nuclei and Quasars
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 76 ---
+
+Verifying: The Formation of Galaxies
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 76 ---
+
+Verifying: Cold Dark Matter Structure Formation
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 76 ---
+
+Verifying: The Hubble Tension
+  Original ID: 1908.03663
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 76 ---
+
+Verifying: The S8 Tension in Cosmology
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 76 ---
+
+Verifying: Fast Radio Bursts
+  Original ID: 1307.1628
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 76 ---
+
+Verifying: Gamma-Ray Bursts and their Origins
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_076.csv
+
+======================================================================
+PROCESSING PART 77/100
+======================================================================
+
+--- Paper 1/10 in Part 77 ---
+
+Verifying: Exoplanet Discoveries with Kepler
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 77 ---
+
+Verifying: The TRAPPIST-1 Exoplanet System
+  Original ID: 1703.01424
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 77 ---
+
+Verifying: Biosignatures in Exoplanet Atmospheres
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 77 ---
+
+Verifying: Topological Insulators in 2D and 3D
+  Original ID: 1008.2026
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 77 ---
+
+Verifying: The Quantum Spin Hall Effect
+  Original ID: cond-mat
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 77 ---
+
+Verifying: Fractional Quantum Hall Effect
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 77 ---
+
+Verifying: Integer Quantum Hall Effect
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 77 ---
+
+Verifying: Graphene and its Electronic Properties
+  Original ID: 0902.3208
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 77 ---
+
+Verifying: Magic-Angle Twisted Bilayer Graphene
+  Original ID: 1803.02342
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 77 ---
+
+Verifying: Superconductivity in Twisted Bilayer Graphene
+  Original ID: 1803.02342
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_077.csv
+
+======================================================================
+PROCESSING PART 78/100
+======================================================================
+
+--- Paper 1/10 in Part 78 ---
+
+Verifying: High-Temperature Superconductivity in Cuprates
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 78 ---
+
+Verifying: Iron-Based Superconductors
+  Original ID: 0804.4815
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 78 ---
+
+Verifying: BCS Theory of Superconductivity
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 78 ---
+
+Verifying: Majorana Fermions in Condensed Matter Physics
+  Original ID: 1206.1736
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 78 ---
+
+Verifying: Topological Quantum Computation
+  Original ID: quant-ph
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 78 ---
+
+Verifying: Anyons in Fractional Quantum Hall States
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 78 ---
+
+Verifying: Weyl Semimetals
+  Original ID: 1502.04684
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 78 ---
+
+Verifying: Dirac Semimetals
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 78 ---
+
+Verifying: Quantum Spin Liquids
+  Original ID: cond-mat
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 78 ---
+
+Verifying: The Kitaev Honeycomb Model
+  Original ID: cond-mat
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_078.csv
+
+======================================================================
+PROCESSING PART 79/100
+======================================================================
+
+--- Paper 1/10 in Part 79 ---
+
+Verifying: Quantum Entanglement and Bell Inequalities
+  Original ID: quant-ph
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 79 ---
+
+Verifying: Quantum Teleportation Experiments
+  Original ID: quant-ph
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 79 ---
+
+Verifying: Quantum Key Distribution Algorithms
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 79 ---
+
+Verifying: Peter Shor's Factoring Algorithm
+  Original ID: quant-ph
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 79 ---
+
+Verifying: Lov Grover's Search Algorithm
+  Original ID: quant-ph
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 79 ---
+
+Verifying: Quantum Supremacy on a Programmable Processor
+  Original ID: 1910.11333
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 79 ---
+
+Verifying: Surface Codes for Quantum Error Correction
+  Original ID: 1208.0928
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 79 ---
+
+Verifying: Fault-Tolerant Quantum Computation
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 79 ---
+
+Verifying: Variational Quantum Eigensolver
+  Original ID: 1304.3061
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 79 ---
+
+Verifying: Quantum Approximate Optimization Algorithm
+  Original ID: 1411.4028
+  ✗ ID not found on arXiv, keeping original
+
+✓ Saved: verified/verified_part_079.csv
+
+======================================================================
+PROCESSING PART 80/100
+======================================================================
+
+--- Paper 1/10 in Part 80 ---
+
+Verifying: Boson Sampling with Linear Optics
+  Original ID: 1011.3245
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 80 ---
+
+Verifying: Time Crystals in Quantum Systems
+  Original ID: 1610.08057
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 80 ---
+
+Verifying: Many-Body Localization
+  Original ID: 1404.0686
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 80 ---
+
+Verifying: The Eigenstate Thermalization Hypothesis
+  Original ID: cond-mat
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 80 ---
+
+Verifying: Quantum Chaos and OTOCs
+  Original ID: 1503.01409
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 80 ---
+
+Verifying: The Sachdev-Ye-Kitaev Model
+  Original ID: 1604.07818
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 80 ---
+
+Verifying: Fluid-Gravity Correspondence
+  Original ID: 0712.2456
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 80 ---
+
+Verifying: Viscosity Bound in String Theory
+  Original ID: hep-th
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 80 ---
+
+Verifying: Quark-Gluon Plasma and the RHIC Results
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 80 ---
+
+Verifying: CERN LHC Results on Quark-Gluon Plasma
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_080.csv
+
+*** PROGRESS: 80/100 parts (800/1000 papers) ***
+
+======================================================================
+PROCESSING PART 81/100
+======================================================================
+
+--- Paper 1/10 in Part 81 ---
+
+Verifying: Lattice QCD Calculations of the Hadron Spectrum
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 81 ---
+
+Verifying: Chiral Perturbation Theory
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 81 ---
+
+Verifying: The Parton Model and Deep Inelastic Scattering
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 81 ---
+
+Verifying: Asymptotic Freedom in QCD
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 81 ---
+
+Verifying: Quantum Electrodynamics Renormalization
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 81 ---
+
+Verifying: The Casimir Effect
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 81 ---
+
+Verifying: Anderson Localization
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 81 ---
+
+Verifying: The Quantum Hall Effect
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 81 ---
+
+Verifying: Bose-Einstein Condensation in Dilute Gases
+  Original ID: cond-mat
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 81 ---
+
+Verifying: Feshbach Resonances in Ultracold Gases
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_081.csv
+
+======================================================================
+PROCESSING PART 82/100
+======================================================================
+
+--- Paper 1/10 in Part 82 ---
+
+Verifying: Optical Lattices and Quantum Simulation
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 82 ---
+
+Verifying: Rydberg Atoms for Quantum Information
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 82 ---
+
+Verifying: Cavity Quantum Electrodynamics
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 82 ---
+
+Verifying: Circuit Quantum Electrodynamics
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 82 ---
+
+Verifying: The Transmon Qubit
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 82 ---
+
+Verifying: Flux Qubits
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 82 ---
+
+Verifying: Phase Qubits
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 82 ---
+
+Verifying: Topological Qubits
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 82 ---
+
+Verifying: CRISPR-Cas9 gene editing technology
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 82 ---
+
+Verifying: Base editing: precision genetic alterations
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_082.csv
+
+======================================================================
+PROCESSING PART 83/100
+======================================================================
+
+--- Paper 1/10 in Part 83 ---
+
+Verifying: Prime editing: search and replace DNA
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 83 ---
+
+Verifying: AlphaFold: High accuracy protein structure prediction
+  Original ID: 2107.03374
+  ⚠ MISMATCH:
+    Expected title: AlphaFold: High accuracy protein structure prediction
+    ID 2107.03374 has: Evaluating Large Language Models Trained on Code
+
+--- Paper 3/10 in Part 83 ---
+
+Verifying: RoseTTAFold for protein interaction
+  Original ID: 2107.05047
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 83 ---
+
+Verifying: Single-cell RNA sequencing methodology
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 83 ---
+
+Verifying: Spatial transcriptomics techniques
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 83 ---
+
+Verifying: Deep learning for predicting protein-protein interactions
+  Original ID: 2111.02815
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 83 ---
+
+Verifying: Machine learning in precision medicine
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 83 ---
+
+Verifying: DeepBind: Predicting sequence specificities
+  Original ID: 1508.01259
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 83 ---
+
+Verifying: DeepSEA: Noncoding variants with deep learning
+  Original ID: 1508.01259
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 83 ---
+
+Verifying: Antibiotic discovery using deep learning
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_083.csv
+
+======================================================================
+PROCESSING PART 84/100
+======================================================================
+
+--- Paper 1/10 in Part 84 ---
+
+Verifying: ESMFold: Evolutionary Scale Modeling
+  Original ID: 2207.14255
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 84 ---
+
+Verifying: DeepVariant for highly accurate genome sequencing
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 84 ---
+
+Verifying: AlphaMissense for variant effects
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 84 ---
+
+Verifying: Language models for biological sequence
+  Original ID: 2103.00020
+  ⚠ MISMATCH:
+    Expected title: Language models for biological sequence
+    ID 2103.00020 has: Learning Transferable Visual Models From Natural Language Supervision
+
+--- Paper 5/10 in Part 84 ---
+
+Verifying: Decoding motor cortex signals with RNNs
+  Original ID: 1602.04938
+  ⚠ MISMATCH:
+    Expected title: Decoding motor cortex signals with RNNs
+    ID 1602.04938 has: "Why Should I Trust You?": Explaining the Predictions of Any Classifier
+
+--- Paper 6/10 in Part 84 ---
+
+Verifying: Molecular geometry prediction using graph neural nets
+  Original ID: 1806.07366
+  ⚠ MISMATCH:
+    Expected title: Molecular geometry prediction using graph neural nets
+    ID 1806.07366 has: Neural Ordinary Differential Equations
+
+--- Paper 7/10 in Part 84 ---
+
+Verifying: AlphaFold3: Interactions of protein RNA DNA
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 84 ---
+
+Verifying: Unsupervised learning of evolutionary landscapes
+  Original ID: 2101.08331
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 84 ---
+
+Verifying: Unified language models for biological sequences
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 84 ---
+
+Verifying: Semantic reconstruction of continuous language
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_084.csv
+
+======================================================================
+PROCESSING PART 85/100
+======================================================================
+
+--- Paper 1/10 in Part 85 ---
+
+Verifying: scVI: Deep generative modeling for transcriptomics
+  Original ID: 1709.02082
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 85 ---
+
+Verifying: Predicting the effects of missense variants
+  Original ID: 2309.03577
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 3/10 in Part 85 ---
+
+Verifying: Predicting off-target effects of CRISPR via deep learning
+  Original ID: 1806.00224
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 85 ---
+
+Verifying: Federated learning for healthcare data
+  Original ID: 2108.08398
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 85 ---
+
+Verifying: BioBERT: a pre-trained biomedical language representation
+  Original ID: 1901.08746
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 85 ---
+
+Verifying: PubMedBERT: Domain-Specific Language Model Pretraining
+  Original ID: 2007.15779
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 85 ---
+
+Verifying: Unified approach for single-cell spatial transcriptomics
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 85 ---
+
+Verifying: Decoding Neural Networks for Brain-Computer Interfaces
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 85 ---
+
+Verifying: High-throughput functional genomics via machine learning
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 85 ---
+
+Verifying: Deep learning on human genetic variation
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_085.csv
+
+======================================================================
+PROCESSING PART 86/100
+======================================================================
+
+--- Paper 1/10 in Part 86 ---
+
+Verifying: Predicting long non-coding RNA functions
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 86 ---
+
+Verifying: Structural biology in the era of AlphaFold
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 86 ---
+
+Verifying: Generative models for DNA sequences
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 86 ---
+
+Verifying: Deciphering the regulatory code of the human genome
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 86 ---
+
+Verifying: Machine learning of cellular responses to perturbations
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 86 ---
+
+Verifying: Integrative modeling of macromolecular assemblies
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 86 ---
+
+Verifying: Deep learning for highly multiplexed tissue imaging
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 86 ---
+
+Verifying: Computational systems biology of cancer
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 86 ---
+
+Verifying: Deep learning approaches to genome editing optimization
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 86 ---
+
+Verifying: Predicting protein structures from multiple sequence alignments
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_086.csv
+
+======================================================================
+PROCESSING PART 87/100
+======================================================================
+
+--- Paper 1/10 in Part 87 ---
+
+Verifying: Machine learning for single-cell epigenomics
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 87 ---
+
+Verifying: Modeling RNA structure with deep learning
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 87 ---
+
+Verifying: Deep generative design of antibodies
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 87 ---
+
+Verifying: AI in computational pathology
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 87 ---
+
+Verifying: Machine learning for infectious disease outbreaks
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 87 ---
+
+Verifying: Deep learning of protein conformational ensembles
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 87 ---
+
+Verifying: Language models for regulatory genomics
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 87 ---
+
+Verifying: Automated analysis of biological pathways using AI
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 87 ---
+
+Verifying: AI-driven optimization of synthetic biological circuits
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 87 ---
+
+Verifying: Machine learning for multi-omics biomarker discovery
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_087.csv
+
+======================================================================
+PROCESSING PART 88/100
+======================================================================
+
+--- Paper 1/10 in Part 88 ---
+
+Verifying: Predicting drug toxicity via deep learning
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 88 ---
+
+Verifying: Graph neural networks for modeling biological networks
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 88 ---
+
+Verifying: Deep learning for quantitative phenotype prediction
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 88 ---
+
+Verifying: AI for the analysis of spatial transcriptomics
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 88 ---
+
+Verifying: Deep learning models of cellular differentiation
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 88 ---
+
+Verifying: Machine learning in microbiome data analysis
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 88 ---
+
+Verifying: Deep learning for predicting protein-ligand interactions
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 88 ---
+
+Verifying: Generative AI for small molecule drug discovery
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 88 ---
+
+Verifying: AI-assisted proteomics data interpretation
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 88 ---
+
+Verifying: Machine learning for detecting actionable mutations
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_088.csv
+
+======================================================================
+PROCESSING PART 89/100
+======================================================================
+
+--- Paper 1/10 in Part 89 ---
+
+Verifying: Deep learning of chromatin accessibility
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 89 ---
+
+Verifying: Predicting transcription factor binding sites via CNNs
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 89 ---
+
+Verifying: Deep learning for interpreting untargeted metabolomics
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 89 ---
+
+Verifying: AI models for personalized medicine
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 89 ---
+
+Verifying: Translating sequences into protein structures
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 89 ---
+
+Verifying: Generative modeling of biological sequence space
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 89 ---
+
+Verifying: Self-assembling protein nanomaterials via computational design
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 89 ---
+
+Verifying: Deep learning architectures for bioinformatics
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 89 ---
+
+Verifying: Reinforcement learning for protein folding
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 89 ---
+
+Verifying: Machine learning predicts drug resistance
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_089.csv
+
+======================================================================
+PROCESSING PART 90/100
+======================================================================
+
+--- Paper 1/10 in Part 90 ---
+
+Verifying: Deep sequence models for protein family expansion
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 90 ---
+
+Verifying: Transformers in computational biology
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 90 ---
+
+Verifying: Language-model based prediction of mutation effects
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 90 ---
+
+Verifying: End-to-end biological structure prediction with AI
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 90 ---
+
+Verifying: Deep learning for systems pharmacology
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 90 ---
+
+Verifying: Generative models of complex biomolecular machines
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 90 ---
+
+Verifying: Deep learning directed evolution of enzymes
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 90 ---
+
+Verifying: Artificial intelligence enables structural mapping of the human proteome
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 90 ---
+
+Verifying: Deep models unlock evolutionary conservation
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 90 ---
+
+Verifying: Predicting 3D genome organization with AI
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_090.csv
+
+*** PROGRESS: 90/100 parts (900/1000 papers) ***
+
+======================================================================
+PROCESSING PART 91/100
+======================================================================
+
+--- Paper 1/10 in Part 91 ---
+
+Verifying: Interpretable deep learning in biosciences
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 91 ---
+
+Verifying: Predicting post-translational modifications
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 91 ---
+
+Verifying: Machine learning analysis of microbiome interactions
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 91 ---
+
+Verifying: Sequence-based prediction of protein aggregation
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 91 ---
+
+Verifying: AI for automated experimental biology
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 91 ---
+
+Verifying: AI synthesis of biomedical research hypotheses
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 91 ---
+
+Verifying: Deep learning of RNA-protein interactions
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 91 ---
+
+Verifying: Network analysis of disease modules with graph models
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 91 ---
+
+Verifying: AI-driven systems medicine
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 91 ---
+
+Verifying: Deep models of epigenetic regulation
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_091.csv
+
+======================================================================
+PROCESSING PART 92/100
+======================================================================
+
+--- Paper 1/10 in Part 92 ---
+
+Verifying: Automated extraction of chemical-protein relations
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 92 ---
+
+Verifying: Transformers for extracting genomic relations
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 92 ---
+
+Verifying: Knowledge graphs for multi-target drug discovery
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 92 ---
+
+Verifying: Predicting off-target interactions of new therapeutics
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 92 ---
+
+Verifying: Deep learning decodes the biology of aging
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 92 ---
+
+Verifying: AI models of neurodegeneration
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 92 ---
+
+Verifying: Generative models for novel protein design
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 92 ---
+
+Verifying: Self-supervised learning on genomic sequencing data
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 92 ---
+
+Verifying: AI characterizes unannotated protein structures
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 92 ---
+
+Verifying: Deep learning reveals complex trait heritability
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_092.csv
+
+======================================================================
+PROCESSING PART 93/100
+======================================================================
+
+--- Paper 1/10 in Part 93 ---
+
+Verifying: Machine learning of cellular signal transduction
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 93 ---
+
+Verifying: Integrative AI modeling of human physiology
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 93 ---
+
+Verifying: Spatial genomics analysis via deep learning architectures
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 93 ---
+
+Verifying: AI identifies rare disease causal variants
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 93 ---
+
+Verifying: Kibble-Zurek Mechanism Theory
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 93 ---
+
+Verifying: Shor's Algorithm Experimental Verifications
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 93 ---
+
+Verifying: Topological Orders and Edge Excitations formulation
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 93 ---
+
+Verifying: Deep learning approaches to predicting enhancer-promoter interactions
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 93 ---
+
+Verifying: Generative models for DNA sequence design with neural networks
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 93 ---
+
+Verifying: Predictable genome engineering and structural manipulation using CRISPR
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_093.csv
+
+======================================================================
+PROCESSING PART 94/100
+======================================================================
+
+--- Paper 1/10 in Part 94 ---
+
+Verifying: Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context architectures
+  Original ID: 1901.02860
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 94 ---
+
+Verifying: Sparse Transformers for Long Contexts
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 94 ---
+
+Verifying: Reformer: The Efficient Transformer architecture
+  Original ID: 2001.04451
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 94 ---
+
+Verifying: Longformer: The Long-Document Transformer mechanism
+  Original ID: 2004.05150
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 5/10 in Part 94 ---
+
+Verifying: Linformer: Self-Attention with Linear Complexity scaling
+  Original ID: 2006.04768
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 6/10 in Part 94 ---
+
+Verifying: Perceiver: General Perception with Iterative Attention methodology
+  Original ID: 2103.03206
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 7/10 in Part 94 ---
+
+Verifying: Perceiver IO: A General Architecture for Structured Inputs and Outputs
+  Original ID: 2107.14795
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 8/10 in Part 94 ---
+
+Verifying: A ConvNet for the 2020s paradigm
+  Original ID: 2201.03545
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 9/10 in Part 94 ---
+
+Verifying: MLP-Mixer: An all-MLP Architecture for Vision recognition
+  Original ID: 2105.01601
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 10/10 in Part 94 ---
+
+Verifying: Masked Autoencoders Are Scalable Vision Learners approach
+  Original ID: 2111.06377
+  ✓ VERIFIED: Title matches ID
+  Official: Masked Autoencoders Are Scalable Vision Learners | ID: 2111.06377
+
+✓ Saved: verified/verified_part_094.csv
+
+======================================================================
+PROCESSING PART 95/100
+======================================================================
+
+--- Paper 1/10 in Part 95 ---
+
+Verifying: MoCo: Momentum Contrast for Unsupervised Visual Representation Learning system
+  Original ID: 1911.05722
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 2/10 in Part 95 ---
+
+Verifying: SimCLR: A Simple Framework for Contrastive Learning of Visual Representations analysis
+  Original ID: 2002.05709
+  ✓ VERIFIED: Title matches ID
+  Official: A Simple Framework for Contrastive Learning of Visual Representations | ID: 2002.05709
+
+--- Paper 3/10 in Part 95 ---
+
+Verifying: BYOL: Bootstrap Your Own Latent A New Approach to Self-Supervised Learning method
+  Original ID: 2006.07733
+  ✗ ID not found on arXiv, keeping original
+
+--- Paper 4/10 in Part 95 ---
+
+Verifying: Grothendieck's resolution of singularities
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 95 ---
+
+Verifying: Fermat's little theorem generalisations
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 95 ---
+
+Verifying: Ramanujan's master theorem
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 95 ---
+
+Verifying: Euler's formula for complex analysis
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 95 ---
+
+Verifying: Cantor's diagonal argument
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 95 ---
+
+Verifying: Godel's incompleteness theorems derivations
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 95 ---
+
+Verifying: Cohen's forcing in set theory
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_095.csv
+
+======================================================================
+PROCESSING PART 96/100
+======================================================================
+
+--- Paper 1/10 in Part 96 ---
+
+Verifying: Zermelo-Fraenkel set theory axioms
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 96 ---
+
+Verifying: Transcriptional regulation mechanisms in eukaryotic cells
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 96 ---
+
+Verifying: Epigenetic inheritance and chromatin mechanisms
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 96 ---
+
+Verifying: Non-coding RNAs and their roles in gene regulation
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 96 ---
+
+Verifying: Telomeres and telomerase in aging and cancer
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 96 ---
+
+Verifying: Apoptosis mechanisms and pathways
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 96 ---
+
+Verifying: Autophagy regulation and its significance
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 96 ---
+
+Verifying: Cell cycle regulation and checkpoints
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 96 ---
+
+Verifying: Signal transduction pathways in cellular communication
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 96 ---
+
+Verifying: Mechanisms of membrane transport
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_096.csv
+
+======================================================================
+PROCESSING PART 97/100
+======================================================================
+
+--- Paper 1/10 in Part 97 ---
+
+Verifying: ATP generation and mitochondrial function
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 97 ---
+
+Verifying: Photosynthesis mechanisms and light reactions
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 97 ---
+
+Verifying: Nitrogen fixation pathways in bacteria
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 97 ---
+
+Verifying: Mechanisms of DNA replication and repair
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 97 ---
+
+Verifying: Homologous recombination in meiosis
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 97 ---
+
+Verifying: V(D)J recombination in the immune system
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 97 ---
+
+Verifying: Major histocompatibility complex (MHC) mechanisms
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 97 ---
+
+Verifying: T-cell receptor signaling pathways
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 97 ---
+
+Verifying: B-cell activation and antibody production
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 97 ---
+
+Verifying: Innate immune responses and toll-like receptors
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_097.csv
+
+======================================================================
+PROCESSING PART 98/100
+======================================================================
+
+--- Paper 1/10 in Part 98 ---
+
+Verifying: Complement system activation pathways
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 98 ---
+
+Verifying: Mechanisms of viral entry and replication
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 98 ---
+
+Verifying: Pathogenesis of bacterial infections
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 98 ---
+
+Verifying: Mechanisms of antibiotic resistance
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 98 ---
+
+Verifying: Quorum sensing in bacterial populations
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 98 ---
+
+Verifying: Biofilm formation and regulation
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 98 ---
+
+Verifying: Mechanisms of fungal pathogenesis
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 98 ---
+
+Verifying: Host-pathogen interactions and defense mechanisms
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 98 ---
+
+Verifying: Mechanisms of neurogenesis and development
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 98 ---
+
+Verifying: Synaptic transmission and plasticity
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_098.csv
+
+======================================================================
+PROCESSING PART 99/100
+======================================================================
+
+--- Paper 1/10 in Part 99 ---
+
+Verifying: Long-term potentiation and memory formation
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 99 ---
+
+Verifying: Mechanisms of sensory transduction
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 99 ---
+
+Verifying: Motor control pathways in the central nervous system
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 99 ---
+
+Verifying: Autonomic nervous system regulation
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 99 ---
+
+Verifying: Neuroendocrine regulation and hormone action
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 99 ---
+
+Verifying: Mechanisms of circadian rhythms and sleep
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 99 ---
+
+Verifying: Pathophysiology of neurodegenerative diseases
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 99 ---
+
+Verifying: Mechanisms of psychiatric disorders
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 99 ---
+
+Verifying: Cardiovascular system regulation and function
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 99 ---
+
+Verifying: Respiratory mechanics and gas exchange
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_099.csv
+
+======================================================================
+PROCESSING PART 100/100
+======================================================================
+
+--- Paper 1/10 in Part 100 ---
+
+Verifying: Renal physiology and fluid balance
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 2/10 in Part 100 ---
+
+Verifying: Gastrointestinal motility and digestion
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 3/10 in Part 100 ---
+
+Verifying: Endocrine system and metabolic regulation
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 4/10 in Part 100 ---
+
+Verifying: Reproductive system physiology and endocrinology
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 5/10 in Part 100 ---
+
+Verifying: Mechanisms of muscle contraction
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 6/10 in Part 100 ---
+
+Verifying: Bone remodeling and calcium homeostasis
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 7/10 in Part 100 ---
+
+Verifying: Immune system aging and immunosenescence
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 8/10 in Part 100 ---
+
+Verifying: Cellular mechanisms of aging
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 9/10 in Part 100 ---
+
+Verifying: Mechanisms of tumor angiogenesis
+  Original ID: None
+  No ID available, keeping as-is
+
+--- Paper 10/10 in Part 100 ---
+
+Verifying: Metastasis pathways in cancer
+  Original ID: None
+  No ID available, keeping as-is
+
+✓ Saved: verified/verified_part_100.csv
+
+*** PROGRESS: 100/100 parts (1000/1000 papers) ***
+
+======================================================================
+ALL PARTS COMPLETED!
+======================================================================
+Complete list: verified/verified_all_papers.csv
+
+======================================================================
+VERIFICATION SUMMARY
+======================================================================
+  ID_NOT_FOUND: 404
+  NO_ID: 466
+  TITLE_MISMATCH: 22
+  VERIFIED: 108
+
+Total: 1000 papers

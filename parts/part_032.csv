@@ -1,0 +1,11 @@
+Domain,Title,Link
+CS,t-SNE: Visualizing Data using t-SNE,https://arxiv.org/search/?query=Visualizing+Data+using+t-SNE&searchtype=title
+CS,UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction,https://arxiv.org/abs/1802.03426
+CS,LightGBM: A Highly Efficient Gradient Boosting Decision Tree,https://arxiv.org/search/?query=LightGBM&searchtype=title
+CS,CatBoost: unbiased boosting with categorical features,https://arxiv.org/abs/1706.09516
+CS,WordPiece Subword Routing,https://arxiv.org/search/?query=WordPiece&searchtype=title
+CS,Byte Pair Encoding for Neural Machine Translation,https://arxiv.org/abs/1508.07909
+CS,SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing,https://arxiv.org/abs/1808.06226
+CS,Reasoning with Language Model is Planning with World Model,https://arxiv.org/abs/2305.14992
+CS,Q-Learning for Reinforcement Learning,https://arxiv.org/search/?query=Q-Learning&searchtype=title
+CS,Trust Region Policy Optimization (TRPO),https://arxiv.org/abs/1502.05477

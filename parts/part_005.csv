@@ -1,0 +1,11 @@
+Domain,Title,Link
+CS,ALBERT: A Lite BERT for Self-supervised Learning of Language Representations,https://arxiv.org/abs/1909.11942
+CS,T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer,https://arxiv.org/abs/1910.10683
+CS,DistilBERT a distilled version of BERT: smaller faster cheaper and lighter,https://arxiv.org/abs/1910.01108
+CS,GauGAN: Semantic Image Synthesis with Spatially-Adaptive Normalization,https://arxiv.org/abs/1903.07291
+CS,StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks,https://arxiv.org/abs/1812.04948
+CS,StyleGAN2: Analyzing and Improving the Image Quality of StyleGAN,https://arxiv.org/abs/1912.04958
+CS,DDPG: Continuous control with deep reinforcement learning,https://arxiv.org/abs/1509.02971
+CS,Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor,https://arxiv.org/abs/1801.01290
+CS,Deep Q-Network: Playing Atari with Deep Reinforcement Learning,https://arxiv.org/abs/1312.5602
+CS,WGAN: Wasserstein GAN,https://arxiv.org/abs/1701.07875

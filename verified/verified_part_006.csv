@@ -1,0 +1,11 @@
+Domain,Title,arXiv_ID
+CS,Improved Training of Wasserstein GANs,1704.00028
+CS,Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks,1703.10593
+CS,Image-to-Image Translation with Conditional Adversarial Networks,1611.07004
+CS,AlexNet: ImageNet Classification with Deep Convolutional Neural Networks,UNKNOWN
+CS,Very Deep Convolutional Networks for Large-Scale Image Recognition,1409.1556
+CS,Going Deeper with Convolutions,1409.4842
+CS,Aggregated Residual Transformations for Deep Neural Networks,1611.05431
+CS,Densely Connected Convolutional Networks,1608.06993
+CS,MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications,1704.04861
+CS,MobileNetV2: Inverted Residuals and Linear Bottlenecks,1801.04381
