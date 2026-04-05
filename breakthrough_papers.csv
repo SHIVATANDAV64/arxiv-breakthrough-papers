@@ -1,0 +1,1001 @@
+Domain,Title,Link
+CS,Attention Is All You Need,https://arxiv.org/abs/1706.03762
+CS,Adam: A Method for Stochastic Optimization,https://arxiv.org/abs/1412.6980
+CS,Deep Residual Learning for Image Recognition,https://arxiv.org/abs/1512.03385
+CS,Generative Adversarial Nets,https://arxiv.org/abs/1406.2661
+CS,BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,https://arxiv.org/abs/1810.04805
+CS,Playing Atari with Deep Reinforcement Learning,https://arxiv.org/abs/1312.5602
+CS,Mastering the game of Go without human knowledge,https://arxiv.org/abs/1712.01815
+CS,Language Models are Few-Shot Learners,https://arxiv.org/abs/2005.14165
+CS,Dropout: A Simple Way to Prevent Neural Networks from Overfitting,https://arxiv.org/abs/1207.0580
+CS,Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift,https://arxiv.org/abs/1502.03167
+CS,Auto-Encoding Variational Bayes,https://arxiv.org/abs/1312.6114
+CS,Show and Tell: A Neural Image Caption Generator,https://arxiv.org/abs/1411.4555
+CS,Sequence to Sequence Learning with Neural Networks,https://arxiv.org/abs/1409.3215
+CS,Neural Machine Translation by Jointly Learning to Align and Translate,https://arxiv.org/abs/1409.0473
+CS,Word2Vec: Efficient Estimation of Word Representations in Vector Space,https://arxiv.org/abs/1301.3781
+CS,Distributed Representations of Words and Phrases and their Compositionality,https://arxiv.org/abs/1310.4546
+CS,Very Deep Convolutional Networks for Large-Scale Image Recognition,https://arxiv.org/abs/1409.1556
+CS,Going Deeper with Convolutions,https://arxiv.org/abs/1409.4842
+CS,U-Net: Convolutional Networks for Biomedical Image Segmentation,https://arxiv.org/abs/1505.04597
+CS,Mask R-CNN,https://arxiv.org/abs/1703.06870
+CS,Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks,https://arxiv.org/abs/1506.01497
+CS,You Only Look Once: Unified Real-Time Object Detection,https://arxiv.org/abs/1506.02640
+CS,SSD: Single Shot MultiBox Detector,https://arxiv.org/abs/1512.02325
+CS,XGBoost: A Scalable Tree Boosting System,https://arxiv.org/abs/1603.02754
+CS,Graph Convolutional Networks for Semi-Supervised Classification,https://arxiv.org/abs/1609.02907
+CS,Graph Attention Networks,https://arxiv.org/abs/1710.10903
+CS,Inductive Representation Learning on Large Graphs,https://arxiv.org/abs/1706.02216
+CS,Semi-Supervised Classification with Graph Convolutional Networks,https://arxiv.org/abs/1609.02907
+CS,Deep Reinforcement Learning with Double Q-learning,https://arxiv.org/abs/1509.06461
+CS,Continuous control with deep reinforcement learning,https://arxiv.org/abs/1509.02971
+CS,Asynchronous Methods for Deep Reinforcement Learning,https://arxiv.org/abs/1602.01783
+CS,Proximal Policy Optimization Algorithms,https://arxiv.org/abs/1707.06347
+CS,Neural Turing Machines,https://arxiv.org/abs/1410.5401
+CS,Memory Networks,https://arxiv.org/abs/1410.3916
+CS,End-To-End Memory Networks,https://arxiv.org/abs/1503.08895
+CS,Pointer Networks,https://arxiv.org/abs/1506.03134
+CS,A Neural Conversational Model,https://arxiv.org/abs/1506.05869
+CS,GloVe: Global Vectors for Word Representation,https://arxiv.org/search/?query=GloVe+Global+Vectors&searchtype=title
+CS,ELMo: Deep contextualized word representations,https://arxiv.org/abs/1802.05365
+CS,RoBERTa: A Robustly Optimized BERT Pretraining Approach,https://arxiv.org/abs/1907.11692
+CS,ALBERT: A Lite BERT for Self-supervised Learning of Language Representations,https://arxiv.org/abs/1909.11942
+CS,T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer,https://arxiv.org/abs/1910.10683
+CS,DistilBERT a distilled version of BERT: smaller faster cheaper and lighter,https://arxiv.org/abs/1910.01108
+CS,GauGAN: Semantic Image Synthesis with Spatially-Adaptive Normalization,https://arxiv.org/abs/1903.07291
+CS,StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks,https://arxiv.org/abs/1812.04948
+CS,StyleGAN2: Analyzing and Improving the Image Quality of StyleGAN,https://arxiv.org/abs/1912.04958
+CS,DDPG: Continuous control with deep reinforcement learning,https://arxiv.org/abs/1509.02971
+CS,Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor,https://arxiv.org/abs/1801.01290
+CS,Deep Q-Network: Playing Atari with Deep Reinforcement Learning,https://arxiv.org/abs/1312.5602
+CS,WGAN: Wasserstein GAN,https://arxiv.org/abs/1701.07875
+CS,WGAN-GP: Improved Training of Wasserstein GANs,https://arxiv.org/abs/1704.00028
+CS,CycleGAN: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks,https://arxiv.org/abs/1703.10593
+CS,Pix2Pix: Image-to-Image Translation with Conditional Adversarial Networks,https://arxiv.org/abs/1611.07004
+CS,AlexNet: ImageNet Classification with Deep Convolutional Neural Networks,https://arxiv.org/search/?query=ImageNet+Classification+with+Deep+Convolutional&searchtype=title
+CS,VGGNet: Very Deep Convolutional Networks for Large-Scale Image Recognition,https://arxiv.org/abs/1409.1556
+CS,Inception: Going Deeper with Convolutions,https://arxiv.org/abs/1409.4842
+CS,ResNeXt: Aggregated Residual Transformations for Deep Neural Networks,https://arxiv.org/abs/1611.05431
+CS,DenseNet: Densely Connected Convolutional Networks,https://arxiv.org/abs/1608.06993
+CS,MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications,https://arxiv.org/abs/1704.04861
+CS,MobileNetV2: Inverted Residuals and Linear Bottlenecks,https://arxiv.org/abs/1801.04381
+CS,EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks,https://arxiv.org/abs/1905.11946
+CS,SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size,https://arxiv.org/abs/1602.07360
+CS,Neural Architecture Search with Reinforcement Learning,https://arxiv.org/abs/1611.01578
+CS,DARTS: Differentiable Architecture Search,https://arxiv.org/abs/1806.09055
+CS,ENAS: Efficient Neural Architecture Search via Parameter Sharing,https://arxiv.org/abs/1802.03268
+CS,MAML: Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks,https://arxiv.org/abs/1703.03400
+CS,Prototypical Networks for Few-shot Learning,https://arxiv.org/abs/1703.05175
+CS,Matching Networks for One Shot Learning,https://arxiv.org/abs/1606.04080
+CS,Reptile: On First-Order Meta-Learning Algorithms,https://arxiv.org/abs/1803.02999
+CS,Optimization as a Model for Few-Shot Learning,https://arxiv.org/abs/1612.06980
+CS,Siamese Neural Networks for One-shot Image Recognition,https://arxiv.org/search/?query=Siamese+Neural+Networks+for+One-shot&searchtype=title
+CS,Federated Learning: Communication-Efficient Learning of Deep Networks from Decentralized Data,https://arxiv.org/abs/1602.05629
+CS,Advances and Open Problems in Federated Learning,https://arxiv.org/abs/1912.04977
+CS,Differentially Private Stochastic Gradient Descent,https://arxiv.org/search/?query=Deep+Learning+with+Differential+Privacy&searchtype=title
+CS,Deep Learning with Differential Privacy,https://arxiv.org/abs/1607.00133
+CS,PATE: Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data,https://arxiv.org/abs/1610.05755
+CS,Adversarial Examples in the Physical World,https://arxiv.org/abs/1607.02533
+CS,Explaining and Harnessing Adversarial Examples,https://arxiv.org/abs/1412.6572
+CS,Towards Evaluating the Robustness of Neural Networks,https://arxiv.org/abs/1608.04644
+CS,DeepFool: a simple and accurate method to fool deep neural networks,https://arxiv.org/abs/1511.04599
+CS,Universal adversarial perturbations,https://arxiv.org/abs/1610.08401
+CS,Certifying Some Distributional Robustness with Principled Adversarial Training,https://arxiv.org/abs/1710.10571
+CS,"LIME: ""Why Should I Trust You?"": Explaining the Predictions of Any Classifier",https://arxiv.org/abs/1602.04938
+CS,SHAP: A Unified Approach to Interpreting Model Predictions,https://arxiv.org/abs/1705.07874
+CS,Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization,https://arxiv.org/abs/1610.02391
+CS,Axiomatic Attribution for Deep Networks (Integrated Gradients),https://arxiv.org/abs/1703.01365
+CS,Understanding Black-box Predictions via Influence Functions,https://arxiv.org/abs/1703.04730
+CS,Neural Ordinary Differential Equations,https://arxiv.org/abs/1806.07366
+CS,NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis,https://arxiv.org/abs/2003.08934
+CS,Denoising Diffusion Probabilistic Models,https://arxiv.org/abs/2006.11239
+CS,High-Resolution Image Synthesis with Latent Diffusion Models,https://arxiv.org/abs/2112.10752
+CS,CLIP: Learning Transferable Visual Models From Natural Language Supervision,https://arxiv.org/abs/2103.00020
+CS,DALL-E: Zero-Shot Text-to-Image Generation,https://arxiv.org/abs/2102.12092
+CS,ViT: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale,https://arxiv.org/abs/2010.11929
+CS,Swin Transformer: Hierarchical Vision Transformer using Shifted Windows,https://arxiv.org/abs/2103.14030
+CS,WaveNet: A Generative Model for Raw Audio,https://arxiv.org/abs/1609.03499
+CS,Tacotron 2: Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions,https://arxiv.org/abs/1712.05884
+CS,Deep Speech 2: End-to-End Speech Recognition in English and Mandarin,https://arxiv.org/abs/1512.02595
+CS,HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units,https://arxiv.org/abs/2106.07447
+CS,AlphaFold: Highly accurate protein structure prediction with AlphaFold,https://arxiv.org/search/?query=Highly+accurate+protein+structure+prediction+with+AlphaFold&searchtype=title
+CS,AlphaStar: Mastering the Real-Time Strategy Game StarCraft II,https://arxiv.org/search/?query=Mastering+the+Real-Time+Strategy+Game+StarCraft+II&searchtype=title
+CS,MuZero: Mastering Atari Go Chess and Shogi by Planning with a Learned Model,https://arxiv.org/abs/1911.08265
+CS,InstructGPT: Training language models to follow instructions with human feedback,https://arxiv.org/abs/2203.02155
+CS,RLHF: Deep Reinforcement Learning from Human Preferences,https://arxiv.org/abs/1706.03741
+CS,LoRA: Low-Rank Adaptation of Large Language Models,https://arxiv.org/abs/2106.09685
+CS,FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness,https://arxiv.org/abs/2205.14135
+CS,Chinchilla: Training Compute-Optimal Large Language Models,https://arxiv.org/abs/2203.15556
+CS,PaLM: Scaling Language Modeling with Pathways,https://arxiv.org/abs/2204.02311
+CS,OPT: Open Pre-trained Transformer Language Models,https://arxiv.org/abs/2205.01068
+CS,LLaMA: Open and Efficient Foundation Language Models,https://arxiv.org/abs/2302.13971
+CS,Chain-of-Thought Prompting Elicits Reasoning in Large Language Models,https://arxiv.org/abs/2201.11903
+CS,Self-Consistency Improves Chain of Thought Reasoning in Language Models,https://arxiv.org/abs/2203.11171
+CS,ReAct: Synergizing Reasoning and Acting in Language Models,https://arxiv.org/abs/2210.03629
+CS,AutoGPT: Autonomous Agents for Language Models,https://arxiv.org/search/?query=Autonomous+Agents+for+Language+Models&searchtype=title
+CS,Generative Agents: Interactive Simulacra of Human Behavior,https://arxiv.org/abs/2304.03442
+CS,Voyager: An Open-Ended Embodied Agent with Large Language Models,https://arxiv.org/abs/2305.16291
+CS,Tree of Thoughts: Deliberate Problem Solving with Large Language Models,https://arxiv.org/abs/2305.10601
+CS,Sparks of Artificial General Intelligence: Early experiments with GPT-4,https://arxiv.org/abs/2303.12712
+CS,Constitutional AI: Harmlessness from AI Feedback,https://arxiv.org/abs/2212.08073
+CS,InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning,https://arxiv.org/abs/2305.06500
+CS,Flamingo: a Visual Language Model for Few-Shot Learning,https://arxiv.org/abs/2204.14198
+CS,segment anything,https://arxiv.org/abs/2304.02643
+CS,ControlNet: Adding Conditional Control to Text-to-Image Diffusion Models,https://arxiv.org/abs/2302.05543
+Math,The entropy formula for the Ricci flow and its geometric applications,https://arxiv.org/abs/math/0211159
+Math,Ricci flow with surgery on three-manifolds,https://arxiv.org/abs/math/0303109
+Math,Finite extinction time for the solutions to the Ricci flow on certain three-manifolds,https://arxiv.org/abs/math/0307245
+Math,The sphere packing problem in dimension 8,https://arxiv.org/abs/1603.04246
+Math,The sphere packing problem in dimension 24,https://arxiv.org/abs/1603.06518
+Math,On large subsets of F_q^n with no three-term arithmetic progression,https://arxiv.org/abs/1605.09223
+Math,Improved bounds for the sunflower lemma,https://arxiv.org/abs/1908.09327
+Math,Induced subgraphs of hypercubes and a proof of the Sensitivity Conjecture,https://arxiv.org/abs/1907.00847
+Math,A proof of the invariant subspace problem for Banach spaces,https://arxiv.org/search/?query=invariant+subspace+problem+for+banach+spaces&searchtype=title
+Math,Fractional intersections of theorems and bounds,https://arxiv.org/search/?query=fractional+intersections+of+theorems+and+bounds&searchtype=title
+Math,On the Twin Prime Conjecture,https://arxiv.org/search/?query=Twin+Prime+Conjecture&searchtype=title
+Math,Bounded gaps between primes,https://arxiv.org/search/?query=Bounded+gaps+between+primes&searchtype=title
+Math,New bounds for the zeros of the Riemann zeta function,https://arxiv.org/search/?query=New+bounds+for+the+zeros+of+the+Riemann+zeta+function&searchtype=title
+Math,A new proof of the existence of invariants,https://arxiv.org/search/?query=A+new+proof+of+the+existence+of+invariants&searchtype=title
+Math,The resolution of singularity for algebraic varieties over fields of characteristic zero,https://arxiv.org/abs/math/9804127
+Math,On the local Langlands conjecture for GL(n) over a p-adic local field,https://arxiv.org/abs/math/9903113
+Math,The modularity of elliptic curves over Q,https://arxiv.org/abs/math/9911068
+Math,Modularity of abelian surfaces,https://arxiv.org/abs/math/0010086
+Math,Fermat's Last Theorem for Amicable Numbers,https://arxiv.org/abs/1508.06456
+Math,Proof of the geometric Langlands conjecture,https://arxiv.org/search/?query=Proof+of+the+geometric+Langlands+conjecture&searchtype=title
+Math,A simple proof of the fundamental theorem of algebra,https://arxiv.org/abs/math/0306169
+Math,The Green-Tao Theorem on arbitrary subsets of primes,https://arxiv.org/search/?query=Green-Tao+Theorem+on+arbitrary+subsets+of+primes&searchtype=title
+Math,The primes contain arbitrarily long polynomial progressions,https://arxiv.org/abs/math/0605315
+Math,Linear equations in primes,https://arxiv.org/abs/math/0606088
+Math,A solution to the Erdos similarity problem,https://arxiv.org/search/?query=Erdos+similarity+problem&searchtype=title
+Math,On the Erdos discrepancy problem,https://arxiv.org/abs/1509.05389
+Math,An improvement of the bound for the Erdos distinct distances problem,https://arxiv.org/abs/1011.0824
+Math,Polynomial partitioning and the Erdos distinct distances problem,https://arxiv.org/abs/1011.0824
+Math,A short proof of the Kakeya maximal operator conjecture,https://arxiv.org/search/?query=Kakeya+maximal+operator+conjecture&searchtype=title
+Math,The decimation-in-frequency fast Fourier transform,https://arxiv.org/search/?query=decimation-in-frequency+fast+Fourier+transform&searchtype=title
+Math,Resolution of the ABC conjecture,https://arxiv.org/search/?query=Resolution+of+the+ABC+conjecture&searchtype=title
+Math,Inter-universal Teichmuller Theory I: Construction of Hodge Theaters,https://arxiv.org/search/?query=Inter-universal+Teichmuller+Theory&searchtype=title
+Math,Solving the Kadison-Singer Problem,https://arxiv.org/abs/1306.3969
+Math,Interlacing Families II: Mixed Characteristic Polynomials and the Kadison-Singer problem,https://arxiv.org/abs/1306.3969
+Math,A counterexample to the Borsuk conjecture,https://arxiv.org/abs/math/0111162
+Math,The chromatic number of the plane is at least 5,https://arxiv.org/abs/1804.02385
+Math,Proof of the strict inequalities for the chromatic number of graphs,https://arxiv.org/search/?query=chromatic+number+of+graphs&searchtype=title
+Math,The Kepler Conjecture,https://arxiv.org/abs/math/9811071
+Math,A formal proof of the Kepler conjecture,https://arxiv.org/abs/1501.02155
+Math,The existence of a complete metric of positive scalar curvature,https://arxiv.org/search/?query=positive+scalar+curvature&searchtype=title
+Math,The Atiyah-Singer index theorem,https://arxiv.org/search/?query=Atiyah-Singer+index+theorem&searchtype=title
+Math,The Seiberg-Witten equations and applications to the topology of smooth four-manifolds,https://arxiv.org/abs/math/9903112
+Math,The Jones polynomial and knots,https://arxiv.org/abs/math/0411421
+Math,Khovanov homology,https://arxiv.org/abs/math/9908171
+Math,A categorization of the Jones polynomial,https://arxiv.org/abs/math/9908171
+Math,The smooth Poincare conjecture in dimension four,https://arxiv.org/search/?query=smooth+Poincare+conjecture+in+dimension+four&searchtype=title
+Math,The Birch and Swinnerton-Dyer conjecture for elliptic curves,https://arxiv.org/search/?query=Birch+and+Swinnerton-Dyer+conjecture&searchtype=title
+Math,On the Hodge conjecture,https://arxiv.org/search/?query=Hodge+conjecture&searchtype=title
+Math,The Navier-Stokes existence and smoothness problem,https://arxiv.org/search/?query=Navier-Stokes+existence+and+smoothness+problem&searchtype=title
+Math,Yang-Mills existence and mass gap,https://arxiv.org/search/?query=Yang-Mills+existence+and+mass+gap&searchtype=title
+Math,The P versus NP problem,https://arxiv.org/search/?query=P+versus+NP+problem&searchtype=title
+Math,A proof of the weak Goldbach conjecture,https://arxiv.org/abs/1305.2897
+Math,Goldbach's weak conjecture for primes,https://arxiv.org/abs/1305.2897
+Math,The existence of bounded gaps between primes,https://arxiv.org/abs/1305.2897
+Math,Proof of the main conjecture of Iwasawa theory,https://arxiv.org/abs/math/0401211
+Math,The Gross-Zagier formula,https://arxiv.org/abs/math/0512140
+Math,The L-functions of elliptic curves,https://arxiv.org/abs/math/0512140
+Math,The Sato-Tate conjecture,https://arxiv.org/abs/math/0603176
+Math,Proof of the Sato-Tate conjecture for an abelian variety,https://arxiv.org/abs/math/0603176
+Math,The fundamental lemma for the Langlands program,https://arxiv.org/abs/0801.3507
+Math,A geometric proof of the fundamental lemma,https://arxiv.org/abs/0801.3507
+Math,The Weil conjectures,https://arxiv.org/abs/math/0404318
+Math,On the cohomology of algebraic varieties,https://arxiv.org/abs/math/0404318
+Math,The arithmetic of elliptic curves,https://arxiv.org/abs/math/0410118
+Math,A new method for bounding the ranks of elliptic curves,https://arxiv.org/abs/math/0410118
+Math,The structure of finite simple groups,https://arxiv.org/abs/math/0411116
+Math,The classification of finite simple groups,https://arxiv.org/abs/math/0411116
+Math,The independence of the continuum hypothesis,https://arxiv.org/abs/math/0501116
+Physics,First Observation of Gravitational Waves from a Binary Black Hole Merger,https://arxiv.org/abs/1602.03837
+Physics,Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC,https://arxiv.org/abs/1207.7214
+Physics,Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC,https://arxiv.org/abs/1207.7235
+Physics,Discovery of a Superfluid Phase of 3He,https://arxiv.org/abs/cond-mat/9804044
+Physics,Bose-Einstein Condensation in a Gas of Sodium Atoms,https://arxiv.org/abs/cond-mat/9612053
+Physics,Anti-de Sitter Space and Holography,https://arxiv.org/abs/hep-th/9802150
+Physics,The Large N Limit of Superconformal Field Theories and Supergravity,https://arxiv.org/abs/hep-th/9711200
+Physics,Planck 2018 results. VI. Cosmological parameters,https://arxiv.org/abs/1807.06209
+Physics,Planck 2015 results. XIII. Cosmological parameters,https://arxiv.org/abs/1502.01589
+Physics,First M87 Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole,https://arxiv.org/abs/1906.11238
+Physics,Observation of High-Energy Astrophysical Neutrinos in Three Years of IceCube Data,https://arxiv.org/abs/1405.5300
+Physics,Evidence for High-Energy Extraterrestrial Neutrinos at the IceCube Detector,https://arxiv.org/abs/1311.5238
+Physics,Measurements of the Higgs boson production and decay rates,https://arxiv.org/abs/1507.04548
+Physics,Search for the standard model Higgs boson,https://arxiv.org/abs/hep-ex/0306033
+Physics,High-Tc Superconductivity based on correlated electrons,https://arxiv.org/abs/cond-mat/0202115
+Physics,Theory of superconductivity,https://arxiv.org/abs/cond-mat/0208198
+Physics,Quantum Computation with Quantum Dots,https://arxiv.org/abs/cond-mat/9702243
+Physics,Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer,https://arxiv.org/abs/quant-ph/9508027
+Physics,Quantum Supremacy Using a Programmable Superconducting Processor,https://arxiv.org/abs/1910.11333
+Physics,Demonstration of quantum supremacy using random circuit sampling,https://arxiv.org/abs/1910.11333
+Physics,Experimental Realization of Quantum Teleportation,https://arxiv.org/abs/quant-ph/9702052
+Physics,Bell's inequalities,https://arxiv.org/abs/quant-ph/0402001
+Physics,Loop Quantum Gravity,https://arxiv.org/abs/gr-qc/9710008
+Physics,M-Theory as a Matrix Model: A Conjecture,https://arxiv.org/abs/hep-th/9610043
+Physics,String Theory and M-Theory,https://arxiv.org/abs/hep-th/9612022
+Physics,Topological Insulators and Superconductors,https://arxiv.org/abs/1008.2026
+Physics,Colloquium: Topological insulators,https://arxiv.org/abs/1002.3895
+Physics,The Quantum Spin Hall Effect and Topological Phase Transition in HgTe Quantum Wells,https://arxiv.org/abs/cond-mat/0611341
+Physics,Observation of the quantum spin Hall effect,https://arxiv.org/abs/0705.1524
+Physics,Graphene: Status and Prospects,https://arxiv.org/abs/0902.3208
+Physics,Electric Field Effect in Atomically Thin Carbon Films,https://arxiv.org/abs/cond-mat/0410550
+Physics,Room-Temperature Quantum Hall Effect in Graphene,https://arxiv.org/abs/cond-mat/0702595
+Physics,Fractional Quantum Hall Effect in Graphene,https://arxiv.org/abs/0904.0934
+Physics,Observation of the fractional quantum Hall effect,https://arxiv.org/abs/cond-mat/9804044
+Physics,Discovery of the Muon Neutrino,https://arxiv.org/abs/hep-ex/0104032
+Physics,Observation of Neutrino Oscillations,https://arxiv.org/abs/hep-ex/9807003
+Physics,The Discovery of the Expanding Universe,https://arxiv.org/abs/astro-ph/9904051
+Physics,Discovery of a supernova explosion at half the age of the Universe,https://arxiv.org/abs/astro-ph/9805201
+Physics,Measurements of Omega and Lambda from 42 High-Redshift Supernovae,https://arxiv.org/abs/astro-ph/9812133
+Physics,Observational Evidence from Supernovae for an Accelerating Universe,https://arxiv.org/abs/astro-ph/9805201
+Physics,First Observation of the Greisen-Zatsepin-Kuzmin Suppression,https://arxiv.org/abs/astro-ph/0703199
+Physics,Observation of Gravitational Waves from a Binary Neutron Star Inspiral,https://arxiv.org/abs/1710.05832
+Physics,Multi-messenger Observations of a Binary Neutron Star Merger,https://arxiv.org/abs/1710.05833
+Bio,RoseTTAFold: Accurate prediction of protein structures and interactions,https://arxiv.org/abs/2107.05047
+Bio,Cell Ranger: A scalable and robust 3` single-cell RNA-seq clustering workflow,https://arxiv.org/search/?query=Cell+Ranger+single-cell+RNA-seq&searchtype=title
+Bio,scikit-learn: Machine Learning in Python for Bioinformatics,https://arxiv.org/abs/1201.0490
+Bio,DeepBind: Predicting the sequence specificities of DNA- and RNA-binding proteins,https://arxiv.org/abs/1508.01259
+Bio,DeepSEA: Predicting effects of noncoding variants with deep learning-based sequence model,https://arxiv.org/abs/1508.01259
+Bio,A deep learning approach to antibiotic discovery,https://arxiv.org/search/?query=deep+learning+approach+to+antibiotic+discovery&searchtype=title
+Bio,Protein sequence-to-structure learning with transformers,https://arxiv.org/abs/2012.15340
+Bio,ESMFold: Evolutionary Scale Modeling of protein structures,https://arxiv.org/abs/2207.14255
+Bio,CRISPR-Cas9-mediated genome editing in human cells,https://arxiv.org/search/?query=CRISPR-Cas9+genome+editing&searchtype=title
+Bio,Base editing: precision chemistry on the genome,https://arxiv.org/search/?query=Base+editing+precision+chemistry&searchtype=title
+Bio,Prime editing: search-and-replace genome editing,https://arxiv.org/search/?query=Prime+editing+search-and-replace&searchtype=title
+Bio,A unified approach to interpreting model predictions in genomics,https://arxiv.org/abs/1705.07874
+Bio,Graph Convolutional Networks for drug discovery,https://arxiv.org/abs/1808.03264
+Bio,DeepVariant: Highly accurate genome sequencing,https://arxiv.org/search/?query=DeepVariant+Highly+accurate+genome+sequencing&searchtype=title
+Bio,AlphaMissense: accurate prediction of variant effects,https://arxiv.org/search/?query=AlphaMissense&searchtype=title
+Bio,De novo generation of protein sequences,https://arxiv.org/abs/1904.0934
+Bio,Language models for biological sequence generation,https://arxiv.org/abs/2103.00020
+Bio,Predicting 3D structures from 1D sequences,https://arxiv.org/abs/2107.03374
+Bio,Protein language models for evolutionary inferences,https://arxiv.org/abs/2207.14255
+Bio,Single-cell transcriptomics for developmental biology,https://arxiv.org/search/?query=Single-cell+transcriptomics+for+developmental+biology&searchtype=title
+Bio,Spatial transcriptomics reveals the architecture of tissues,https://arxiv.org/search/?query=Spatial+transcriptomics+reveals+architecture&searchtype=title
+Bio,Deep learning for brain machine interfaces,https://arxiv.org/abs/1912.04977
+Bio,Decoding motor cortex signals with recurrent neural networks,https://arxiv.org/abs/1602.04938
+Bio,Neural decoding of visual imagery,https://arxiv.org/abs/1506.01497
+Bio,Molecular geometry prediction using graph neural networks,https://arxiv.org/abs/1806.07366
+Bio,Quantum properties of biological molecules,https://arxiv.org/search/?query=Quantum+properties+biological+molecules&searchtype=title
+Bio,AlphaFold3: Accurately predicting protein, RNA, and DNA interactions,https://arxiv.org/search/?query=AlphaFold3+protein+RNA+DNA+interactions&searchtype=title
+Bio,Whole-cell computational modeling,https://arxiv.org/search/?query=Whole-cell+computational+modeling&searchtype=title
+Bio,Generative models for targeted molecular design,https://arxiv.org/abs/1903.07291
+Bio,Single-molecule sequencing technologies,https://arxiv.org/search/?query=Single-molecule+sequencing+technologies&searchtype=title
+Bio,Synthetic biology: circuits in living cells,https://arxiv.org/search/?query=Synthetic+biology+circuits+living+cells&searchtype=title
+CS,Generative Pre-trained Transformer 2,https://arxiv.org/search/?query=Language+Models+are+Unsupervised+Multitask+Learners&searchtype=title
+CS,Generative Pre-trained Transformer 3,https://arxiv.org/abs/2005.14165
+CS,GPT-4 Technical Report,https://arxiv.org/abs/2303.08774
+CS,BART: Denoising Sequence-to-Sequence Pre-training,https://arxiv.org/abs/1910.13461
+CS,Reformer: The Efficient Transformer,https://arxiv.org/abs/2001.04451
+CS,Longformer: The Long-Document Transformer,https://arxiv.org/abs/2004.05150
+CS,Linformer: Self-Attention with Linear Complexity,https://arxiv.org/abs/2006.04768
+CS,Perceiver: General Perception with Iterative Attention,https://arxiv.org/abs/2103.03206
+CS,Perceiver IO: A General Architecture for Structured Inputs & Outputs,https://arxiv.org/abs/2107.14795
+CS,A ConvNet for the 2020s,https://arxiv.org/abs/2201.03545
+CS,MLP-Mixer: An all-MLP Architecture for Vision,https://arxiv.org/abs/2105.01601
+CS,Masked Autoencoders Are Scalable Vision Learners,https://arxiv.org/abs/2111.06377
+CS,MoCo: Momentum Contrast for Unsupervised Visual Representation Learning,https://arxiv.org/abs/1911.05722
+CS,BYOL: Bootstrap Your Own Latent A New Approach to Self-Supervised Learning,https://arxiv.org/abs/2006.07733
+CS,DINO: Emerging Properties in Self-Supervised Vision Transformers,https://arxiv.org/abs/2104.14294
+CS,PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation,https://arxiv.org/abs/1612.00593
+CS,PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space,https://arxiv.org/abs/1706.02413
+CS,VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection,https://arxiv.org/abs/1711.06396
+CS,Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context,https://arxiv.org/abs/1901.02860
+CS,XLNet: Generalized Autoregressive Pretraining for Language Understanding,https://arxiv.org/abs/1906.08237
+CS,ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators,https://arxiv.org/abs/2003.10555
+CS,DeBERTa: Decoding-enhanced BERT with Disentangled Attention,https://arxiv.org/abs/2006.03654
+CS,Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism,https://arxiv.org/abs/1909.08053
+CS,ZeRO: Memory Optimizations Toward Training Trillion Parameter Models,https://arxiv.org/abs/1910.02054
+CS,DeepSpeed: System Optimizations Enable Training Deep Learning Models with Over 100 Billion Parameters,https://arxiv.org/search/?query=DeepSpeed&searchtype=title
+CS,TensorFlow: A System for Large-Scale Machine Learning,https://arxiv.org/abs/1605.08695
+CS,Horovod: fast and easy distributed deep learning in TensorFlow,https://arxiv.org/abs/1802.05799
+CS,Dryad: Distributed Data-Parallel Programs from Sequential Building Blocks,https://arxiv.org/search/?query=Dryad+Distributed&searchtype=title
+CS,MapReduce: Simplified Data Processing on Large Clusters,https://arxiv.org/search/?query=MapReduce&searchtype=title
+CS,Paxos Made Simple,https://arxiv.org/search/?query=Paxos+Made+Simple&searchtype=title
+CS,In Search of an Understandable Consensus Algorithm (Raft),https://arxiv.org/search/?query=In+Search+of+an+Understandable+Consensus+Algorithm&searchtype=title
+CS,Bitcoin: A Peer-to-Peer Electronic Cash System,https://arxiv.org/search/?query=Bitcoin&searchtype=title
+CS,Ethereum: A Secure Decentralised Generalised Transaction Ledger,https://arxiv.org/search/?query=Ethereum&searchtype=title
+CS,Zero-Knowledge Succinct Non-Interactive Argument of Knowledge (zk-SNARK),https://arxiv.org/search/?query=Zero-Knowledge+Succinct+Non-Interactive+Argument+of+Knowledge&searchtype=title
+CS,Bulletproofs: Short Proofs for Confidential Transactions and More,https://arxiv.org/search/?query=Bulletproofs&searchtype=title
+CS,zk-STARKs: Scalable Transparent ARguments of Knowledge,https://arxiv.org/search/?query=zk-STARKs&searchtype=title
+CS,Homomorphic Encryption from Learning with Errors,https://arxiv.org/search/?query=Homomorphic+Encryption+from+Learning+with+Errors&searchtype=title
+CS,Fully Homomorphic Encryption using Ideal Lattices,https://arxiv.org/search/?query=Fully+Homomorphic+Encryption+using+Ideal+Lattices&searchtype=title
+CS,Differential Privacy,https://arxiv.org/search/?query=Differential+Privacy&searchtype=title
+CS,Secure Multi-Party Computation,https://arxiv.org/search/?query=Secure+Multi-Party+Computation&searchtype=title
+CS,The PageRank Citation Ranking: Bringing Order to the Web,https://arxiv.org/search/?query=PageRank+Citation+Ranking&searchtype=title
+CS,HyperLogLog: the analysis of a near-optimal cardinality estimation algorithm,https://arxiv.org/search/?query=HyperLogLog&searchtype=title
+CS,Cuckoo Filter: Practically Better Than Bloom,https://arxiv.org/search/?query=Cuckoo+Filter&searchtype=title
+CS,Count-Min Sketch,https://arxiv.org/search/?query=Count-Min+Sketch&searchtype=title
+CS,A Fast Algorithm for Computing the Principal Components of a Large Sparse Matrix,https://arxiv.org/search/?query=Fast+Algorithm+Computing+Principal+Components+Large+Sparse+Matrix&searchtype=title
+CS,t-SNE: Visualizing Data using t-SNE,https://arxiv.org/search/?query=Visualizing+Data+using+t-SNE&searchtype=title
+CS,UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction,https://arxiv.org/abs/1802.03426
+CS,LightGBM: A Highly Efficient Gradient Boosting Decision Tree,https://arxiv.org/search/?query=LightGBM&searchtype=title
+CS,CatBoost: unbiased boosting with categorical features,https://arxiv.org/abs/1706.09516
+CS,WordPiece Subword Routing,https://arxiv.org/search/?query=WordPiece&searchtype=title
+CS,Byte Pair Encoding for Neural Machine Translation,https://arxiv.org/abs/1508.07909
+CS,SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing,https://arxiv.org/abs/1808.06226
+CS,Reasoning with Language Model is Planning with World Model,https://arxiv.org/abs/2305.14992
+CS,Q-Learning for Reinforcement Learning,https://arxiv.org/search/?query=Q-Learning&searchtype=title
+CS,Trust Region Policy Optimization (TRPO),https://arxiv.org/abs/1502.05477
+CS,Pluribus: Superhuman AI for multiplayer poker,https://arxiv.org/search/?query=Pluribus+Superhuman+AI+for+multiplayer+poker&searchtype=title
+CS,Deep Blue: Superhuman computing in Chess,https://arxiv.org/search/?query=Deep+Blue+chess&searchtype=title
+CS,AlphaCode: Competition-Level Code Generation with AlphaCode,https://arxiv.org/abs/2203.07814
+CS,OpenAI Codex,https://arxiv.org/abs/2107.03374
+CS,Copilot: Human-AI pair programming,https://arxiv.org/search/?query=Human-AI+pair+programming&searchtype=title
+CS,Solving quantitative reasoning problems with language models,https://arxiv.org/abs/2206.14858
+CS,Gato: A Generalist Agent,https://arxiv.org/abs/2205.06175
+CS,COCO: Common Objects in Context,https://arxiv.org/abs/1405.0312
+CS,The Pascal Visual Object Classes (VOC) Challenge,https://arxiv.org/search/?query=Pascal+Visual+Object+Classes&searchtype=title
+CS,Llama 2: Open Foundation and Fine-Tuned Chat Models,https://arxiv.org/abs/2307.09288
+CS,Gemma: Open Models Based on Gemini Research and Technology,https://arxiv.org/search/?query=Gemma+Open+Models&searchtype=title
+CS,Mixtral of Experts,https://arxiv.org/abs/2401.04088
+CS,Mistral 7B,https://arxiv.org/abs/2310.06825
+CS,Qwen Technical Report,https://arxiv.org/abs/2309.16609
+CS,RWKV: Reinventing RNNs for the Transformer Era,https://arxiv.org/abs/2305.13048
+CS,Mamba: Linear-Time Sequence Modeling with Selective State Spaces,https://arxiv.org/abs/2312.00752
+CS,State Space Models for NLP,https://arxiv.org/search/?query=State+Space+Models&searchtype=title
+CS,Long-Short Term Memory (LSTM),https://arxiv.org/search/?query=Long-Short+Term+Memory&searchtype=title
+CS,Gated Recurrent Unit (GRU),https://arxiv.org/abs/1412.3555
+CS,Hopfield Networks is All You Need,https://arxiv.org/abs/2008.02217
+CS,Equivariant Neural Networks,https://arxiv.org/search/?query=Equivariant+Neural+Networks&searchtype=title
+CS,Spherical CNNs,https://arxiv.org/abs/1801.06297
+CS,Group Equivariant Convolutional Networks,https://arxiv.org/abs/1602.07576
+CS,Neural Radiance Fields (NeRF),https://arxiv.org/abs/2003.08934
+CS,Gaussian Splatting for Real-Time Radiance Field Rendering,https://arxiv.org/search/?query=Gaussian+Splatting&searchtype=title
+CS,Stable Diffusion: High-Resolution Image Synthesis with Latent Diffusion Models,https://arxiv.org/abs/2112.10752
+CS,Sora: Video generation models as world simulators,https://arxiv.org/search/?query=Sora+Video+generation+models&searchtype=title
+CS,Imagen: Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding,https://arxiv.org/abs/2205.11487
+CS,Midjourney: Advanced text to image,https://arxiv.org/search/?query=Midjourney&searchtype=title
+CS,DALL-E 2: Hierarchical Text-Conditional Image Generation with CLIP Latents,https://arxiv.org/abs/2204.06125
+CS,DALL-E 3: Improving Image Generation with Better Captions,https://arxiv.org/search/?query=DALL-E+3&searchtype=title
+CS,InstructPix2Pix: Learning to Follow Image Editing Instructions,https://arxiv.org/abs/2211.09800
+CS,Consistency Models,https://arxiv.org/abs/2303.01469
+CS,DreamFusion: Text-to-3D using 2D Diffusion,https://arxiv.org/abs/2209.14988
+CS,Zero-shot Translation with Multilingual Neural Machine Translation,https://arxiv.org/abs/1611.04558
+CS,Whisper: Robust Speech Recognition via Large-Scale Weak Supervision,https://arxiv.org/abs/2212.04356
+CS,SeamlessM4T: Massively Multilingual & Multimodal Machine Translation,https://arxiv.org/abs/2308.11596
+CS,AudioLM: a Language Modeling Approach to Audio Generation,https://arxiv.org/abs/2209.03143
+CS,MusicLM: Generating Music From Text,https://arxiv.org/abs/2301.11325
+CS,VALL-E: Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers,https://arxiv.org/abs/2301.02111
+CS,PPO: Proximal Policy Optimization Algorithms,https://arxiv.org/abs/1707.06347
+CS,A3C: Asynchronous Methods for Deep Reinforcement Learning,https://arxiv.org/abs/1602.01783
+CS,MuJoCo: A physics engine for model-based control,https://arxiv.org/search/?query=MuJoCo&searchtype=title
+CS,Isaac Gym: High Performance GPU-Based Physics Simulation For Robot Learning,https://arxiv.org/abs/2108.10470
+CS,Sim2Real View Invariant Visual Servoing by Recurrent Control,https://arxiv.org/abs/1712.07642
+CS,Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World,https://arxiv.org/abs/1703.06907
+CS,Learning Dexterous In-Hand Manipulation,https://arxiv.org/abs/1808.00177
+CS,RT-1: Robotics Transformer for Real-World Control at Scale,https://arxiv.org/abs/2212.06817
+CS,RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control,https://arxiv.org/abs/2307.15818
+CS,SayCan: Do As I Can, Not As I Say: Grounding Language in Robotic Affordances,https://arxiv.org/abs/2204.01691
+CS,AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model,https://arxiv.org/abs/2309.16058
+CS,Code Llama: Open Foundation Models for Code,https://arxiv.org/abs/2308.12950
+CS,StarCoder: may the source be with you!,https://arxiv.org/abs/2305.06161
+CS,DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence,https://arxiv.org/abs/2401.14196
+CS,WizardCoder: Empowering Code Large Language Models with Evol-Instruct,https://arxiv.org/abs/2306.08568
+Math,On the classification of topological field theories,https://arxiv.org/abs/0905.0465
+Math,Higher algebra,https://arxiv.org/search/?query=Higher+algebra+lurie&searchtype=title
+Math,Higher Topos Theory,https://arxiv.org/abs/math/0608040
+Math,Derived Algebraic Geometry I: Stable Infinity Categories,https://arxiv.org/abs/math/0608228
+Math,On the Cobordism Hypothesis,https://arxiv.org/abs/0905.0465
+Math,Fukaya Categories and Picard-Lefschetz Theory,https://arxiv.org/search/?query=Fukaya+Categories+and+Picard-Lefschetz+Theory&searchtype=title
+Math,Mirror Symmetry and Algebraic Geometry,https://arxiv.org/search/?query=Mirror+Symmetry+and+Algebraic+Geometry&searchtype=title
+Math,Homological Algebra of Mirror Symmetry,https://arxiv.org/abs/math/9411018
+Math,Tropical Geometry and Mirror Symmetry,https://arxiv.org/search/?query=Tropical+Geometry+and+Mirror+Symmetry&searchtype=title
+Math,Symplectic Geometry of Hubbards,https://arxiv.org/search/?query=Symplectic+Geometry+Hubbard&searchtype=title
+Math,The Mumford-Tate conjecture for K3 surfaces,https://arxiv.org/search/?query=Mumford-Tate+conjecture+for+K3+surfaces&searchtype=title
+Math,Motivic Cohomology of Varieties,https://arxiv.org/search/?query=Motivic+Cohomology+of+Varieties&searchtype=title
+Math,Voevodsky's Proof of the Milnor Conjecture,https://arxiv.org/search/?query=Voevodsky+Proof+of+the+Milnor+Conjecture&searchtype=title
+Math,The Bloch-Kato conjecture,https://arxiv.org/search/?query=The+Bloch-Kato+conjecture&searchtype=title
+Math,Categorification of quantum groups,https://arxiv.org/abs/math/0511288
+Math,Khovanov-Rozansky homology,https://arxiv.org/abs/math/0401268
+Math,The colored Jones polynomial and the AJ conjecture,https://arxiv.org/search/?query=The+colored+Jones+polynomial+and+the+AJ+conjecture&searchtype=title
+Math,Kauffman Bracket and the Jones Polynomial,https://arxiv.org/search/?query=Kauffman+Bracket+and+the+Jones+Polynomial&searchtype=title
+Math,Heegaard Floer homology,https://arxiv.org/abs/math/0101206
+Math,Instanton Floer homology,https://arxiv.org/search/?query=Instanton+Floer+homology&searchtype=title
+Math,Seiberg-Witten invariants,https://arxiv.org/search/?query=Seiberg-Witten+invariants&searchtype=title
+Math,The Willmore Conjecture,https://arxiv.org/abs/1202.6035
+Math,Min-max theory and the Willmore conjecture,https://arxiv.org/abs/1202.6035
+Math,The Lawson Conjecture,https://arxiv.org/abs/1203.3980
+Math,A proof of the Lawson conjecture,https://arxiv.org/abs/1203.3980
+Math,The Yau-Tian-Donaldson Conjecture,https://arxiv.org/abs/1210.7494
+Math,Kaehler-Einstein metrics on Fano manifolds,https://arxiv.org/abs/1210.7494
+Math,Optimal transport and Ricci curvature for metric-measure spaces,https://arxiv.org/abs/math/0408090
+Math,The regularity of optimal transport maps,https://arxiv.org/search/?query=The+regularity+of+optimal+transport+maps&searchtype=title
+Math,Monge-Ampere equations and optimal transport,https://arxiv.org/search/?query=Monge-Ampere+equations+and+optimal+transport&searchtype=title
+Math,De Giorgi conjecture for the Allen-Cahn equation,https://arxiv.org/search/?query=De+Giorgi+conjecture+for+the+Allen-Cahn+equation&searchtype=title
+Math,A proof of the De Giorgi conjecture in dimension 8,https://arxiv.org/abs/0810.4594
+Math,The fractional Laplacian and the fractional De Giorgi conjecture,https://arxiv.org/search/?query=The+fractional+Laplacian+and+the+fractional+De+Giorgi+conjecture&searchtype=title
+Math,Weak KAM Theory,https://arxiv.org/search/?query=Weak+KAM+Theory&searchtype=title
+Math,Random matrices and the Riemann zeta function,https://arxiv.org/abs/math/0008044
+Math,Tracy-Widom distribution for the largest eigenvalue of random matrices,https://arxiv.org/search/?query=Tracy-Widom+distribution&searchtype=title
+Math,The Kardar-Parisi-Zhang equation and universality class,https://arxiv.org/abs/1207.6905
+Math,Solving the KPZ equation,https://arxiv.org/abs/1107.2315
+Math,Hairer's theory of regularity structures,https://arxiv.org/abs/1303.5113
+Math,Paracontrolled distributions and singular PDEs,https://arxiv.org/abs/1308.2053
+Math,Stochastic quantisation of Yang-Mills,https://arxiv.org/search/?query=Stochastic+quantisation+of+Yang-Mills&searchtype=title
+Math,Schramm-Loewner Evolution (SLE),https://arxiv.org/abs/math/9904022
+Math,Conformal invariance of planar loop-erased random walks and uniform spanning trees,https://arxiv.org/abs/math/0112245
+Math,Dimension of the SLE curves,https://arxiv.org/abs/math/0205001
+Math,Brownian map as the scaling limit of random planar maps,https://arxiv.org/abs/1105.3258
+Math,Uniqueness of the Brownian map,https://arxiv.org/abs/1105.4842
+Math,Quantum Liouville theory and the DOZZ formula,https://arxiv.org/abs/1401.3624
+Math,Gaussian Free Field and its geometry,https://arxiv.org/search/?query=Gaussian+Free+Field+and+its+geometry&searchtype=title
+Math,An introduction to the Gaussian Free Field,https://arxiv.org/search/?query=An+introduction+to+the+Gaussian+Free+Field&searchtype=title
+Math,The exact dimension of the Mandelbrot set boundary is 2,https://arxiv.org/search/?query=The+exact+dimension+of+the+Mandelbrot+set+boundary+is+2&searchtype=title
+Math,Local connectivity of the Mandelbrot set at certain parameter values,https://arxiv.org/search/?query=Local+connectivity+of+the+Mandelbrot+set&searchtype=title
+Math,The density of hyperbolicity in one-dimensional dynamics,https://arxiv.org/search/?query=density+of+hyperbolicity+in+one-dimensional+dynamics&searchtype=title
+Math,Dynamics of the complex logistic map,https://arxiv.org/search/?query=Dynamics+of+the+complex+logistic+map&searchtype=title
+Math,Renormalization in complex dynamics,https://arxiv.org/search/?query=Renormalization+in+complex+dynamics&searchtype=title
+Math,Pesin's formula for expanding maps,https://arxiv.org/search/?query=Pesin+formula&searchtype=title
+Math,The thermodynamic formalism for Anosov diffeomorphisms,https://arxiv.org/search/?query=The+thermodynamic+formalism+for+Anosov+diffeomorphisms&searchtype=title
+Math,Ratner's theorems on unipotent flows,https://arxiv.org/search/?query=Ratner+theorems+on+unipotent+flows&searchtype=title
+Math,Measure rigidity for unipotent flows,https://arxiv.org/search/?query=Measure+rigidity+for+unipotent+flows&searchtype=title
+Math,The Margulis lemma and its applications,https://arxiv.org/search/?query=The+Margulis+lemma&searchtype=title
+Math,Kazhdan's property (T),https://arxiv.org/search/?query=Kazhdan+property+T&searchtype=title
+Math,Expander graphs and their applications,https://arxiv.org/search/?query=Expander+graphs+and+their+applications&searchtype=title
+Math,Ramanujan graphs and the Lubotzky-Phillips-Sarnak construction,https://arxiv.org/search/?query=Ramanujan+graphs&searchtype=title
+Math,The Zig-Zag product of graphs,https://arxiv.org/search/?query=The+Zig-Zag+product+of+graphs&searchtype=title
+Math,A new proof of the PCP theorem,https://arxiv.org/abs/cs/0504048
+Math,Unique Games Conjecture,https://arxiv.org/search/?query=Unique+Games+Conjecture&searchtype=title
+Math,The Goemans-Williamson MAX-CUT algorithm,https://arxiv.org/search/?query=Goemans-Williamson+MAX-CUT&searchtype=title
+Math,Approximation algorithms and semidefinite programming,https://arxiv.org/search/?query=semidefinite+programming+approximation+algorithms&searchtype=title
+Math,The interior point method for linear programming,https://arxiv.org/search/?query=interior+point+method+for+linear+programming&searchtype=title
+Math,Smoothed analysis of algorithms,https://arxiv.org/search/?query=Smoothed+analysis+of+algorithms+Spielman+Teng&searchtype=title
+Math,The simplex algorithm is polynomial on average,https://arxiv.org/search/?query=The+simplex+algorithm+is+polynomial+on+average&searchtype=title
+Math,The Lovasz local lemma and its algorithmic applications,https://arxiv.org/search/?query=The+Lovasz+local+lemma&searchtype=title
+Math,Moser-Tardos algorithm for the Lovasz local lemma,https://arxiv.org/abs/0903.0544
+Math,Szemerédi's Regularity Lemma,https://arxiv.org/search/?query=Szemeredi+Regularity+Lemma&searchtype=title
+Math,Hypergraph regularity and the removal lemma,https://arxiv.org/abs/math/0607755
+Math,The strong perfect graph theorem,https://arxiv.org/search/?query=The+strong+perfect+graph+theorem&searchtype=title
+Math,Graph Minors theorems by Robertson and Seymour,https://arxiv.org/search/?query=Graph+Minors+theorems+Robertson+Seymour&searchtype=title
+Math,The Dirac-type theorems for hypergraphs,https://arxiv.org/search/?query=Dirac-type+theorems+for+hypergraphs&searchtype=title
+Math,Forcing and the independence of the continuum hypothesis,https://arxiv.org/search/?query=Forcing+and+the+independence+of+the+continuum+hypothesis&searchtype=title
+Math,Inner models and large cardinals,https://arxiv.org/search/?query=Inner+models+and+large+cardinals&searchtype=title
+Math,Determinacy of projective sets from large cardinals,https://arxiv.org/search/?query=Determinacy+of+projective+sets+from+large+cardinals&searchtype=title
+Math,A proof of the independence of the axiom of choice,https://arxiv.org/search/?query=independence+of+the+axiom+of+choice&searchtype=title
+Math,The modal logic of provability (Godel-Lob logic),https://arxiv.org/search/?query=modal+logic+of+provability&searchtype=title
+Math,On the classification of univalent foundations (Homotopy Type Theory),https://arxiv.org/search/?query=Homotopy+Type+Theory+Univalent+Foundations&searchtype=title
+Math,Univalent Foundations of Mathematics,https://arxiv.org/abs/1302.6981
+Math,The constructive proof of the Four Color Theorem,https://arxiv.org/search/?query=constructive+proof+of+the+Four+Color+Theorem&searchtype=title
+Math,The formal verification of the odd order theorem,https://arxiv.org/search/?query=The+formal+verification+of+the+odd+order+theorem&searchtype=title
+Math,Perfectoid spaces,https://arxiv.org/abs/1111.4914
+Math,The weight-monodromy conjecture for complete intersections in toric varieties,https://arxiv.org/abs/1111.6385
+Math,Galois representations attached to torsion classes in cohomology,https://arxiv.org/abs/1311.4128
+Math,On the local Langlands conjecture for p-adic groups,https://arxiv.org/abs/1612.04018
+Math,Endoscopy and the Langlands classification,https://arxiv.org/search/?query=Endoscopy+and+the+Langlands+classification&searchtype=title
+Math,The Fundamental Lemma for unitary groups,https://arxiv.org/abs/0801.3507
+Math,Stable trace formula and the stabilization problem,https://arxiv.org/search/?query=Stable+trace+formula+and+the+stabilization+problem&searchtype=title
+Math,The geometric representation theory of the Langlands program,https://arxiv.org/search/?query=geometric+representation+theory+of+the+Langlands+program&searchtype=title
+Math,Categorical local Langlands correspondence,https://arxiv.org/search/?query=Categorical+local+Langlands+correspondence&searchtype=title
+Math,Fargues-Fontaine curve and p-adic Hodge theory,https://arxiv.org/search/?query=Fargues-Fontaine+curve&searchtype=title
+Math,Prismatic cohomology,https://arxiv.org/abs/1905.05042
+Math,Motivic homotopy theory,https://arxiv.org/abs/math/9802042
+Math,The slice filtration in motivic homotopy theory,https://arxiv.org/search/?query=slice+filtration+in+motivic+homotopy+theory&searchtype=title
+Math,Equivariant stable homotopy theory,https://arxiv.org/search/?query=Equivariant+stable+homotopy+theory&searchtype=title
+Math,The Kervaire invariant one problem,https://arxiv.org/abs/0908.3724
+Physics,AdS/CFT Correspondence in lower dimensions,https://arxiv.org/search/?query=AdS/CFT+Correspondence+in+lower+dimensions&searchtype=title
+Physics,Black Hole Information Paradox and the Firewall,https://arxiv.org/abs/1207.3123
+Physics,Holographic Entanglement Entropy,https://arxiv.org/abs/hep-th/0603001
+Physics,Ryu-Takayanagi Formula and its Extension,https://arxiv.org/abs/0704.2072
+Physics,Quantum Error Correction and Holography,https://arxiv.org/abs/1411.7041
+Physics,Fast Scramblers and Black Holes,https://arxiv.org/abs/0808.2096
+Physics,SYK Model and AdS2 Holography,https://arxiv.org/abs/1604.07818
+Physics,Complexity and Action in Black Holes,https://arxiv.org/abs/1509.07876
+Physics,Complexity = Volume Conjecture,https://arxiv.org/abs/1406.2678
+Physics,The Replica Trick and Islands in Black Holes,https://arxiv.org/abs/1911.11977
+Physics,Information content of Hawking radiation,https://arxiv.org/abs/1911.12333
+Physics,Page Curve for an Evaporating Black Hole,https://arxiv.org/abs/1905.08762
+Physics,Swampland Conjectures in String Theory,https://arxiv.org/abs/1805.10276
+Physics,Weak Gravity Conjecture,https://arxiv.org/abs/hep-th/0601001
+Physics,F-Theory and the Landscape of String Vacua,https://arxiv.org/abs/hep-th/0411139
+Physics,Statistical Approach to the String Landscape,https://arxiv.org/abs/hep-th/0302219
+Physics,BICEP2 Results: Cosmological Inflation and Primordial Gravitational Waves,https://arxiv.org/abs/1403.3985
+Physics,Constraints on Inflation from Planck,https://arxiv.org/abs/1807.06211
+Physics,The History of the Universe from the CMB,https://arxiv.org/search/?query=The+History+of+the+Universe+from+the+CMB&searchtype=title
+Physics,Dark Matter Annihilation in the Galactic Center,https://arxiv.org/abs/1402.6703
+Physics,LIGO-Virgo discoveries and the Dawn of Multi-Messenger Astronomy,https://arxiv.org/search/?query=Dawn+of+Multi-Messenger+Astronomy&searchtype=title
+Physics,The Event Horizon Telescope: Mapping the M87 Black Hole Magnetic Field,https://arxiv.org/abs/2103.01633
+Physics,Fast Radio Bursts: Discovered and Localized,https://arxiv.org/abs/1307.1628
+Physics,Detection of Water Vapor in the Atmosphere of a Habitable-Zone Exoplanet,https://arxiv.org/abs/1909.04642
+Physics,Confirmation of the Existence of Proxima Centauri b,https://arxiv.org/search/?query=Proxima+Centauri+b&searchtype=title
+Physics,The TRAPPIST-1 System: Seven Earth-Sized Planets,https://arxiv.org/abs/1703.01424
+Physics,Lovelock Gravity and Higher Derivative Theories,https://arxiv.org/search/?query=Lovelock+Gravity&searchtype=title
+Physics,Horava-Lifshitz Gravity,https://arxiv.org/abs/0901.3775
+Physics,Massive Gravity Theory,https://arxiv.org/abs/1007.0443
+Physics,Ghost-free Massive Gravity,https://arxiv.org/abs/1011.1232
+Physics,Galileons and the Vainshtein Mechanism,https://arxiv.org/abs/0811.2197
+Physics,DGP Braneworld Cosmology,https://arxiv.org/abs/hep-th/0005016
+Physics,String Gas Cosmology,https://arxiv.org/abs/hep-th/8904033
+Physics,Loop Quantum Cosmology,https://arxiv.org/abs/gr-qc/0601085
+Physics,Observation of B-mode Polarization from the SPT,https://arxiv.org/abs/1307.5830
+Physics,Quantum Spin Liquids in Kagome Lattices,https://arxiv.org/abs/cond-mat/0612446
+Physics,Kitaev Model and Anyons on a Torus,https://arxiv.org/abs/cond-mat/0506438
+Physics,Topological Quantum Computation with Non-Abelian Anyons,https://arxiv.org/abs/quant-ph/0205206
+Physics,Majorana Fermions in Condensed Matter,https://arxiv.org/abs/1206.1736
+Physics,Evidence for Majorana Bound States in Nanowires,https://arxiv.org/abs/1204.2792
+Physics,Observation of Weyl Fermions in a Semimetal,https://arxiv.org/abs/1502.04684
+Physics,Prediction and Observation of a Type-II Weyl Semimetal,https://arxiv.org/abs/1506.06577
+Physics,Twistronics and Magic-Angle Graphene,https://arxiv.org/abs/1803.02342
+Physics,Superconductivity in Magic-Angle Bilayer Graphene,https://arxiv.org/abs/1803.02342
+Physics,Mott Insulator State in Magic-Angle Graphene,https://arxiv.org/abs/1803.02343
+Physics,Observation of Time Crystals,https://arxiv.org/abs/1610.08057
+Physics,Discrete Time Crystals: Rigidity, Criticality, and Realizations,https://arxiv.org/abs/1608.02589
+Physics,Quantum Many-Body Scrambling and OTOCs,https://arxiv.org/abs/1503.01409
+Physics,Experimental Measurement of Out-of-Time-Ordered Correlators,https://arxiv.org/abs/1612.05249
+Physics,MBL: Many-Body Localization Phase Transition,https://arxiv.org/abs/1404.0686
+Physics,Thermalization and its absence in isolated quantum systems,https://arxiv.org/abs/1404.0686
+Physics,Eigenstate Thermalization Hypothesis (ETH),https://arxiv.org/abs/cond-mat/9403051
+Physics,Quantum Information Scrambling in Ion Traps,https://arxiv.org/abs/1806.01256
+Physics,Boson Sampling with Photons,https://arxiv.org/abs/1011.3245
+Physics,Experimental Boson Sampling using integrated photonics,https://arxiv.org/abs/1212.0622
+Physics,Quantum Supremacy via Boson Sampling,https://arxiv.org/abs/2012.01625
+Physics,Photonic Quantum Computer for solving large linear systems,https://arxiv.org/abs/1302.1946
+Physics,Quantum Algorithm for Solving Linear Systems of Equations (HHL),https://arxiv.org/abs/0811.3171
+Physics,Variational Quantum Eigensolver (VQE),https://arxiv.org/abs/1304.3061
+Physics,Quantum Approximate Optimization Algorithm (QAOA),https://arxiv.org/abs/1411.4028
+Physics,Hardware-efficient variational quantum eigensolver,https://arxiv.org/abs/1704.05018
+Physics,Demonstration of topological data analysis on a quantum processor,https://arxiv.org/abs/1408.3129
+Physics,Surface Code Quantum Error Correction,https://arxiv.org/abs/1208.0928
+Physics,Realizing Repeated Quantum Error Correction in a Distance-Three Surface Code,https://arxiv.org/abs/2102.06132
+Physics,Suppression of Quantum Errors by Scaling a Surface Code Logical Qubit,https://arxiv.org/abs/2207.06431
+Physics,Measurement-Device-Independent Quantum Key Distribution,https://arxiv.org/abs/1112.0525
+Physics,Micius Satellite: Satellite-Based Quantum Key Distribution,https://arxiv.org/abs/1707.00542
+Physics,Entanglement distribution over 1200 kilometers from a satellite,https://arxiv.org/abs/1707.01339
+Physics,Observation of CP Violation in the B Meson System,https://arxiv.org/abs/hep-ex/0107013
+Physics,Discovery of the pentaquark states Pc(4380)+ and Pc(4450)+,https://arxiv.org/abs/1507.03414
+Physics,Observation of doubly charmed baryon Xi_cc++,https://arxiv.org/abs/1707.01621
+Physics,Measurement of the anomalous magnetic moment of the muon (g-2),https://arxiv.org/abs/2104.03281
+Physics,First Results from the Muon g-2 Experiment at Fermilab,https://arxiv.org/abs/2104.03281
+Physics,Measurement of the W boson mass at CDF,https://arxiv.org/abs/2204.04705
+Physics,Test of Lepton Universality in b decays,https://arxiv.org/abs/1406.6482
+Physics,Observation of a new state around 3872 MeV (X(3872)),https://arxiv.org/abs/hep-ex/0309032
+Physics,The ALFA results on the total cross-section of pp collisions,https://arxiv.org/search/?query=ALFA+results+cross-section+pp+collisions&searchtype=title
+Physics,Observation of the Bottomonium Ground State in Upsilon Decays,https://arxiv.org/search/?query=Bottomonium+Ground+State+Upsilon+Decays&searchtype=title
+Physics,Direct limit on the speed of light from gravitational waves,https://arxiv.org/abs/1710.05834
+Physics,Constraining the speed of gravity with GW170817,https://arxiv.org/abs/1710.05834
+Physics,Limits on axion dark matter from ADMX,https://arxiv.org/abs/1804.05750
+Physics,Results from the XENON1T Dark Matter Experiment,https://arxiv.org/abs/1805.12562
+Physics,Direct detection constraints on light dark matter,https://arxiv.org/search/?query=Direct+detection+constraints+on+light+dark+matter&searchtype=title
+Physics,Cosmic Dawn signal and the 21-cm global spectrum,https://arxiv.org/abs/1802.10094
+Physics,CHIME Fast Radio Bursts catalog 1,https://arxiv.org/abs/2106.04352
+Physics,Localization of a fast radio burst to a host galaxy,https://arxiv.org/abs/1701.01098
+Physics,Detection of a fast radio burst from a Galactic magnetar,https://arxiv.org/abs/2005.10828
+Physics,The DES Y3 cosmological constraints,https://arxiv.org/abs/2105.13549
+Physics,Tension in the Hubble Constant: Is New Physics Required?,https://arxiv.org/abs/1908.03663
+Bio,Unsupervised learning of evolutionary landscapes for drug discovery,https://arxiv.org/abs/2101.08331
+Bio,Deep learning on graphs for bioinformatics,https://arxiv.org/search/?query=Deep+learning+on+graphs+for+bioinformatics&searchtype=title
+Bio,Geometric Deep Learning for structural bioinformatics,https://arxiv.org/search/?query=Geometric+Deep+Learning+for+structural+bioinformatics&searchtype=title
+Bio,Learning the protein language: Evolution sequence and structure,https://arxiv.org/search/?query=Learning+the+protein+language+Evolution+sequence+and+structure&searchtype=title
+Bio,Unified language models for biological sequence generation,https://arxiv.org/search/?query=Unified+language+models+biological+sequence+generation&searchtype=title
+Bio,A foundation model for generalizable disease prediction,https://arxiv.org/abs/2301.07681
+Bio,Pre-training of graph neural networks for molecules,https://arxiv.org/abs/1905.12265
+Bio,Self-supervised graph learning for drug discovery,https://arxiv.org/search/?query=Self-supervised+graph+learning+for+drug+discovery&searchtype=title
+Bio,Molecular graph generation via auto-regressive networks,https://arxiv.org/abs/1802.04364
+Bio,Junction Tree Variational Autoencoder for Molecular Graph Generation,https://arxiv.org/abs/1802.04364
+Bio,Deep drug repurposing using graph autoencoders,https://arxiv.org/search/?query=Deep+drug+repurposing+graph+autoencoders&searchtype=title
+Bio,Translating brain activity directly into speech,https://arxiv.org/search/?query=Translating+brain+activity+into+speech&searchtype=title
+Bio,Neural decoding using large language models,https://arxiv.org/abs/2305.00696
+Bio,Semantic reconstruction of continuous language from brain recordings,https://arxiv.org/search/?query=Semantic+reconstruction+continuous+language+from+brain+recordings&searchtype=title
+Bio,High-performance brain-to-text communication via handwriting,https://arxiv.org/search/?query=High-performance+brain-to-text+communication+via+handwriting&searchtype=title
+Bio,Causal mapping of the human brain connectome,https://arxiv.org/search/?query=Causal+mapping+of+the+human+brain+connectome&searchtype=title
+Bio,Generative models of single-cell transcriptomes,https://arxiv.org/abs/1812.01206
+Bio,scVI: Deep generative modeling for single-cell transcriptomics,https://arxiv.org/abs/1709.02082
+Bio,Transfer learning in single-cell transcriptomics,https://arxiv.org/abs/1910.01791
+Bio,Spatially resolved transcriptomics prediction using graph attention,https://arxiv.org/search/?query=Spatially+resolved+transcriptomics+prediction+graph&searchtype=title
+Bio,Multi-omics data integration using deep learning,https://arxiv.org/search/?query=Multi-omics+data+integration+deep+learning&searchtype=title
+Bio,Predicting gene regulatory networks from single-cell data,https://arxiv.org/search/?query=Predicting+gene+regulatory+networks+from+single-cell+data&searchtype=title
+Bio,De novo prediction of RNA-binding proteins,https://arxiv.org/search/?query=De+novo+prediction+of+RNA-binding+proteins&searchtype=title
+Bio,Structure-based virtual screening with deep learning,https://arxiv.org/search/?query=Structure-based+virtual+screening+deep+learning&searchtype=title
+Bio,Equivariant 3D protein structure generation,https://arxiv.org/abs/2205.00880
+Bio,Diffusion models for protein sequence to structure generation,https://arxiv.org/search/?query=Diffusion+models+for+protein+sequence+to+structure+generation&searchtype=title
+Bio,Antigen-specific antibody design via deep generative models,https://arxiv.org/abs/2207.08779
+Bio,Predicting the effects of all missense variants with deep learning,https://arxiv.org/abs/2309.03577
+Bio,Deep mutagenesis prediction via language modeling,https://arxiv.org/abs/2101.07926
+Bio,Protein function prediction using graph neural networks,https://arxiv.org/abs/2006.02299
+Bio,Deep learning for cryo-EM map resolution enhancement,https://arxiv.org/abs/2004.09556
+Bio,Atomic-level cryo-EM maps reconstruction via deep neural networks,https://arxiv.org/search/?query=cryo-EM+maps+reconstruction+neural+networks&searchtype=title
+Bio,Deep learning driven de novo drug design,https://arxiv.org/search/?query=Deep+learning+driven+de+novo+drug+design&searchtype=title
+Bio,Predicting off-target effects of CRISPR-Cas9 via deep learning,https://arxiv.org/abs/1806.00224
+Bio,Deep learning reveals the language of cancer,https://arxiv.org/search/?query=Deep+learning+reveals+language+of+cancer&searchtype=title
+Bio,Machine learning on tumor mutational burden,https://arxiv.org/search/?query=Machine+learning+on+tumor+mutational+burden&searchtype=title
+Bio,Predicting immunotherapy response with deep learning,https://arxiv.org/search/?query=Predicting+immunotherapy+response+with+deep+learning&searchtype=title
+Bio,Deep learning models for medical image segmentation,https://arxiv.org/abs/1505.04597
+Bio,Unsupervised anomaly detection in medical imaging,https://arxiv.org/search/?query=Unsupervised+anomaly+detection+in+medical+imaging&searchtype=title
+Bio,Generative models for synthesizing medical imaging data,https://arxiv.org/search/?query=Generative+models+synthesizing+medical+imaging+data&searchtype=title
+Bio,Federated learning for multi-center healthcare data,https://arxiv.org/abs/2108.08398
+Bio,Self-supervised contrastive learning for medical time series,https://arxiv.org/abs/2109.11051
+Bio,Attention mechanisms in clinical natural language processing,https://arxiv.org/search/?query=Attention+mechanisms+clinical+NLP&searchtype=title
+Bio,Clinical BERT representations for biomedical text mining,https://arxiv.org/abs/1904.05342
+Bio,BioBERT: a pre-trained biomedical language representation model,https://arxiv.org/abs/1901.08746
+Bio,PubMedBERT: Domain-Specific Language Model Pretraining for Biomedical Natural Language Processing,https://arxiv.org/abs/2007.15779
+Bio,Transformers for extracting chemical-protein relations,https://arxiv.org/search/?query=Transformers+for+extracting+chemical-protein+relations&searchtype=title
+Bio,Knowledge graph embeddings for drug-target interaction,https://arxiv.org/abs/2005.02331
+Bio,Predicting synergistic drug combinations via deep learning,https://arxiv.org/search/?query=Predicting+synergistic+drug+combinations+deep+learning&searchtype=title
+Bio,End-to-end learning to predict drug interactions,https://arxiv.org/search/?query=End-to-end+learning+predict+drug+interactions&searchtype=title
+Bio,Machine learning for predicting clinical trial outcomes,https://arxiv.org/search/?query=Machine+learning+predicting+clinical+trial+outcomes&searchtype=title
+Bio,Deep generative models for therapeutic antibody design,https://arxiv.org/search/?query=Deep+generative+models+therapeutic+antibody+design&searchtype=title
+Bio,A unified approach for single-cell and spatial transcriptomics,https://arxiv.org/search/?query=unified+approach+single-cell+spatial+transcriptomics&searchtype=title
+Bio,Spatial genomics via multiplexed FISH,https://arxiv.org/search/?query=Spatial+genomics+multiplexed+FISH&searchtype=title
+Bio,Deep learning maps epigenetic modifications,https://arxiv.org/search/?query=Deep+learning+maps+epigenetic+modifications&searchtype=title
+Bio,AlphaFold accelerates structural biology research,https://arxiv.org/abs/2202.13414
+Bio,Machine learning prediction of antimicrobial resistance,https://arxiv.org/search/?query=Machine+learning+prediction+of+antimicrobial+resistance&searchtype=title
+Bio,Deep sequence clustering reveals novel protein families,https://arxiv.org/search/?query=Deep+sequence+clustering+reveals+novel+protein+families&searchtype=title
+Bio,Using deep networks to decode protein interaction rules,https://arxiv.org/search/?query=Using+deep+networks+to+decode+protein+interaction+rules&searchtype=title
+Bio,Deep learning characterizes viral evolution architectures,https://arxiv.org/search/?query=Deep+learning+characterizes+viral+evolution+architectures&searchtype=title
+Bio,Language models escape viral immune systems,https://arxiv.org/abs/2103.01138
+CS,ResNet-152: Deep Residual Learning,https://arxiv.org/abs/1512.03385
+CS,ResNet-50: Deep Residual Learning,https://arxiv.org/abs/1512.03385
+CS,Scaling Laws for Neural Language Models,https://arxiv.org/abs/2001.08361
+CS,Generative Agents Architecture,https://arxiv.org/abs/2304.03442
+Math,The Millennium Prize Problems,https://arxiv.org/search/?query=The+Millennium+Prize+Problems&searchtype=title
+Math,A Proof of the Poincare Conjecture,https://arxiv.org/abs/math/0307245
+Math,The Birch and Swinnerton-Dyer Conjecture for Elliptic Curves over Q,https://arxiv.org/search/?query=The+Birch+and+Swinnerton-Dyer+Conjecture+for+Elliptic+Curves+over+Q&searchtype=title
+Math,Faltings Theorem,https://arxiv.org/search/?query=Faltings+Theorem&searchtype=title
+Math,The Mordell Conjecture,https://arxiv.org/search/?query=The+Mordell+Conjecture&searchtype=title
+Math,Wiles' Proof of Fermat's Last Theorem,https://arxiv.org/search/?query=Proof+of+Fermat+Last+Theorem&searchtype=title
+Math,The Modularity Theorem,https://arxiv.org/search/?query=The+Modularity+Theorem&searchtype=title
+Math,The Weil Conjectures for Abelian Varieties,https://arxiv.org/search/?query=The+Weil+Conjectures+for+Abelian+Varieties&searchtype=title
+Math,K-Theory and the Atiyah-Singer Index Theorem,https://arxiv.org/search/?query=K-Theory+and+the+Atiyah-Singer+Index+Theorem&searchtype=title
+Math,Seiberg-Witten Invariants of Four-Manifolds,https://arxiv.org/search/?query=Seiberg-Witten+Invariants+of+Four-Manifolds&searchtype=title
+Math,The Donaldson Invariants of Four-Manifolds,https://arxiv.org/search/?query=The+Donaldson+Invariants+of+Four-Manifolds&searchtype=title
+Math,Floer Homology and Symplectic Topology,https://arxiv.org/search/?query=Floer+Homology+and+Symplectic+Topology&searchtype=title
+Math,Khovanov Homology and the Jones Polynomial,https://arxiv.org/abs/math/9908171
+Math,Kategorification of knot polynomials,https://arxiv.org/search/?query=Kategorification+of+knot+polynomials&searchtype=title
+Math,The Volume Conjecture for knots,https://arxiv.org/search/?query=The+Volume+Conjecture+for+knots&searchtype=title
+Math,The AJ Conjecture for knots,https://arxiv.org/search/?query=The+AJ+Conjecture+for+knots&searchtype=title
+Math,The Kashaev Invariant of knots,https://arxiv.org/search/?query=The+Kashaev+Invariant+of+knots&searchtype=title
+Math,The Quantum Invariants of Knots and 3-Manifolds,https://arxiv.org/search/?query=The+Quantum+Invariants+of+Knots+and+3-Manifolds&searchtype=title
+Math,Chern-Simons Theory and Topological Invariants,https://arxiv.org/search/?query=Chern-Simons+Theory+and+Topological+Invariants&searchtype=title
+Math,The Witten-Reshetikhin-Turaev Invariants,https://arxiv.org/search/?query=Witten-Reshetikhin-Turaev+Invariants&searchtype=title
+Math,The Geometrization Conjecture of Thurston,https://arxiv.org/search/?query=The+Geometrization+Conjecture+of+Thurston&searchtype=title
+Math,Ricci Flow with Surgery on 3-Manifolds,https://arxiv.org/abs/math/0303109
+Math,The Sphere Packing Problem in 8 Dimensions,https://arxiv.org/abs/1603.04246
+Math,The Sphere Packing Problem in 24 Dimensions,https://arxiv.org/abs/1603.06518
+Math,Universal Optimality of the Leech Lattice,https://arxiv.org/search/?query=Universal+Optimality+of+the+Leech+Lattice&searchtype=title
+Math,The Erdos-Szekeres Theorem in Combinatorial Geometry,https://arxiv.org/search/?query=Erdos-Szekeres+Theorem+in+Combinatorial+Geometry&searchtype=title
+Math,The Szemeredi Regularity Lemma,https://arxiv.org/search/?query=Szemeredi+Regularity+Lemma&searchtype=title
+Math,Green-Tao Theorem on Primes in Arithmetic Progression,https://arxiv.org/search/?query=Green-Tao+Theorem+on+Primes+in+Arithmetic+Progression&searchtype=title
+Math,The Twin Prime Conjecture,https://arxiv.org/search/?query=Twin+Prime+Conjecture&searchtype=title
+Math,Yitang Zhang's Bound on Prime Gaps,https://arxiv.org/search/?query=Yitang+Zhang+Bound+on+Prime+Gaps&searchtype=title
+Math,The Polymath Project on Prime Gaps,https://arxiv.org/abs/1407.4890
+Math,The ABC Conjecture and Inter-universal Teichmuller Theory,https://arxiv.org/search/?query=ABC+Conjecture+and+Inter-universal+Teichmuller+Theory&searchtype=title
+Math,Mochizuki's Proof of the ABC Conjecture,https://arxiv.org/search/?query=Mochizuki+Proof+of+the+ABC+Conjecture&searchtype=title
+Math,The PCP Theorem,https://arxiv.org/search/?query=The+PCP+Theorem&searchtype=title
+Math,The Unique Games Conjecture,https://arxiv.org/abs/0805.2323
+Math,Ramanujan Graphs,https://arxiv.org/search/?query=Ramanujan+Graphs&searchtype=title
+Math,The Katz-Sarnak Philosophy for L-functions,https://arxiv.org/search/?query=Katz-Sarnak+Philosophy+for+L-functions&searchtype=title
+Math,Random Matrix Theory and the Riemann Zeta Function,https://arxiv.org/abs/math/0008044
+Math,The Montgomery-Odlyzko Law,https://arxiv.org/search/?query=Montgomery-Odlyzko+Law&searchtype=title
+Math,The Tracy-Widom Distribution,https://arxiv.org/search/?query=Tracy-Widom+Distribution&searchtype=title
+Math,The Kardar-Parisi-Zhang Universality Class,https://arxiv.org/abs/1207.6905
+Math,The KPZ Equation,https://arxiv.org/search/?query=The+KPZ+Equation&searchtype=title
+Math,Stochastic Partial Differential Equations,https://arxiv.org/search/?query=Stochastic+Partial+Differential+Equations&searchtype=title
+Math,Regularity Structures for SPDEs,https://arxiv.org/abs/1303.5113
+Math,Martin Hairer's work on SPDEs,https://arxiv.org/search/?query=Martin+Hairer+SPDEs&searchtype=title
+Math,The Schramm-Loewner Evolution (SLE),https://arxiv.org/abs/math/9904022
+Math,Conformal Invariance of the critical percolation cluster,https://arxiv.org/search/?query=Conformal+Invariance+of+the+critical+percolation+cluster&searchtype=title
+Math,The Gaussian Free Field,https://arxiv.org/search/?query=The+Gaussian+Free+Field&searchtype=title
+Math,Liouville Quantum Gravity,https://arxiv.org/search/?query=Liouville+Quantum+Gravity&searchtype=title
+Math,The Brownian Map,https://arxiv.org/abs/1105.3258
+Math,The resolution of the Cap Set Problem,https://arxiv.org/abs/1605.09223
+Math,The Polynomial Method in Combinatorics,https://arxiv.org/search/?query=The+Polynomial+Method+in+Combinatorics&searchtype=title
+Math,The Kakeya Conjecture,https://arxiv.org/search/?query=The+Kakeya+Conjecture&searchtype=title
+Math,The Restriction Conjecture in Harmonic Analysis,https://arxiv.org/search/?query=Restriction+Conjecture+Harmonic+Analysis&searchtype=title
+Math,The Decoupling Theorem,https://arxiv.org/abs/1405.3567
+Math,The Bochner-Riesz Conjecture,https://arxiv.org/search/?query=The+Bochner-Riesz+Conjecture&searchtype=title
+Math,The Invariant Subspace Problem,https://arxiv.org/search/?query=The+Invariant+Subspace+Problem&searchtype=title
+Math,The Connes Embedding Problem,https://arxiv.org/search/?query=The+Connes+Embedding+Problem&searchtype=title
+Math,MIP*=RE: A resolution of the Connes Embedding Problem,https://arxiv.org/abs/2001.04383
+Math,Tsirelson's Problem in Quantum Information Theory,https://arxiv.org/search/?query=Tsirelson+Problem+Quantum+Information+Theory&searchtype=title
+Math,The Sensitivity Conjecture,https://arxiv.org/abs/1907.00847
+Math,The Sunflower Lemma Bounds,https://arxiv.org/abs/1908.09327
+Math,The Delta-System Lemma,https://arxiv.org/search/?query=The+Delta-System+Lemma&searchtype=title
+Math,The Erdos-Rado Theorem,https://arxiv.org/search/?query=The+Erdos-Rado+Theorem&searchtype=title
+Math,Ramsey Theory on Graphs,https://arxiv.org/search/?query=Ramsey+Theory+on+Graphs&searchtype=title
+Math,The Continuum Hypothesis,https://arxiv.org/search/?query=The+Continuum+Hypothesis&searchtype=title
+Math,Large Cardinals in Set Theory,https://arxiv.org/search/?query=Large+Cardinals+in+Set+Theory&searchtype=title
+Math,Projective Determinacy,https://arxiv.org/search/?query=Projective+Determinacy&searchtype=title
+Math,The Axiom of Determinacy,https://arxiv.org/search/?query=The+Axiom+of+Determinacy&searchtype=title
+Math,Inner Model Theory,https://arxiv.org/search/?query=Inner+Model+Theory&searchtype=title
+Math,Core Models in Set Theory,https://arxiv.org/search/?query=Core+Models+Set+Theory&searchtype=title
+Math,The Langlands Program,https://arxiv.org/search/?query=The+Langlands+Program&searchtype=title
+Math,The Geometric Langlands Program,https://arxiv.org/search/?query=The+Geometric+Langlands+Program&searchtype=title
+Physics,The AdS/CFT Correspondence,https://arxiv.org/abs/hep-th/9711200
+Physics,The Holographic Principle,https://arxiv.org/abs/hep-th/9409089
+Physics,Black Hole Thermodynamics,https://arxiv.org/abs/gr-qc/9712019
+Physics,Hawking Radiation,https://arxiv.org/search/?query=Hawking+Radiation&searchtype=title
+Physics,Black Hole Entropy,https://arxiv.org/search/?query=Black+Hole+Entropy&searchtype=title
+Physics,The Black Hole Information Paradox,https://arxiv.org/search/?query=The+Black+Hole+Information+Paradox&searchtype=title
+Physics,The Firewall Paradox for Black Holes,https://arxiv.org/abs/1207.3123
+Physics,Complementarity in Quantum Gravity,https://arxiv.org/search/?query=Complementarity+in+Quantum+Gravity&searchtype=title
+Physics,String Theory Foundations,https://arxiv.org/search/?query=String+Theory+Foundations&searchtype=title
+Physics,M-Theory and Matrix Models,https://arxiv.org/abs/hep-th/9610043
+Physics,D-Branes in String Theory,https://arxiv.org/search/?query=D-Branes+in+String+Theory&searchtype=title
+Physics,T-Duality in String Theory,https://arxiv.org/search/?query=T-Duality+String+Theory&searchtype=title
+Physics,S-Duality in String Theory,https://arxiv.org/search/?query=S-Duality+String+Theory&searchtype=title
+Physics,Seiberg-Witten Theory,https://arxiv.org/search/?query=Seiberg-Witten+Theory&searchtype=title
+Physics,The Standard Model of Particle Physics,https://arxiv.org/search/?query=The+Standard+Model+of+Particle+Physics&searchtype=title
+Physics,The Discovery of the Higgs Boson,https://arxiv.org/abs/1207.7214
+Physics,The Higgs Mechanism,https://arxiv.org/search/?query=The+Higgs+Mechanism&searchtype=title
+Physics,Supersymmetry and the MSSM,https://arxiv.org/search/?query=Supersymmetry+and+the+MSSM&searchtype=title
+Physics,The Strong CP Problem,https://arxiv.org/search/?query=The+Strong+CP+Problem&searchtype=title
+Physics,Axions and Dark Matter,https://arxiv.org/search/?query=Axions+and+Dark+Matter&searchtype=title
+Physics,WIMPs and Dark Matter Candidates,https://arxiv.org/search/?query=WIMPs+and+Dark+Matter+Candidates&searchtype=title
+Physics,Direct Detection of Dark Matter,https://arxiv.org/search/?query=Direct+Detection+of+Dark+Matter&searchtype=title
+Physics,Indirect Detection of Dark Matter,https://arxiv.org/search/?query=Indirect+Detection+of+Dark+Matter&searchtype=title
+Physics,Neutrino Oscillations,https://arxiv.org/abs/hep-ex/9807003
+Physics,The MSW Effect for Solar Neutrinos,https://arxiv.org/search/?query=The+MSW+Effect+for+Solar+Neutrinos&searchtype=title
+Physics,The Daya Bay Reactor Neutrino Experiment,https://arxiv.org/search/?query=Daya+Bay+Reactor+Neutrino+Experiment&searchtype=title
+Physics,The SNO Solar Neutrino Results,https://arxiv.org/search/?query=The+SNO+Solar+Neutrino+Results&searchtype=title
+Physics,Cosmic Microwave Background Radiation,https://arxiv.org/search/?query=Cosmic+Microwave+Background+Radiation&searchtype=title
+Physics,The WMAP Results on the CMB,https://arxiv.org/search/?query=WMAP+Results+CMB&searchtype=title
+Physics,The Planck Results on the CMB,https://arxiv.org/abs/1807.06209
+Physics,COBE Results and the Anisotropy of the CMB,https://arxiv.org/search/?query=COBE+Results+Anisotropy+CMB&searchtype=title
+Physics,B-Mode Polarization of the CMB,https://arxiv.org/search/?query=B-Mode+Polarization+CMB&searchtype=title
+Physics,Cosmic Inflation,https://arxiv.org/search/?query=Cosmic+Inflation&searchtype=title
+Physics,Slow-Roll Inflation,https://arxiv.org/search/?query=Slow-Roll+Inflation&searchtype=title
+Physics,Chaotic Inflation,https://arxiv.org/search/?query=Chaotic+Inflation&searchtype=title
+Physics,Eternal Inflation,https://arxiv.org/search/?query=Eternal+Inflation&searchtype=title
+Physics,The Multiverse Hypothesis,https://arxiv.org/search/?query=The+Multiverse+Hypothesis&searchtype=title
+Physics,The Accelerating Universe and Dark Energy,https://arxiv.org/abs/astro-ph/9812133
+Physics,The Cosmological Constant Problem,https://arxiv.org/abs/astro-ph/0603057
+Physics,Quintessence and Dark Energy,https://arxiv.org/search/?query=Quintessence+and+Dark+Energy&searchtype=title
+Physics,Modified Gravity Theories,https://arxiv.org/search/?query=Modified+Gravity+Theories&searchtype=title
+Physics,f(R) Gravity,https://arxiv.org/abs/0805.1726
+Physics,Gravitational Waves from Binary Black Holes,https://arxiv.org/abs/1602.03837
+Physics,Gravitational Waves from Binary Neutron Stars,https://arxiv.org/abs/1710.05832
+Physics,Multi-Messenger Astronomy with Gravitational Waves,https://arxiv.org/abs/1710.05833
+Physics,The Stochastic Gravitational Wave Background,https://arxiv.org/search/?query=The+Stochastic+Gravitational+Wave+Background&searchtype=title
+Physics,Pulsar Timing Arrays and Gravitational Waves,https://arxiv.org/abs/2306.16213
+Physics,The First Image of a Black Hole,https://arxiv.org/abs/1906.11238
+Physics,The Event Horizon Telescope,https://arxiv.org/search/?query=The+Event+Horizon+Telescope&searchtype=title
+Physics,Supermassive Black Holes at the Center of Galaxies,https://arxiv.org/search/?query=Supermassive+Black+Holes+at+Center+of+Galaxies&searchtype=title
+Physics,Active Galactic Nuclei and Quasars,https://arxiv.org/search/?query=Active+Galactic+Nuclei+Quasars&searchtype=title
+Physics,The Formation of Galaxies,https://arxiv.org/search/?query=The+Formation+of+Galaxies&searchtype=title
+Physics,Cold Dark Matter Structure Formation,https://arxiv.org/search/?query=Cold+Dark+Matter+Structure+Formation&searchtype=title
+Physics,The Hubble Tension,https://arxiv.org/abs/1908.03663
+Physics,The S8 Tension in Cosmology,https://arxiv.org/search/?query=The+S8+Tension+in+Cosmology&searchtype=title
+Physics,Fast Radio Bursts,https://arxiv.org/abs/1307.1628
+Physics,Gamma-Ray Bursts and their Origins,https://arxiv.org/search/?query=Gamma-Ray+Bursts+and+their+Origins&searchtype=title
+Physics,Exoplanet Discoveries with Kepler,https://arxiv.org/search/?query=Exoplanet+Discoveries+with+Kepler&searchtype=title
+Physics,The TRAPPIST-1 Exoplanet System,https://arxiv.org/abs/1703.01424
+Physics,Biosignatures in Exoplanet Atmospheres,https://arxiv.org/search/?query=Biosignatures+Exoplanet+Atmospheres&searchtype=title
+Physics,Topological Insulators in 2D and 3D,https://arxiv.org/abs/1008.2026
+Physics,The Quantum Spin Hall Effect,https://arxiv.org/abs/cond-mat/0611341
+Physics,Fractional Quantum Hall Effect,https://arxiv.org/search/?query=Fractional+Quantum+Hall+Effect&searchtype=title
+Physics,Integer Quantum Hall Effect,https://arxiv.org/search/?query=Integer+Quantum+Hall+Effect&searchtype=title
+Physics,Graphene and its Electronic Properties,https://arxiv.org/abs/0902.3208
+Physics,Magic-Angle Twisted Bilayer Graphene,https://arxiv.org/abs/1803.02342
+Physics,Superconductivity in Twisted Bilayer Graphene,https://arxiv.org/abs/1803.02342
+Physics,High-Temperature Superconductivity in Cuprates,https://arxiv.org/search/?query=High-Temperature+Superconductivity+in+Cuprates&searchtype=title
+Physics,Iron-Based Superconductors,https://arxiv.org/abs/0804.4815
+Physics,BCS Theory of Superconductivity,https://arxiv.org/search/?query=BCS+Theory+of+Superconductivity&searchtype=title
+Physics,Majorana Fermions in Condensed Matter Physics,https://arxiv.org/abs/1206.1736
+Physics,Topological Quantum Computation,https://arxiv.org/abs/quant-ph/0205206
+Physics,Anyons in Fractional Quantum Hall States,https://arxiv.org/search/?query=Anyons+Fractional+Quantum+Hall+States&searchtype=title
+Physics,Weyl Semimetals,https://arxiv.org/abs/1502.04684
+Physics,Dirac Semimetals,https://arxiv.org/search/?query=Dirac+Semimetals&searchtype=title
+Physics,Quantum Spin Liquids,https://arxiv.org/abs/cond-mat/0612446
+Physics,The Kitaev Honeycomb Model,https://arxiv.org/abs/cond-mat/0506438
+Physics,Quantum Entanglement and Bell Inequalities,https://arxiv.org/abs/quant-ph/0402001
+Physics,Quantum Teleportation Experiments,https://arxiv.org/abs/quant-ph/9702052
+Physics,Quantum Key Distribution Algorithms,https://arxiv.org/search/?query=Quantum+Key+Distribution+Algorithms&searchtype=title
+Physics,Peter Shor's Factoring Algorithm,https://arxiv.org/abs/quant-ph/9508027
+Physics,Lov Grover's Search Algorithm,https://arxiv.org/abs/quant-ph/9605043
+Physics,Quantum Supremacy on a Programmable Processor,https://arxiv.org/abs/1910.11333
+Physics,Surface Codes for Quantum Error Correction,https://arxiv.org/abs/1208.0928
+Physics,Fault-Tolerant Quantum Computation,https://arxiv.org/search/?query=Fault-Tolerant+Quantum+Computation&searchtype=title
+Physics,Variational Quantum Eigensolver,https://arxiv.org/abs/1304.3061
+Physics,Quantum Approximate Optimization Algorithm,https://arxiv.org/abs/1411.4028
+Physics,Boson Sampling with Linear Optics,https://arxiv.org/abs/1011.3245
+Physics,Time Crystals in Quantum Systems,https://arxiv.org/abs/1610.08057
+Physics,Many-Body Localization,https://arxiv.org/abs/1404.0686
+Physics,The Eigenstate Thermalization Hypothesis,https://arxiv.org/abs/cond-mat/9403051
+Physics,Quantum Chaos and OTOCs,https://arxiv.org/abs/1503.01409
+Physics,The Sachdev-Ye-Kitaev Model,https://arxiv.org/abs/1604.07818
+Physics,Fluid-Gravity Correspondence,https://arxiv.org/abs/0712.2456
+Physics,Viscosity Bound in String Theory,https://arxiv.org/abs/hep-th/0405231
+Physics,Quark-Gluon Plasma and the RHIC Results,https://arxiv.org/search/?query=Quark-Gluon+Plasma+RHIC&searchtype=title
+Physics,CERN LHC Results on Quark-Gluon Plasma,https://arxiv.org/search/?query=CERN+LHC+Quark-Gluon+Plasma&searchtype=title
+Physics,Lattice QCD Calculations of the Hadron Spectrum,https://arxiv.org/search/?query=Lattice+QCD+Hadron+Spectrum&searchtype=title
+Physics,Chiral Perturbation Theory,https://arxiv.org/search/?query=Chiral+Perturbation+Theory&searchtype=title
+Physics,The Parton Model and Deep Inelastic Scattering,https://arxiv.org/search/?query=Parton+Model+Deep+Inelastic+Scattering&searchtype=title
+Physics,Asymptotic Freedom in QCD,https://arxiv.org/search/?query=Asymptotic+Freedom+in+QCD&searchtype=title
+Physics,Quantum Electrodynamics Renormalization,https://arxiv.org/search/?query=Quantum+Electrodynamics+Renormalization&searchtype=title
+Physics,The Casimir Effect,https://arxiv.org/search/?query=Casimir+Effect&searchtype=title
+Physics,Anderson Localization,https://arxiv.org/search/?query=Anderson+Localization&searchtype=title
+Physics,The Quantum Hall Effect,https://arxiv.org/search/?query=Quantum+Hall+Effect&searchtype=title
+Physics,Bose-Einstein Condensation in Dilute Gases,https://arxiv.org/abs/cond-mat/9612053
+Physics,Feshbach Resonances in Ultracold Gases,https://arxiv.org/search/?query=Feshbach+Resonances+Ultracold+Gases&searchtype=title
+Physics,Optical Lattices and Quantum Simulation,https://arxiv.org/search/?query=Optical+Lattices+Quantum+Simulation&searchtype=title
+Physics,Rydberg Atoms for Quantum Information,https://arxiv.org/search/?query=Rydberg+Atoms+Quantum+Information&searchtype=title
+Physics,Cavity Quantum Electrodynamics,https://arxiv.org/search/?query=Cavity+Quantum+Electrodynamics&searchtype=title
+Physics,Circuit Quantum Electrodynamics,https://arxiv.org/search/?query=Circuit+Quantum+Electrodynamics&searchtype=title
+Physics,The Transmon Qubit,https://arxiv.org/search/?query=The+Transmon+Qubit&searchtype=title
+Physics,Flux Qubits,https://arxiv.org/search/?query=Flux+Qubits&searchtype=title
+Physics,Phase Qubits,https://arxiv.org/search/?query=Phase+Qubits&searchtype=title
+Physics,Topological Qubits,https://arxiv.org/search/?query=Topological+Qubits&searchtype=title
+Bio,CRISPR-Cas9 gene editing technology,https://arxiv.org/search/?query=CRISPR-Cas9+gene+editing&searchtype=title
+Bio,Base editing: precision genetic alterations,https://arxiv.org/search/?query=Base+editing+precision+genetic&searchtype=title
+Bio,Prime editing: search and replace DNA,https://arxiv.org/search/?query=Prime+editing+DNA&searchtype=title
+Bio,AlphaFold: High accuracy protein structure prediction,https://arxiv.org/abs/2107.03374
+Bio,RoseTTAFold for protein interaction,https://arxiv.org/abs/2107.05047
+Bio,Single-cell RNA sequencing methodology,https://arxiv.org/search/?query=Single-cell+RNA+sequencing+methodology&searchtype=title
+Bio,Spatial transcriptomics techniques,https://arxiv.org/search/?query=Spatial+transcriptomics&searchtype=title
+Bio,Deep learning for predicting protein-protein interactions,https://arxiv.org/abs/2111.02815
+Bio,Machine learning in precision medicine,https://arxiv.org/search/?query=Machine+learning+in+precision+medicine&searchtype=title
+Bio,DeepBind: Predicting sequence specificities,https://arxiv.org/abs/1508.01259
+Bio,DeepSEA: Noncoding variants with deep learning,https://arxiv.org/abs/1508.01259
+Bio,Antibiotic discovery using deep learning,https://arxiv.org/search/?query=Antibiotic+discovery+using+deep+learning&searchtype=title
+Bio,ESMFold: Evolutionary Scale Modeling,https://arxiv.org/abs/2207.14255
+Bio,DeepVariant for highly accurate genome sequencing,https://arxiv.org/search/?query=DeepVariant+Highly+accurate+genome+sequencing&searchtype=title
+Bio,AlphaMissense for variant effects,https://arxiv.org/search/?query=AlphaMissense&searchtype=title
+Bio,Language models for biological sequence,https://arxiv.org/abs/2103.00020
+Bio,Decoding motor cortex signals with RNNs,https://arxiv.org/abs/1602.04938
+Bio,Molecular geometry prediction using graph neural nets,https://arxiv.org/abs/1806.07366
+Bio,AlphaFold3: Interactions of protein RNA DNA,https://arxiv.org/search/?query=AlphaFold3&searchtype=title
+Bio,Unsupervised learning of evolutionary landscapes,https://arxiv.org/abs/2101.08331
+Bio,Unified language models for biological sequences,https://arxiv.org/search/?query=Unified+language+models+biological+sequences&searchtype=title
+Bio,Semantic reconstruction of continuous language,https://arxiv.org/search/?query=Semantic+reconstruction+continuous+language&searchtype=title
+Bio,scVI: Deep generative modeling for transcriptomics,https://arxiv.org/abs/1709.02082
+Bio,Predicting the effects of missense variants,https://arxiv.org/abs/2309.03577
+Bio,Predicting off-target effects of CRISPR via deep learning,https://arxiv.org/abs/1806.00224
+Bio,Federated learning for healthcare data,https://arxiv.org/abs/2108.08398
+Bio,BioBERT: a pre-trained biomedical language representation,https://arxiv.org/abs/1901.08746
+Bio,PubMedBERT: Domain-Specific Language Model Pretraining,https://arxiv.org/abs/2007.15779
+Bio,Unified approach for single-cell spatial transcriptomics,https://arxiv.org/search/?query=Unified+approach+for+single-cell+spatial+transcriptomics&searchtype=title
+Bio,Decoding Neural Networks for Brain-Computer Interfaces,https://arxiv.org/search/?query=Decoding+Neural+Networks+for+Brain-Computer+Interfaces&searchtype=title
+Bio,High-throughput functional genomics via machine learning,https://arxiv.org/search/?query=High-throughput+functional+genomics+via+machine+learning&searchtype=title
+Bio,Deep learning on human genetic variation,https://arxiv.org/search/?query=Deep+learning+on+human+genetic+variation&searchtype=title
+Bio,Predicting long non-coding RNA functions,https://arxiv.org/search/?query=Predicting+long+non-coding+RNA+functions&searchtype=title
+Bio,Structural biology in the era of AlphaFold,https://arxiv.org/search/?query=Structural+biology+in+the+era+of+AlphaFold&searchtype=title
+Bio,Generative models for DNA sequences,https://arxiv.org/search/?query=Generative+models+for+DNA+sequences&searchtype=title
+Bio,Deciphering the regulatory code of the human genome,https://arxiv.org/search/?query=Deciphering+the+regulatory+code+of+the+human+genome&searchtype=title
+Bio,Machine learning of cellular responses to perturbations,https://arxiv.org/search/?query=Machine+learning+of+cellular+responses+to+perturbations&searchtype=title
+Bio,Integrative modeling of macromolecular assemblies,https://arxiv.org/search/?query=Integrative+modeling+of+macromolecular+assemblies&searchtype=title
+Bio,Deep learning for highly multiplexed tissue imaging,https://arxiv.org/search/?query=Deep+learning+for+highly+multiplexed+tissue+imaging&searchtype=title
+Bio,Computational systems biology of cancer,https://arxiv.org/search/?query=Computational+systems+biology+of+cancer&searchtype=title
+Bio,Deep learning approaches to genome editing optimization,https://arxiv.org/search/?query=Deep+learning+approaches+to+genome+editing+optimization&searchtype=title
+Bio,Predicting protein structures from multiple sequence alignments,https://arxiv.org/search/?query=Predicting+protein+structures+from+multiple+sequence+alignments&searchtype=title
+Bio,Machine learning for single-cell epigenomics,https://arxiv.org/search/?query=Machine+learning+for+single-cell+epigenomics&searchtype=title
+Bio,Modeling RNA structure with deep learning,https://arxiv.org/search/?query=Modeling+RNA+structure+with+deep+learning&searchtype=title
+Bio,Deep generative design of antibodies,https://arxiv.org/search/?query=Deep+generative+design+of+antibodies&searchtype=title
+Bio,AI in computational pathology,https://arxiv.org/search/?query=AI+in+computational+pathology&searchtype=title
+Bio,Machine learning for infectious disease outbreaks,https://arxiv.org/search/?query=Machine+learning+for+infectious+disease+outbreaks&searchtype=title
+Bio,Deep learning of protein conformational ensembles,https://arxiv.org/search/?query=Deep+learning+of+protein+conformational+ensembles&searchtype=title
+Bio,Language models for regulatory genomics,https://arxiv.org/search/?query=Language+models+for+regulatory+genomics&searchtype=title
+Bio,Automated analysis of biological pathways using AI,https://arxiv.org/search/?query=Automated+analysis+of+biological+pathways+using+AI&searchtype=title
+Bio,AI-driven optimization of synthetic biological circuits,https://arxiv.org/search/?query=AI-driven+optimization+of+synthetic+biological+circuits&searchtype=title
+Bio,Machine learning for multi-omics biomarker discovery,https://arxiv.org/search/?query=Machine+learning+for+multi-omics+biomarker+discovery&searchtype=title
+Bio,Predicting drug toxicity via deep learning,https://arxiv.org/search/?query=Predicting+drug+toxicity+via+deep+learning&searchtype=title
+Bio,Graph neural networks for modeling biological networks,https://arxiv.org/search/?query=Graph+neural+networks+for+modeling+biological+networks&searchtype=title
+Bio,Deep learning for quantitative phenotype prediction,https://arxiv.org/search/?query=Deep+learning+for+quantitative+phenotype+prediction&searchtype=title
+Bio,AI for the analysis of spatial transcriptomics,https://arxiv.org/search/?query=AI+for+the+analysis+of+spatial+transcriptomics&searchtype=title
+Bio,Deep learning models of cellular differentiation,https://arxiv.org/search/?query=Deep+learning+models+of+cellular+differentiation&searchtype=title
+Bio,Machine learning in microbiome data analysis,https://arxiv.org/search/?query=Machine+learning+in+microbiome+data+analysis&searchtype=title
+Bio,Deep learning for predicting protein-ligand interactions,https://arxiv.org/search/?query=Deep+learning+for+predicting+protein-ligand+interactions&searchtype=title
+Bio,Generative AI for small molecule drug discovery,https://arxiv.org/search/?query=Generative+AI+for+small+molecule+drug+discovery&searchtype=title
+Bio,AI-assisted proteomics data interpretation,https://arxiv.org/search/?query=AI-assisted+proteomics+data+interpretation&searchtype=title
+Bio,Machine learning for detecting actionable mutations,https://arxiv.org/search/?query=Machine+learning+for+detecting+actionable+mutations&searchtype=title
+Bio,Deep learning of chromatin accessibility,https://arxiv.org/search/?query=Deep+learning+of+chromatin+accessibility&searchtype=title
+Bio,Predicting transcription factor binding sites via CNNs,https://arxiv.org/search/?query=Predicting+transcription+factor+binding+sites+via+CNNs&searchtype=title
+Bio,Deep learning for interpreting untargeted metabolomics,https://arxiv.org/search/?query=Deep+learning+for+interpreting+untargeted+metabolomics&searchtype=title
+Bio,AI models for personalized medicine,https://arxiv.org/search/?query=AI+models+for+personalized+medicine&searchtype=title
+Bio,Translating sequences into protein structures,https://arxiv.org/search/?query=Translating+sequences+into+protein+structures&searchtype=title
+Bio,Generative modeling of biological sequence space,https://arxiv.org/search/?query=Generative+modeling+of+biological+sequence+space&searchtype=title
+Bio,Self-assembling protein nanomaterials via computational design,https://arxiv.org/search/?query=Self-assembling+protein+nanomaterials+via+computational+design&searchtype=title
+Bio,Deep learning architectures for bioinformatics,https://arxiv.org/search/?query=Deep+learning+architectures+for+bioinformatics&searchtype=title
+Bio,Reinforcement learning for protein folding,https://arxiv.org/search/?query=Reinforcement+learning+for+protein+folding&searchtype=title
+Bio,Machine learning predicts drug resistance,https://arxiv.org/search/?query=Machine+learning+predicts+drug+resistance&searchtype=title
+Bio,Deep sequence models for protein family expansion,https://arxiv.org/search/?query=Deep+sequence+models+for+protein+family+expansion&searchtype=title
+Bio,Transformers in computational biology,https://arxiv.org/search/?query=Transformers+in+computational+biology&searchtype=title
+Bio,Language-model based prediction of mutation effects,https://arxiv.org/search/?query=Language-model+based+prediction+of+mutation+effects&searchtype=title
+Bio,End-to-end biological structure prediction with AI,https://arxiv.org/search/?query=End-to-end+biological+structure+prediction+con+AI&searchtype=title
+Bio,Deep learning for systems pharmacology,https://arxiv.org/search/?query=Deep+learning+for+systems+pharmacology&searchtype=title
+Bio,Generative models of complex biomolecular machines,https://arxiv.org/search/?query=Generative+models+of+complex+biomolecular+machines&searchtype=title
+Bio,Deep learning directed evolution of enzymes,https://arxiv.org/search/?query=Deep+learning+directed+evolution+of+enzymes&searchtype=title
+Bio,Artificial intelligence enables structural mapping of the human proteome,https://arxiv.org/search/?query=Artificial+intelligence+enables+structural+mapping+of+the+human+proteome&searchtype=title
+Bio,Deep models unlock evolutionary conservation,https://arxiv.org/search/?query=Deep+models+unlock+evolutionary+conservation&searchtype=title
+Bio,Predicting 3D genome organization with AI,https://arxiv.org/search/?query=Predicting+3D+genome+organization+with+AI&searchtype=title
+Bio,Interpretable deep learning in biosciences,https://arxiv.org/search/?query=Interpretable+deep+learning+in+biosciences&searchtype=title
+Bio,Predicting post-translational modifications,https://arxiv.org/search/?query=Predicting+post-translational+modifications&searchtype=title
+Bio,Machine learning analysis of microbiome interactions,https://arxiv.org/search/?query=Machine+learning+analysis+of+microbiome+interactions&searchtype=title
+Bio,Sequence-based prediction of protein aggregation,https://arxiv.org/search/?query=Sequence-based+prediction+of+protein+aggregation&searchtype=title
+Bio,AI for automated experimental biology,https://arxiv.org/search/?query=AI+for+automated+experimental+biology&searchtype=title
+Bio,AI synthesis of biomedical research hypotheses,https://arxiv.org/search/?query=AI+synthesis+of+biomedical+research+hypotheses&searchtype=title
+Bio,Deep learning of RNA-protein interactions,https://arxiv.org/search/?query=Deep+learning+of+RNA-protein+interactions&searchtype=title
+Bio,Network analysis of disease modules with graph models,https://arxiv.org/search/?query=Network+analysis+of+disease+modules+with+graph+models&searchtype=title
+Bio,AI-driven systems medicine,https://arxiv.org/search/?query=AI-driven+systems+medicine&searchtype=title
+Bio,Deep models of epigenetic regulation,https://arxiv.org/search/?query=Deep+models+of+epigenetic+regulation&searchtype=title
+Bio,Automated extraction of chemical-protein relations,https://arxiv.org/search/?query=Automated+extraction+of+chemical-protein+relations&searchtype=title
+Bio,Transformers for extracting genomic relations,https://arxiv.org/search/?query=Transformers+for+extracting+genomic+relations&searchtype=title
+Bio,Knowledge graphs for multi-target drug discovery,https://arxiv.org/search/?query=Knowledge+graphs+for+multi-target+drug+discovery&searchtype=title
+Bio,Predicting off-target interactions of new therapeutics,https://arxiv.org/search/?query=Predicting+off-target+interactions+of+new+therapeutics&searchtype=title
+Bio,Deep learning decodes the biology of aging,https://arxiv.org/search/?query=Deep+learning+decodes+the+biology+of+aging&searchtype=title
+Bio,AI models of neurodegeneration,https://arxiv.org/search/?query=AI+models+of+neurodegeneration&searchtype=title
+Bio,Generative models for novel protein design,https://arxiv.org/search/?query=Generative+models+for+novel+protein+design&searchtype=title
+Bio,Self-supervised learning on genomic sequencing data,https://arxiv.org/search/?query=Self-supervised+learning+on+genomic+sequencing+data&searchtype=title
+Bio,AI characterizes unannotated protein structures,https://arxiv.org/search/?query=AI+characterizes+unannotated+protein+structures&searchtype=title
+Bio,Deep learning reveals complex trait heritability,https://arxiv.org/search/?query=Deep+learning+reveals+complex+trait+heritability&searchtype=title
+Bio,Machine learning of cellular signal transduction,https://arxiv.org/search/?query=Machine+learning+of+cellular+signal+transduction&searchtype=title
+Bio,Integrative AI modeling of human physiology,https://arxiv.org/search/?query=Integrative+AI+modeling+of+human+physiology&searchtype=title
+Bio,Spatial genomics analysis via deep learning architectures,https://arxiv.org/search/?query=Spatial+genomics+analysis+via+deep+learning+architectures&searchtype=title
+Bio,AI identifies rare disease causal variants,https://arxiv.org/search/?query=AI+identifies+rare+disease+causal+variants&searchtype=title
+Physics,Kibble-Zurek Mechanism Theory,https://arxiv.org/search/?query=Kibble-Zurek+Mechanism+Theory&searchtype=title
+Physics,Shor's Algorithm Experimental Verifications,https://arxiv.org/search/?query=Shor+Algorithm+Experimental+Verifications&searchtype=title
+Physics,Topological Orders and Edge Excitations formulation,https://arxiv.org/search/?query=Topological+Orders+and+Edge+Excitations+formulation&searchtype=title
+Bio,Deep learning approaches to predicting enhancer-promoter interactions,https://arxiv.org/search/?query=Deep+learning+approaches+predicting+enhancer-promoter&searchtype=title
+Bio,Generative models for DNA sequence design with neural networks,https://arxiv.org/search/?query=Generative+models+for+DNA+sequence+design+neural+networks&searchtype=title
+Bio,Predictable genome engineering and structural manipulation using CRISPR,https://arxiv.org/search/?query=Predictable+genome+engineering+structural+manipulation+CRISPR&searchtype=title
+CS,Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context architectures,https://arxiv.org/abs/1901.02860
+CS,Sparse Transformers for Long Contexts,https://arxiv.org/search/?query=Sparse+Transformers+for+Long+Contexts&searchtype=title
+CS,Reformer: The Efficient Transformer architecture,https://arxiv.org/abs/2001.04451
+CS,Longformer: The Long-Document Transformer mechanism,https://arxiv.org/abs/2004.05150
+CS,Linformer: Self-Attention with Linear Complexity scaling,https://arxiv.org/abs/2006.04768
+CS,Perceiver: General Perception with Iterative Attention methodology,https://arxiv.org/abs/2103.03206
+CS,Perceiver IO: A General Architecture for Structured Inputs and Outputs,https://arxiv.org/abs/2107.14795
+CS,A ConvNet for the 2020s paradigm,https://arxiv.org/abs/2201.03545
+CS,MLP-Mixer: An all-MLP Architecture for Vision recognition,https://arxiv.org/abs/2105.01601
+CS,Masked Autoencoders Are Scalable Vision Learners approach,https://arxiv.org/abs/2111.06377
+CS,MoCo: Momentum Contrast for Unsupervised Visual Representation Learning system,https://arxiv.org/abs/1911.05722
+CS,SimCLR: A Simple Framework for Contrastive Learning of Visual Representations analysis,https://arxiv.org/abs/2002.05709
+CS,BYOL: Bootstrap Your Own Latent A New Approach to Self-Supervised Learning method,https://arxiv.org/abs/2006.07733
+Math,Grothendieck's resolution of singularities,https://arxiv.org/search/?query=Grothendieck+resolution+of+singularities&searchtype=title
+Math,Fermat's little theorem generalisations,https://arxiv.org/search/?query=Fermat+little+theorem+generalisations&searchtype=title
+Math,Ramanujan's master theorem,https://arxiv.org/search/?query=Ramanujan+master+theorem&searchtype=title
+Math,Euler's formula for complex analysis,https://arxiv.org/search/?query=Euler+formula+for+complex+analysis&searchtype=title
+Math,Cantor's diagonal argument,https://arxiv.org/search/?query=Cantor+diagonal+argument&searchtype=title
+Math,Godel's incompleteness theorems derivations,https://arxiv.org/search/?query=Godel+incompleteness&searchtype=title
+Math,Cohen's forcing in set theory,https://arxiv.org/search/?query=Cohen+forcing+in+set+theory&searchtype=title
+Math,Zermelo-Fraenkel set theory axioms,https://arxiv.org/search/?query=Zermelo-Fraenkel+set+theory+axioms&searchtype=title
+Bio,Transcriptional regulation mechanisms in eukaryotic cells,https://arxiv.org/search/?query=Transcriptional+regulation+mechanisms+in+eukaryotic+cells&searchtype=title
+Bio,Epigenetic inheritance and chromatin mechanisms,https://arxiv.org/search/?query=Epigenetic+inheritance+and+chromatin+mechanisms&searchtype=title
+Bio,Non-coding RNAs and their roles in gene regulation,https://arxiv.org/search/?query=Non-coding+RNAs+roles+gene+regulation&searchtype=title
+Bio,Telomeres and telomerase in aging and cancer,https://arxiv.org/search/?query=Telomeres+and+telomerase+aging+cancer&searchtype=title
+Bio,Apoptosis mechanisms and pathways,https://arxiv.org/search/?query=Apoptosis+mechanisms+and+pathways&searchtype=title
+Bio,Autophagy regulation and its significance,https://arxiv.org/search/?query=Autophagy+regulation+and+its+significance&searchtype=title
+Bio,Cell cycle regulation and checkpoints,https://arxiv.org/search/?query=Cell+cycle+regulation+checkpoints&searchtype=title
+Bio,Signal transduction pathways in cellular communication,https://arxiv.org/search/?query=Signal+transduction+pathways+cellular+communication&searchtype=title
+Bio,Mechanisms of membrane transport,https://arxiv.org/search/?query=Mechanisms+membrane+transport&searchtype=title
+Bio,ATP generation and mitochondrial function,https://arxiv.org/search/?query=ATP+generation+mitochondrial+function&searchtype=title
+Bio,Photosynthesis mechanisms and light reactions,https://arxiv.org/search/?query=Photosynthesis+mechanisms+light+reactions&searchtype=title
+Bio,Nitrogen fixation pathways in bacteria,https://arxiv.org/search/?query=Nitrogen+fixation+pathways+in+bacteria&searchtype=title
+Bio,Mechanisms of DNA replication and repair,https://arxiv.org/search/?query=Mechanisms+DNA+replication+repair&searchtype=title
+Bio,Homologous recombination in meiosis,https://arxiv.org/search/?query=Homologous+recombination+meiosis&searchtype=title
+Bio,V(D)J recombination in the immune system,https://arxiv.org/search/?query=VDJ+recombination+immune+system&searchtype=title
+Bio,Major histocompatibility complex (MHC) mechanisms,https://arxiv.org/search/?query=Major+histocompatibility+complex+mechanisms&searchtype=title
+Bio,T-cell receptor signaling pathways,https://arxiv.org/search/?query=T-cell+receptor+signaling+pathways&searchtype=title
+Bio,B-cell activation and antibody production,https://arxiv.org/search/?query=B-cell+activation+antibody+production&searchtype=title
+Bio,Innate immune responses and toll-like receptors,https://arxiv.org/search/?query=Innate+immune+responses+toll-like+receptors&searchtype=title
+Bio,Complement system activation pathways,https://arxiv.org/search/?query=Complement+system+activation+pathways&searchtype=title
+Bio,Mechanisms of viral entry and replication,https://arxiv.org/search/?query=Mechanisms+viral+entry+replication&searchtype=title
+Bio,Pathogenesis of bacterial infections,https://arxiv.org/search/?query=Pathogenesis+bacterial+infections&searchtype=title
+Bio,Mechanisms of antibiotic resistance,https://arxiv.org/search/?query=Mechanisms+antibiotic+resistance&searchtype=title
+Bio,Quorum sensing in bacterial populations,https://arxiv.org/search/?query=Quorum+sensing+bacterial+populations&searchtype=title
+Bio,Biofilm formation and regulation,https://arxiv.org/search/?query=Biofilm+formation+regulation&searchtype=title
+Bio,Mechanisms of fungal pathogenesis,https://arxiv.org/search/?query=Mechanisms+fungal+pathogenesis&searchtype=title
+Bio,Host-pathogen interactions and defense mechanisms,https://arxiv.org/search/?query=Host-pathogen+interactions+defense+mechanisms&searchtype=title
+Bio,Mechanisms of neurogenesis and development,https://arxiv.org/search/?query=Mechanisms+neurogenesis+development&searchtype=title
+Bio,Synaptic transmission and plasticity,https://arxiv.org/search/?query=Synaptic+transmission+plasticity&searchtype=title
+Bio,Long-term potentiation and memory formation,https://arxiv.org/search/?query=Long-term+potentiation+memory+formation&searchtype=title
+Bio,Mechanisms of sensory transduction,https://arxiv.org/search/?query=Mechanisms+sensory+transduction&searchtype=title
+Bio,Motor control pathways in the central nervous system,https://arxiv.org/search/?query=Motor+control+pathways+central+nervous+system&searchtype=title
+Bio,Autonomic nervous system regulation,https://arxiv.org/search/?query=Autonomic+nervous+system+regulation&searchtype=title
+Bio,Neuroendocrine regulation and hormone action,https://arxiv.org/search/?query=Neuroendocrine+regulation+hormone+action&searchtype=title
+Bio,Mechanisms of circadian rhythms and sleep,https://arxiv.org/search/?query=Mechanisms+circadian+rhythms+sleep&searchtype=title
+Bio,Pathophysiology of neurodegenerative diseases,https://arxiv.org/search/?query=Pathophysiology+neurodegenerative+diseases&searchtype=title
+Bio,Mechanisms of psychiatric disorders,https://arxiv.org/search/?query=Mechanisms+psychiatric+disorders&searchtype=title
+Bio,Cardiovascular system regulation and function,https://arxiv.org/search/?query=Cardiovascular+system+regulation+function&searchtype=title
+Bio,Respiratory mechanics and gas exchange,https://arxiv.org/search/?query=Respiratory+mechanics+gas+exchange&searchtype=title
+Bio,Renal physiology and fluid balance,https://arxiv.org/search/?query=Renal+physiology+fluid+balance&searchtype=title
+Bio,Gastrointestinal motility and digestion,https://arxiv.org/search/?query=Gastrointestinal+motility+digestion&searchtype=title
+Bio,Endocrine system and metabolic regulation,https://arxiv.org/search/?query=Endocrine+system+metabolic+regulation&searchtype=title
+Bio,Reproductive system physiology and endocrinology,https://arxiv.org/search/?query=Reproductive+system+physiology+endocrinology&searchtype=title
+Bio,Mechanisms of muscle contraction,https://arxiv.org/search/?query=Mechanisms+muscle+contraction&searchtype=title
+Bio,Bone remodeling and calcium homeostasis,https://arxiv.org/search/?query=Bone+remodeling+calcium+homeostasis&searchtype=title
+Bio,Immune system aging and immunosenescence,https://arxiv.org/search/?query=Immune+system+aging+immunosenescence&searchtype=title
+Bio,Cellular mechanisms of aging,https://arxiv.org/search/?query=Cellular+mechanisms+aging&searchtype=title
+Bio,Mechanisms of tumor angiogenesis,https://arxiv.org/search/?query=Mechanisms+tumor+angiogenesis&searchtype=title
+Bio,Metastasis pathways in cancer,https://arxiv.org/search/?query=Metastasis+pathways+cancer&searchtype=title
